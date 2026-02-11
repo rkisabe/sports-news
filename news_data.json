@@ -1,0 +1,72 @@
+{
+  "npb": [
+    {
+      "team": "読売ジャイアンツ",
+      "title": "2025シーズン開幕戦のお知らせ",
+      "link": "https://www.giants.jp/",
+      "published": "2026-02-11",
+      "summary": "今シーズンの開幕戦について詳細をお知らせします。"
+    },
+    {
+      "team": "阪神タイガース",
+      "title": "新加入選手記者会見を実施",
+      "link": "https://hanshintigers.jp/",
+      "published": "2026-02-11",
+      "summary": "新加入選手の記者会見を行いました。"
+    },
+    {
+      "team": "広島カープ",
+      "title": "ファン感謝デー開催のご案内",
+      "link": "https://www.carp.co.jp/",
+      "published": "2026-02-10",
+      "summary": "今年もファン感謝デーを開催いたします。"
+    }
+  ],
+  "jleague": [
+    {
+      "team": "浦和レッズ",
+      "title": "J1リーグ第1節試合情報",
+      "link": "https://www.urawa-reds.co.jp/",
+      "published": "2026-02-11",
+      "summary": "リーグ開幕戦の試合情報をお知らせします。"
+    },
+    {
+      "team": "川崎フロンターレ",
+      "title": "新体制発表会を開催",
+      "link": "https://www.frontale.co.jp/",
+      "published": "2026-02-11",
+      "summary": "2026シーズンの新体制を発表しました。"
+    },
+    {
+      "team": "ガンバ大阪",
+      "title": "練習試合の結果報告",
+      "link": "https://www.gamba-osaka.net/",
+      "published": "2026-02-10",
+      "summary": "シーズン前の練習試合の結果をお知らせします。"
+    }
+  ],
+  "bleague": [
+    {
+      "team": "千葉ジェッツ",
+      "title": "ホームゲーム開催のお知らせ",
+      "link": "https://chibajets.jp/",
+      "published": "2026-02-11",
+      "summary": "今週末のホームゲーム情報です。"
+    },
+    {
+      "team": "宇都宮ブレックス",
+      "title": "選手インタビュー公開",
+      "link": "https://www.brex.jp/",
+      "published": "2026-02-11",
+      "summary": "主力選手のインタビューを公開しました。"
+    },
+    {
+      "team": "アルバルク東京",
+      "title": "チケット販売開始",
+      "link": "https://www.alvark-tokyo.jp/",
+      "published": "2026-02-10",
+      "summary": "次節のチケット販売を開始しました。"
+    }
+  ],
+  "updated_at": "2026-02-11T12:00:00+09:00"
+}
