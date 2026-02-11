@@ -30,7 +30,7 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW再掲【Swallows CREW会員限定】オープン戦招待券の申し込みについてCREW2026.2.10",
+      "title": "再掲【Swallows CREW会員限定】オープン戦招待券の申し込みについてCREW2026.2.10",
       "link": "https://www.yakult-swallows.co.jp/news/detail/31861",
       "published": "2026.2.10",
       "summary": ""
@@ -123,6 +123,13 @@
     },
     {
       "team": "FC東京",
+      "title": "2/21(土)川崎戦(アウェイ)『多摩川クラシコ 百年構想リーグ編』開催！",
+      "link": "https://www.fctokyo.co.jp/news/details/330975/",
+      "published": "Wed, 11 Feb 2026 19:00:00 +0000",
+      "summary": "<p><img alt=\"\" class=\"alignnone wp-image-330976\" height=\"290\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/02/画像3-300x164.jpg?x23025\" width=\"530\" /></p><p>2月21日(土)に開催される明治安田Ｊ１百年構想リーグ第3"
+    },
+    {
+      "team": "FC東京",
       "title": "【普及部コーチ】2026シーズン新加入コーチ紹介 ／ 石川令コーチ",
       "link": "https://www.fctokyo.co.jp/school/report/330560/",
       "published": "Wed, 11 Feb 2026 18:00:00 +0000",
@@ -148,13 +155,6 @@
       "link": "https://www.fctokyo.co.jp/news/details/330993/",
       "published": "Tue, 10 Feb 2026 10:00:28 +0000",
       "summary": "<p>2024シーズンより実施していたFC東京ホームゲーム試合会場内で聴取できる<a href=\"https://www.fctokyo.co.jp/news/details/315518/\">DAZN音声実況配信サービス</a>の実施を、利用状況を踏まえて今シーズンより見送ることとなりました。</p><p>これまでご利用いただいていたみなさま、ありがとうございました。<br /><span>なお"
-    },
-    {
-      "team": "FC東京",
-      "title": "2/15(日)イオン東久留米店にて『FC TOKYO PALE ALE』試飲会イベント開催！",
-      "link": "https://www.fctokyo.co.jp/news/details/330948/",
-      "published": "Tue, 10 Feb 2026 18:00:00 +0000",
-      "summary": "<p>2月15日(日)にイオン東久留米店にて『FC TOKYO PALE ALE』缶の発売を記念して、試飲会イベントの開催が決定しました！</p><p>当日は『FC TOKYO PALE ALE』の試飲をはじめ、『FC TOKYO PALE ALE』缶を購入した方へのオリジナルステッカーのプレゼントや、東京ドロンパが出没します。</p><p>浦和戦の翌日は、ぜひイオン東久留米店へお越しください！<"
     },
     {
       "team": "ガンバ大阪",
@@ -328,8 +328,8 @@
     },
     {
       "team": "琉球ゴールデンキングス",
-      "title": "NEWYOUTH TEAMキングスU18「インフロニア B.LEAGUE U18 ELITE LEAGUE 2025」大会結果のご報告2026-02-09",
-      "link": "https://goldenkings.jp/news/detail/id=22711",
+      "title": "NEWGAME【結果】ゲームレポート [2/11(水) EASL vsメラルコ・ボルツ戦］2026-02-11",
+      "link": "https://goldenkings.jp/news/detail/id=22712",
       "published": "2026-02-11",
       "summary": ""
     },
@@ -383,5 +383,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-02-11T10:00:16.437820"
+  "updated_at": "2026-02-11T14:16:51.115285"
 }
