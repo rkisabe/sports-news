@@ -2,71 +2,386 @@
   "npb": [
     {
       "team": "読売ジャイアンツ",
-      "title": "2025シーズン開幕戦のお知らせ",
-      "link": "https://www.giants.jp/",
+      "title": "2026.1.232026年東京ドーム巨人公式戦　入場券についてチケット",
+      "link": "https://www.giants.jp/news/28352/",
       "published": "2026-02-11",
-      "summary": "今シーズンの開幕戦について詳細をお知らせします。"
+      "summary": ""
     },
     {
-      "team": "阪神タイガース",
-      "title": "新加入選手記者会見を実施",
-      "link": "https://hanshintigers.jp/",
-      "published": "2026-02-11",
-      "summary": "新加入選手の記者会見を行いました。"
+      "team": "横浜DeNA",
+      "title": "APP2026/2/9田代富雄コーチ・山下大輔氏が『星のパズルナイン’』に登場！レジェンドOBイベント第2弾「青の原点」開催！",
+      "link": "https://www.baystars.co.jp/news/2026/02/0209_05.php",
+      "published": "2026/2/9",
+      "summary": ""
     },
     {
-      "team": "広島カープ",
-      "title": "ファン感謝デー開催のご案内",
-      "link": "https://www.carp.co.jp/",
-      "published": "2026-02-10",
-      "summary": "今年もファン感謝デーを開催いたします。"
+      "team": "ヤクルト",
+      "title": "NEWOfficial Net Shopカスタマーセンターへの問い合わせについてグッズ2026.2.11",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/31931",
+      "published": "2026.2.11",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "NEW再掲【Swallows CREW会員限定】オープン戦招待券の申し込みについてCREW2026.2.10",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/31861",
+      "published": "2026.2.10",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "NEW【キャンプレポート】春季キャンプ第2クール4日目「投手陣は段階を踏んで良くなっている。役割はこれから見極めていく」（池山監督）チーム2026.2.10",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/31929",
+      "published": "2026.2.10",
+      "summary": ""
+    },
+    {
+      "team": "ソフトバンク",
+      "title": "球団2026/02/11 (水)NEW!福岡を拠点とするトップチーム講師が集結！「マルチスポーツ教室 in FUKUOKA」",
+      "link": "https://www.softbankhawks.co.jp/news/detail/202600938582.html",
+      "published": "2026/02/11 (水)NEW!",
+      "summary": ""
+    },
+    {
+      "team": "ソフトバンク",
+      "title": "球団2026/02/11 (水)NEW!福岡を拠点とするトップチーム講師が集結！「マルチスポーツ教室 in FUKUOKA」",
+      "link": "https://www.softbankhawks.co.jp/news/detail/202600938582.html",
+      "published": "2026/02/11 (水)NEW!",
+      "summary": ""
+    },
+    {
+      "team": "ロッテ",
+      "title": "イベント2026/02/11 (水)NEW!2026 OPENING SERIES MARINES NATION イベント情報",
+      "link": "https://www.marines.co.jp/news/detail/202600772647.html",
+      "published": "2026/02/11 (水)NEW!",
+      "summary": ""
+    },
+    {
+      "team": "ロッテ",
+      "title": "イベント2026/02/11 (水)NEW!2026 OPENING SERIES MARINES NATION イベント情報",
+      "link": "https://www.marines.co.jp/news/detail/202600772647.html",
+      "published": "2026/02/11 (水)NEW!",
+      "summary": ""
+    },
+    {
+      "team": "西武",
+      "title": "Elementor #87301",
+      "link": "https://www.seibulions.jp/elementor-87301",
+      "published": "Tue, 08 Nov 2022 15:27:00 +0000",
+      "summary": "吾輩は猫である。inumo&#160;"
+    },
+    {
+      "team": "楽天",
+      "title": "チーム・選手",
+      "link": "https://www.rakuteneagles.jp/team/",
+      "published": "2026-02-11",
+      "summary": ""
+    },
+    {
+      "team": "楽天",
+      "title": "イベント情報",
+      "link": "https://www.rakuteneagles.jp/event/",
+      "published": "2026-02-11",
+      "summary": ""
+    },
+    {
+      "team": "日本ハム",
+      "title": "チーム・選手",
+      "link": "https://www.fighters.co.jp/team/",
+      "published": "2026-02-11",
+      "summary": ""
+    },
+    {
+      "team": "オリックス",
+      "title": "BPB DX2026/02/10 (火)【BPB DX】動画『【ワンちゃんトーク】ペータとロイくん』公開！",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600698402.html",
+      "published": "2026/02/10 (火)",
+      "summary": ""
+    },
+    {
+      "team": "オリックス",
+      "title": "BPB DX2026/02/10 (火)【BPB DX】動画『【ワンちゃんトーク】ペータとロイくん』公開！",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600698402.html",
+      "published": "2026/02/10 (火)",
+      "summary": ""
     }
   ],
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "J1リーグ第1節試合情報",
-      "link": "https://www.urawa-reds.co.jp/",
-      "published": "2026-02-11",
-      "summary": "リーグ開幕戦の試合情報をお知らせします。"
+      "title": "2026.02.11クラブ2/14(土) vs FC東京 試合観戦ルールについて",
+      "link": "https://www.urawa-reds.co.jp/clubinfo/236984",
+      "published": "2026.02.11",
+      "summary": ""
     },
     {
-      "team": "川崎フロンターレ",
-      "title": "新体制発表会を開催",
-      "link": "https://www.frontale.co.jp/",
-      "published": "2026-02-11",
-      "summary": "2026シーズンの新体制を発表しました。"
+      "team": "浦和レッズ",
+      "title": "2026.02.11クラブ2/14(土) vs FC東京 試合観戦ルールについて",
+      "link": "https://www.urawa-reds.co.jp/clubinfo/236984",
+      "published": "2026.02.11",
+      "summary": ""
+    },
+    {
+      "team": "FC東京",
+      "title": "2/14(土)浦和戦『東京ドロンパ』出没情報！",
+      "link": "https://www.fctokyo.co.jp/news/details/330968/",
+      "published": "Wed, 11 Feb 2026 14:00:00 +0000",
+      "summary": "<p>2月14日(土) 明治安田Ｊ１百年構想リーグ 第2節 vs浦和レッズ (15:00キックオフ/味の素スタジアム)に東京ドロンパが下記のとおりあらわれます。<br />お楽しみに！</p><p><img alt=\"\" class=\"alignnone size-full wp-image-330397\" height=\"450\" src=\"https://assets.fctokyo.co.j"
+    },
+    {
+      "team": "FC東京",
+      "title": "2/14(土)浦和戦 東京ドロンパキッチン情報",
+      "link": "https://www.fctokyo.co.jp/news/details/330962/",
+      "published": "Wed, 11 Feb 2026 12:00:00 +0000",
+      "summary": "<p>2月14日(土) 明治安田Ｊ１百年構想リーグ 第2節 vs 浦和レッズ(15:00キックオフ/味の素スタジアム)の東京ドロンパキッチン情報をお知らせいたします。<br />この日は昨シーズンも販売したキム スンギュ選手コラボグルメ 『<a href=\"https://www.fctokyo.co.jp/news/details/318385/\" rel=\"noopener\" target=\""
+    },
+    {
+      "team": "FC東京",
+      "title": "スタジアム音声実況配信サービス(おもてなしガイド)終了のお知らせ",
+      "link": "https://www.fctokyo.co.jp/news/details/330993/",
+      "published": "Tue, 10 Feb 2026 10:00:28 +0000",
+      "summary": "<p>2024シーズンより実施していたFC東京ホームゲーム試合会場内で聴取できる<a href=\"https://www.fctokyo.co.jp/news/details/315518/\">DAZN音声実況配信サービス</a>の実施を、利用状況を踏まえて今シーズンより見送ることとなりました。</p><p>これまでご利用いただいていたみなさま、ありがとうございました。<br /><span>なお"
+    },
+    {
+      "team": "FC東京",
+      "title": "2/15(日)イオン東久留米店にて『FC TOKYO PALE ALE』試飲会イベント開催！",
+      "link": "https://www.fctokyo.co.jp/news/details/330948/",
+      "published": "Tue, 10 Feb 2026 18:00:00 +0000",
+      "summary": "<p>2月15日(日)にイオン東久留米店にて『FC TOKYO PALE ALE』缶の発売を記念して、試飲会イベントの開催が決定しました！</p><p>当日は『FC TOKYO PALE ALE』の試飲をはじめ、『FC TOKYO PALE ALE』缶を購入した方へのオリジナルステッカーのプレゼントや、東京ドロンパが出没します。</p><p>浦和戦の翌日は、ぜひイオン東久留米店へお越しください！<"
+    },
+    {
+      "team": "FC東京",
+      "title": "【普及部コーチ】2026シーズン新加入コーチ紹介 ／ 長澤颯太コーチ",
+      "link": "https://www.fctokyo.co.jp/school/report/330557/",
+      "published": "Tue, 10 Feb 2026 18:00:00 +0000",
+      "summary": "<p>FC東京サッカー・フットサルスクールでは、<br />2026年に新たにコーチ9名のコーチが加入いたしましたので、ご紹介いたします♪</p><p>ぜひスクールやイベントで会った際には、たくさん声をかけてください！</p><h2>4人目は・・・長澤颯太 コーチ</h2><p>&nbsp;</p><p><img alt=\"\" class=\"aligncenter  wp-image-330761"
     },
     {
       "team": "ガンバ大阪",
-      "title": "練習試合の結果報告",
-      "link": "https://www.gamba-osaka.net/",
-      "published": "2026-02-10",
-      "summary": "シーズン前の練習試合の結果をお知らせします。"
+      "title": "26.2.11［アカデミー］2026シーズン アカデミースタッフ体制のお知らせ",
+      "link": "https://www.gamba-osaka.net/news/index/no/19687/c/0/year/2026/month/02/",
+      "published": "26.2.11［アカデミー］",
+      "summary": ""
+    },
+    {
+      "team": "ヴィッセル神戸",
+      "title": "NEWS最新ニュース2026/02/11［シリーズ企画］モーヴィの兵庫県ご当地ガイド～養父市～クラブ2026/02/112/13（金）vs.長崎 ファンクラブ当日入会キャンペーン実施ファンクラブ202",
+      "link": "https://www.vissel-kobe.co.jp/news/article/26023.html",
+      "published": "2026/02/11",
+      "summary": ""
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "4/19（日）福岡戦｜チケット販売スケジュールのお知らせ",
+      "link": "https://nagoya-grampus.jp/news/ticket/2026/0210419-1.php",
+      "published": "2026-02-11",
+      "summary": "4/19（日）福岡戦｜チケット販売スケジュールのお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "3/18（水）広島戦 ｜「Re：vale IDOLiSH7 TRIGGER ŹOOĻ×明治安田Jリーグ百年構想リーグ」フォトスポットバナーを設置！",
+      "link": "https://nagoya-grampus.jp/news/homegameevent/2026/0210318-revale-idolish7-trigger-zoolj.php",
+      "published": "2026-02-11",
+      "summary": "3/18（水）広島戦 ｜「Re：vale IDOLiSH7 TRIGGER ŹOOĻ×明治安田Jリーグ百年構想リーグ」フォトスポットバナーを設置！。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "【ファンクラブ会員限定】2/14（土）はバレンタインデー♡\"推し選手\"へプレゼントを渡そう！",
+      "link": "https://nagoya-grampus.jp/news/fanclub/2026/0209214-2.php",
+      "published": "2026-02-11",
+      "summary": "【ファンクラブ会員限定】2/14（土）はバレンタインデー♡\"推し選手\"へプレゼントを渡そう！。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "＜2/８（日）18:00 練習スケジュール更新＞練習公開のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/0208post-2669.php",
+      "published": "2026-02-11",
+      "summary": "＜2/８（日）18:00 練習スケジュール更新＞練習公開のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "2/15（日）アウェイ ガンバ大阪戦 試合情報",
+      "link": "https://nagoya-grampus.jp/news/game/2026/0208215-3.php",
+      "published": "2026-02-11",
+      "summary": "2/15（日）アウェイ ガンバ大阪戦 試合情報。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "サンフレッチェ広島",
+      "title": "明治安田J1百年構想リーグ ホーム開幕戦にて、特別演出を実施！2026.02.11イベント・グルメ",
+      "link": "https://www.sanfrecce.co.jp/news/event/12000",
+      "published": "2026.02.11",
+      "summary": ""
     }
   ],
   "bleague": [
     {
       "team": "千葉ジェッツ",
-      "title": "ホームゲーム開催のお知らせ",
-      "link": "https://chibajets.jp/",
+      "title": "NEWFANCLUB【6TH MAN CLUB】マイレージサービス「春のオンラインくじ」開催のお知らせ2026-02-10",
+      "link": "https://chibajets.jp/news/detail/id=24059",
       "published": "2026-02-11",
-      "summary": "今週末のホームゲーム情報です。"
+      "summary": ""
+    },
+    {
+      "team": "千葉ジェッツ",
+      "title": "ニュース一覧へ",
+      "link": "https://chibajets.jp/news/",
+      "published": "2026-02-11",
+      "summary": ""
+    },
+    {
+      "team": "千葉ジェッツ",
+      "title": "REPORT",
+      "link": "https://chibajets.jp/report/",
+      "published": "2026-02-11",
+      "summary": ""
     },
     {
       "team": "宇都宮ブレックス",
-      "title": "選手インタビュー公開",
-      "link": "https://www.brex.jp/",
-      "published": "2026-02-11",
-      "summary": "主力選手のインタビューを公開しました。"
+      "title": "CODE PHANTOM RAG (Relay Attack Guard)",
+      "link": "https://brex.jp/archives/product/code-phantom-rag-relay-attack-guard-2",
+      "published": "Wed, 17 Sep 2025 23:44:00 +0000",
+      "summary": ""
+    },
+    {
+      "team": "宇都宮ブレックス",
+      "title": "CODE PHANTOM CC for BMW/MINI",
+      "link": "https://brex.jp/archives/product/code-phantom-cc-for-bmw-mini",
+      "published": "Wed, 17 Sep 2025 23:43:21 +0000",
+      "summary": ""
+    },
+    {
+      "team": "宇都宮ブレックス",
+      "title": "CODE PHANTOM TV for BMW EVO (iD5/iD6)",
+      "link": "https://brex.jp/archives/product/code-phantom-tv-for-bmw-evo-id5-id6",
+      "published": "Wed, 17 Sep 2025 23:42:46 +0000",
+      "summary": ""
+    },
+    {
+      "team": "宇都宮ブレックス",
+      "title": "CODE PHANTOM TV for AUDI/Volkswagen",
+      "link": "https://brex.jp/archives/product/code-phantom-tv-for-audi-volkswagen",
+      "published": "Wed, 17 Sep 2025 23:42:22 +0000",
+      "summary": ""
+    },
+    {
+      "team": "宇都宮ブレックス",
+      "title": "CODE PHANTOM TV ACTIVE Multi",
+      "link": "https://brex.jp/archives/product/code-phantom-tv-active-multi",
+      "published": "Wed, 17 Sep 2025 23:41:51 +0000",
+      "summary": ""
     },
     {
       "team": "アルバルク東京",
-      "title": "チケット販売開始",
-      "link": "https://www.alvark-tokyo.jp/",
-      "published": "2026-02-10",
-      "summary": "次節のチケット販売を開始しました。"
+      "title": "NEWGOODS2025-26シーズン 12月度&1月度「ビクトリーオークション」開催のお知らせ2026-02-10",
+      "link": "https://www.alvark-tokyo.jp/news/detail/id=21190",
+      "published": "2026-02-11",
+      "summary": ""
+    },
+    {
+      "team": "アルバルク東京",
+      "title": "ニュース一覧へ",
+      "link": "https://www.alvark-tokyo.jp/news/",
+      "published": "2026-02-11",
+      "summary": ""
+    },
+    {
+      "team": "川崎ブレイブサンダース",
+      "title": "NEWSPONSORHOMETOWNTAG LIVE！LABEL KBTオリジナル専用自販機設置のお知らせ2026-02-11",
+      "link": "https://kawasaki-bravethunders.com/news/detail/id=22473",
+      "published": "2026-02-11",
+      "summary": ""
+    },
+    {
+      "team": "川崎ブレイブサンダース",
+      "title": "ニュース一覧へ",
+      "link": "https://kawasaki-bravethunders.com/news/",
+      "published": "2026-02-11",
+      "summary": ""
+    },
+    {
+      "team": "川崎ブレイブサンダース",
+      "title": "2/8 ●川崎 66-77 琉球○ りそなグループB.LEAGUE 2025-26 B1リーグ戦 第22節GAME2 (37/60)2026-02-08",
+      "link": "https://kawasaki-bravethunders.com/game/?YMD=20260208&KEY=505196&DOUBLEHEADERFLAG=false&TAB=R",
+      "published": "2026-02-11",
+      "summary": ""
+    },
+    {
+      "team": "横浜ビー・コルセアーズ",
+      "title": "GAME【観戦ガイド】横浜ビー・コルセアーズ vs レバンガ北海道2025-12-15",
+      "link": "https://b-corsairs.com/news/detail/id=19943",
+      "published": "2026-02-11",
+      "summary": ""
+    },
+    {
+      "team": "横浜ビー・コルセアーズ",
+      "title": "ニュース一覧へ",
+      "link": "https://b-corsairs.com/news/",
+      "published": "2026-02-11",
+      "summary": ""
+    },
+    {
+      "team": "横浜ビー・コルセアーズ",
+      "title": "【GAME REPORT】 りそなグループ B.LEAGUE 2025-26 SEASON 第22節 vs 三遠 GAME22026-02-08",
+      "link": "https://b-corsairs.com/game/?YMD=20260208&KEY=505200&DOUBLEHEADERFLAG=false&TAB=R",
+      "published": "2026-02-11",
+      "summary": ""
+    },
+    {
+      "team": "琉球ゴールデンキングス",
+      "title": "NEWYOUTH TEAMキングスU18「インフロニア B.LEAGUE U18 ELITE LEAGUE 2025」大会結果のご報告2026-02-09",
+      "link": "https://goldenkings.jp/news/detail/id=22711",
+      "published": "2026-02-11",
+      "summary": ""
+    },
+    {
+      "team": "琉球ゴールデンキングス",
+      "title": "ニュース一覧へ",
+      "link": "https://goldenkings.jp/news/",
+      "published": "2026-02-11",
+      "summary": ""
+    },
+    {
+      "team": "大阪エヴェッサ",
+      "title": "GAME【試合情報】2/14・15 京都ハンナリーズ戦2025-12-16",
+      "link": "https://www.evessa.com/news/detail/id=20563",
+      "published": "2026-02-11",
+      "summary": ""
+    },
+    {
+      "team": "大阪エヴェッサ",
+      "title": "ニュース一覧へ",
+      "link": "https://www.evessa.com/news/",
+      "published": "2026-02-11",
+      "summary": ""
+    },
+    {
+      "team": "大阪エヴェッサ",
+      "title": "HOMETOWN",
+      "link": "https://www.evessa.com/news/contents_type=61",
+      "published": "2026-02-11",
+      "summary": ""
+    },
+    {
+      "team": "広島ドラゴンフライズ",
+      "title": "トップパートナー",
+      "link": "https://www.nova.co.jp/",
+      "published": "2026-02-11",
+      "summary": ""
+    },
+    {
+      "team": "広島ドラゴンフライズ",
+      "title": "ダイヤモンドパートナー",
+      "link": "https://www.itto.jp/company/",
+      "published": "2026-02-11",
+      "summary": ""
+    },
+    {
+      "team": "広島ドラゴンフライズ",
+      "title": "プラチナパートナー",
+      "link": "https://www.aseed-hd.co.jp/",
+      "published": "2026-02-11",
+      "summary": ""
     }
   ],
-  "updated_at": "2026-02-11T12:00:00+09:00"
+  "updated_at": "2026-02-11T06:15:52.362535"
 }
