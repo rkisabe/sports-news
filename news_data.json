@@ -9,9 +9,16 @@
     },
     {
       "team": "横浜DeNA",
-      "title": "APP2026/2/9田代富雄コーチ・山下大輔氏が『星のパズルナイン’』に登場！レジェンドOBイベント第2弾「青の原点」開催！",
-      "link": "https://www.baystars.co.jp/news/2026/02/0209_05.php",
-      "published": "2026/2/9",
+      "title": "APP2026/2/11「MY BAYSTARS」アプリにMOVIE付き「パフォーマンスチームカード」第十一弾が登場！",
+      "link": "https://www.baystars.co.jp/news/2026/02/0211_01.php",
+      "published": "2026/2/11",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "NEW【キャンプレポート】春季キャンプ第2クール5日目 山田選手が三塁で特守、池山監督・長岡選手・荘司投手によるサイン会も開催チーム2026.2.11",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/31930",
+      "published": "2026.2.11",
       "summary": ""
     },
     {
@@ -29,13 +36,6 @@
       "summary": ""
     },
     {
-      "team": "ヤクルト",
-      "title": "NEW【キャンプレポート】春季キャンプ第2クール4日目「投手陣は段階を踏んで良くなっている。役割はこれから見極めていく」（池山監督）チーム2026.2.10",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/31929",
-      "published": "2026.2.10",
-      "summary": ""
-    },
-    {
       "team": "ソフトバンク",
       "title": "球団2026/02/11 (水)NEW!福岡を拠点とするトップチーム講師が集結！「マルチスポーツ教室 in FUKUOKA」",
       "link": "https://www.softbankhawks.co.jp/news/detail/202600938582.html",
@@ -51,15 +51,15 @@
     },
     {
       "team": "ロッテ",
-      "title": "イベント2026/02/11 (水)NEW!2026 OPENING SERIES MARINES NATION イベント情報",
-      "link": "https://www.marines.co.jp/news/detail/202600772647.html",
+      "title": "チーム2026/02/11 (水)NEW!西川選手の診断結果について",
+      "link": "https://www.marines.co.jp/news/detail/202600775532.html",
       "published": "2026/02/11 (水)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "イベント2026/02/11 (水)NEW!2026 OPENING SERIES MARINES NATION イベント情報",
-      "link": "https://www.marines.co.jp/news/detail/202600772647.html",
+      "title": "チーム2026/02/11 (水)NEW!西川選手の診断結果について",
+      "link": "https://www.marines.co.jp/news/detail/202600775532.html",
       "published": "2026/02/11 (水)NEW!",
       "summary": ""
     },
@@ -123,6 +123,13 @@
     },
     {
       "team": "FC東京",
+      "title": "【普及部コーチ】2026シーズン新加入コーチ紹介 ／ 石川令コーチ",
+      "link": "https://www.fctokyo.co.jp/school/report/330560/",
+      "published": "Wed, 11 Feb 2026 18:00:00 +0000",
+      "summary": "<p>FC東京サッカー・フットサルスクールでは、<br />2026年に新たにコーチ9名のコーチが加入いたしましたので、ご紹介いたします♪</p><p>ぜひスクールやイベントで会った際には、たくさん声をかけてください！</p><h2>5人目は・・・石川令 コーチ</h2><p>&nbsp;</p><p><img alt=\"\" class=\"aligncenter wp-image-330762\" "
+    },
+    {
+      "team": "FC東京",
       "title": "2/14(土)浦和戦『東京ドロンパ』出没情報！",
       "link": "https://www.fctokyo.co.jp/news/details/330968/",
       "published": "Wed, 11 Feb 2026 14:00:00 +0000",
@@ -148,13 +155,6 @@
       "link": "https://www.fctokyo.co.jp/news/details/330948/",
       "published": "Tue, 10 Feb 2026 18:00:00 +0000",
       "summary": "<p>2月15日(日)にイオン東久留米店にて『FC TOKYO PALE ALE』缶の発売を記念して、試飲会イベントの開催が決定しました！</p><p>当日は『FC TOKYO PALE ALE』の試飲をはじめ、『FC TOKYO PALE ALE』缶を購入した方へのオリジナルステッカーのプレゼントや、東京ドロンパが出没します。</p><p>浦和戦の翌日は、ぜひイオン東久留米店へお越しください！<"
-    },
-    {
-      "team": "FC東京",
-      "title": "【普及部コーチ】2026シーズン新加入コーチ紹介 ／ 長澤颯太コーチ",
-      "link": "https://www.fctokyo.co.jp/school/report/330557/",
-      "published": "Tue, 10 Feb 2026 18:00:00 +0000",
-      "summary": "<p>FC東京サッカー・フットサルスクールでは、<br />2026年に新たにコーチ9名のコーチが加入いたしましたので、ご紹介いたします♪</p><p>ぜひスクールやイベントで会った際には、たくさん声をかけてください！</p><h2>4人目は・・・長澤颯太 コーチ</h2><p>&nbsp;</p><p><img alt=\"\" class=\"aligncenter  wp-image-330761"
     },
     {
       "team": "ガンバ大阪",
@@ -207,8 +207,8 @@
     },
     {
       "team": "サンフレッチェ広島",
-      "title": "明治安田J1百年構想リーグ ホーム開幕戦にて、特別演出を実施！2026.02.11イベント・グルメ",
-      "link": "https://www.sanfrecce.co.jp/news/event/12000",
+      "title": "3/28（土）『自由すぎる女王の大祭典2025/26』先着20,000名様プレゼント「レジーナ大祭典ベースボールシャツ」デザイン公開！！2026.02.11レジーナ",
+      "link": "https://www.sanfrecce.co.jp/news/regina/11998",
       "published": "2026.02.11",
       "summary": ""
     }
@@ -383,5 +383,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-02-11T06:15:52.362535"
+  "updated_at": "2026-02-11T10:00:16.437820"
 }
