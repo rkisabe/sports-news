@@ -16,6 +16,13 @@
     },
     {
       "team": "ヤクルト",
+      "title": "NEW【キャンプレポート】春季キャンプ第2クール6日目 中日ドラゴンズとの練習試合を実施。中村悠平選手がチーム初ヒットとなる2塁打、岩田選手が2安打チーム2026.2.12",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/31933",
+      "published": "2026.2.12",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
       "title": "NEW【3月31日（火）～5月21日（木）まで】スワローズ×日本青年館ホテル共同企画「スワローズ応燕宿泊プラン」販売開始！イベント2026.2.12",
       "link": "https://www.yakult-swallows.co.jp/news/detail/31906",
       "published": "2026.2.12",
@@ -26,13 +33,6 @@
       "title": "NEW浦添春季キャンプにて「ヤクルトマン」イベント開催！イベント2026.2.12",
       "link": "https://www.yakult-swallows.co.jp/news/detail/31856",
       "published": "2026.2.12",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
-      "title": "【キャンプレポート】春季キャンプ第2クール5日目 山田選手が三塁で特守、池山監督・長岡選手・荘司投手によるサイン会も開催チーム2026.2.11",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/31930",
-      "published": "2026.2.11",
       "summary": ""
     },
     {
@@ -109,15 +109,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.02.12チーム「開幕戦と同じような集中力と高い強度、そしてアグレッシブさを保つことが必要」マチェイ スコルジャ監督(定例会見 2/12)",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/237023",
+      "title": "2026.02.12チケットホームゲーム 3/18(水)柏戦、3/22(日)町田戦(GoGoReds!デー)のチケット販売について",
+      "link": "https://www.urawa-reds.co.jp/clubinfo/237013",
       "published": "2026.02.12",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.02.12チーム「開幕戦と同じような集中力と高い強度、そしてアグレッシブさを保つことが必要」マチェイ スコルジャ監督(定例会見 2/12)",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/237023",
+      "title": "2026.02.12チケットホームゲーム 3/18(水)柏戦、3/22(日)町田戦(GoGoReds!デー)のチケット販売について",
+      "link": "https://www.urawa-reds.co.jp/clubinfo/237013",
       "published": "2026.02.12",
       "summary": ""
     },
@@ -279,8 +279,8 @@
     },
     {
       "team": "アルバルク東京",
-      "title": "NEWPARTNER「WE THINK」アイシンク・伊藤健太郎代表×アルバルク東京・伊藤大司GM　特別対談実施のお知らせ2026-02-12",
-      "link": "https://www.alvark-tokyo.jp/news/detail/id=21181",
+      "title": "NEWTEAM2/11(水･祝) EASL ザック・ブロンコス戦 ゲームレポート2026-02-12",
+      "link": "https://www.alvark-tokyo.jp/news/detail/id=21195",
       "published": "2026-02-12",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-02-12T09:58:45.870638"
+  "updated_at": "2026-02-12T14:11:41.808553"
 }
