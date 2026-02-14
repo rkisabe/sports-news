@@ -51,16 +51,16 @@
     },
     {
       "team": "ロッテ",
-      "title": "チケット2026/02/13 (金)4月 企画チケット販売のお知らせ",
-      "link": "https://www.marines.co.jp/news/detail/202600771888.html",
-      "published": "2026/02/13 (金)",
+      "title": "イベント2026/02/14 (土)NEW!ラブライブ！シリーズ × パ・リーグ6球団 第3弾スペシャルコラボが決定！",
+      "link": "https://www.marines.co.jp/news/detail/202600774356.html",
+      "published": "2026/02/14 (土)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "チケット2026/02/13 (金)4月 企画チケット販売のお知らせ",
-      "link": "https://www.marines.co.jp/news/detail/202600771888.html",
-      "published": "2026/02/13 (金)",
+      "title": "イベント2026/02/14 (土)NEW!ラブライブ！シリーズ × パ・リーグ6球団 第3弾スペシャルコラボが決定！",
+      "link": "https://www.marines.co.jp/news/detail/202600774356.html",
+      "published": "2026/02/14 (土)NEW!",
       "summary": ""
     },
     {
@@ -109,15 +109,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.02.14試合・練習明治安田J1百年構想リーグ 地域リーグラウンド 第2節 vs FC東京 試合結果",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/237071",
+      "title": "2026.02.14試合・練習渡邊「反省点はたくさんあるが90分を通して次につながる試合」",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/237130",
       "published": "2026.02.14",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.02.14試合・練習明治安田J1百年構想リーグ 地域リーグラウンド 第2節 vs FC東京 試合結果",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/237071",
+      "title": "2026.02.14試合・練習渡邊「反省点はたくさんあるが90分を通して次につながる試合」",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/237130",
       "published": "2026.02.14",
       "summary": ""
     },
@@ -165,9 +165,9 @@
     },
     {
       "team": "ガンバ大阪",
-      "title": "26.2.14［スタジアム情報］2/15（日）明治安田J1百年構想 第2節 名古屋戦 場外飲食について",
-      "link": "https://www.gamba-osaka.net/news/index/no/19704/c/0/year/2026/month/02/",
-      "published": "26.2.14［スタジアム情報］",
+      "title": "26.2.14［チーム］［プレビュー］パナスタ10周年の節目は90分間での勝利で飾る。ガンバがホーム初陣で勝ちに行く",
+      "link": "https://www.gamba-osaka.net/news/index/no/19707/c/0/year/2026/month/02/",
+      "published": "26.2.14［チーム］",
       "summary": ""
     },
     {
@@ -279,8 +279,8 @@
     },
     {
       "team": "アルバルク東京",
-      "title": "NEWGOODS(2/13更新) 2月 TOYOTA ARENA TOKYO アリーナショップ営業のお知らせ2026-02-13",
-      "link": "https://www.alvark-tokyo.jp/news/detail/id=21125",
+      "title": "NEWTEAM2/14(土) 佐賀バルーナーズ戦 ゲームレポート2026-02-14",
+      "link": "https://www.alvark-tokyo.jp/news/detail/id=21207",
       "published": "2026-02-14",
       "summary": ""
     },
@@ -328,15 +328,15 @@
     },
     {
       "team": "横浜ビー・コルセアーズ",
-      "title": "【GAME REPORT】 りそなグループ B.LEAGUE 2025-26 SEASON 第22節 vs 三遠 GAME22026-02-08",
-      "link": "https://b-corsairs.com/game/?YMD=20260208&KEY=505200&DOUBLEHEADERFLAG=false&TAB=R",
+      "title": "【GAME REPORT】 りそなグループ B.LEAGUE 2025-26 SEASON 第23節 vs FE名古屋 GAME12026-02-14",
+      "link": "https://b-corsairs.com/game/?YMD=20260214&KEY=505227&DOUBLEHEADERFLAG=false&TAB=R",
       "published": "2026-02-14",
       "summary": ""
     },
     {
       "team": "琉球ゴールデンキングス",
-      "title": "NEWGAME【結果】最後まで手に汗握る攻防を制す！[2/14(土)vsアルティーリ千葉]2026-02-14",
-      "link": "https://goldenkings.jp/news/detail/id=22728",
+      "title": "NEWGAME【コメント】A千葉戦 試合後コメント[2/14(土)]2026-02-14",
+      "link": "https://goldenkings.jp/news/detail/id=22729",
       "published": "2026-02-14",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-02-14T09:39:10.179002"
+  "updated_at": "2026-02-14T13:47:23.503466"
 }
