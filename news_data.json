@@ -16,7 +16,7 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW【キャンプレポート】春季キャンプ第3クール1日目 サンタナ選手・増田選手が合流。新外国人ウォルターズ投手・キハダ投手、ルーキー増居投手らがライブBP初登板。チーム2026.2.14",
+      "title": "【キャンプレポート】春季キャンプ第3クール1日目 サンタナ選手・増田選手が合流。新外国人ウォルターズ投手・キハダ投手、ルーキー増居投手らがライブBP初登板。チーム2026.2.14",
       "link": "https://www.yakult-swallows.co.jp/news/detail/31936",
       "published": "2026.2.14",
       "summary": ""
@@ -37,15 +37,15 @@
     },
     {
       "team": "ソフトバンク",
-      "title": "イベント2026/02/15 (日)NEW!6/14（日）ラブライブ！シリーズ コラボが決定！",
-      "link": "https://www.softbankhawks.co.jp/news/detail/202600940712.html",
+      "title": "ファームイベント2026/02/15 (日)NEW!【スプリングトレーニングin筑後】2/16～イベント情報！",
+      "link": "https://www.softbankhawks.co.jp/news/detail/202600941017.html",
       "published": "2026/02/15 (日)NEW!",
       "summary": ""
     },
     {
       "team": "ソフトバンク",
-      "title": "イベント2026/02/15 (日)NEW!6/14（日）ラブライブ！シリーズ コラボが決定！",
-      "link": "https://www.softbankhawks.co.jp/news/detail/202600940712.html",
+      "title": "ファームイベント2026/02/15 (日)NEW!【スプリングトレーニングin筑後】2/16～イベント情報！",
+      "link": "https://www.softbankhawks.co.jp/news/detail/202600941017.html",
       "published": "2026/02/15 (日)NEW!",
       "summary": ""
     },
@@ -109,16 +109,16 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.02.14試合・練習渡邊「反省点はたくさんあるが90分を通して次につながる試合」",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/237130",
-      "published": "2026.02.14",
+      "title": "2026.02.15試合・練習トレーニングマッチ vs ザスパ群馬 試合結果",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/237153",
+      "published": "2026.02.15",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.02.14試合・練習渡邊「反省点はたくさんあるが90分を通して次につながる試合」",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/237130",
-      "published": "2026.02.14",
+      "title": "2026.02.15試合・練習トレーニングマッチ vs ザスパ群馬 試合結果",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/237153",
+      "published": "2026.02.15",
       "summary": ""
     },
     {
@@ -165,17 +165,24 @@
     },
     {
       "team": "ガンバ大阪",
-      "title": "26.2.15［チーム］PICKUP PLAYER DF4 中谷進之介『自分たちのサッカーを表現して、90分で勝利を掴む。』",
-      "link": "https://www.gamba-osaka.net/news/index/no/19709/c/0/year/2026/month/02/",
-      "published": "26.2.15［チーム］",
+      "title": "26.2.15［パートナー］明治安田J1百年構想リーグパートナーのお知らせ",
+      "link": "https://www.gamba-osaka.net/news/index/no/19721/c/0/year/2026/month/02/",
+      "published": "26.2.15［パートナー］",
       "summary": ""
     },
     {
       "team": "ヴィッセル神戸",
-      "title": "NEWS最新ニュース2026/02/143/29（日）ショーワグローブ株式会社 × ヴィッセル神戸サッカークリニック参加者募集のお知らせスクール2026/02/14FCロイヤルコース限定【応募不要】2",
-      "link": "https://www.vissel-kobe.co.jp/news/article/26078.html",
-      "published": "2026/02/14",
+      "title": "NEWS最新ニュース2026/02/153/18（水）ガンバ大阪戦　「Little Glee Monster x Jリーグ Special Live」開催決定クラブ2026/02/143/29（日）シ",
+      "link": "https://www.vissel-kobe.co.jp/news/article/26081.html",
+      "published": "2026/02/15",
       "summary": ""
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "「第14回AIFAアウォーズ2025」年間表彰について",
+      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/021514aifa2025.php",
+      "published": "2026-02-15",
+      "summary": "「第14回AIFAアウォーズ2025」年間表彰について。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
@@ -204,13 +211,6 @@
       "link": "https://nagoya-grampus.jp/news/pressrelease/2026/0214221-3-v.php",
       "published": "2026-02-15",
       "summary": "2/21（土）明治安田Ｊ１百年構想リーグ 第3節 V・ファーレン長崎戦 田中マルクス闘莉王氏 来場のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "2026特別シーズン＋2026/27シーズンチケット（個人）「2/14(土)9:00～パロマ瑞穂スタジアム座席取得」延期についてのお詫びとお知らせ",
-      "link": "https://nagoya-grampus.jp/news/ticket/2026/02142026202627214900.php",
-      "published": "2026-02-15",
-      "summary": "2026特別シーズン＋2026/27シーズンチケット（個人）「2/14(土)9:00～パロマ瑞穂スタジアム座席取得」延期についてのお詫びとお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "サンフレッチェ広島",
@@ -307,8 +307,8 @@
     },
     {
       "team": "川崎ブレイブサンダース",
-      "title": "2/14 ○宇都宮 93-86 川崎● りそなグループB.LEAGUE 2025-26 B1リーグ戦 第23節GAME1 (38/60)2026-02-14",
-      "link": "https://kawasaki-bravethunders.com/game/?YMD=20260214&KEY=505213&DOUBLEHEADERFLAG=false&TAB=R",
+      "title": "2/15 ○宇都宮 104-88 川崎● りそなグループB.LEAGUE 2025-26 B1リーグ戦 第23節GAME2 (39/60)2026-02-15",
+      "link": "https://kawasaki-bravethunders.com/game/?YMD=20260215&KEY=505214&DOUBLEHEADERFLAG=false&TAB=R",
       "published": "2026-02-15",
       "summary": ""
     },
@@ -335,8 +335,8 @@
     },
     {
       "team": "琉球ゴールデンキングス",
-      "title": "NEWGAME【コメント】A千葉戦 試合後コメント[2/14(土)]2026-02-14",
-      "link": "https://goldenkings.jp/news/detail/id=22729",
+      "title": "NEWGAME【結果】喰らいつくA千葉を突き放し勝利！[2/15(日)vsアルティーリ千葉]2026-02-15",
+      "link": "https://goldenkings.jp/news/detail/id=22730",
       "published": "2026-02-15",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-02-15T04:51:05.715102"
+  "updated_at": "2026-02-15T09:39:54.194722"
 }
