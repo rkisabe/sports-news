@@ -16,6 +16,13 @@
     },
     {
       "team": "ヤクルト",
+      "title": "NEW【キャンプレポート】春季キャンプ第3クール2日目 千葉ロッテマリーンズとの練習試合を実施。武岡選手が先制タイムリー＆好守で存在感。先発吉村投手は2回無安打無失点。チーム2026.2.15",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/31937",
+      "published": "2026.2.15",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
       "title": "【キャンプレポート】春季キャンプ第3クール1日目 サンタナ選手・増田選手が合流。新外国人ウォルターズ投手・キハダ投手、ルーキー増居投手らがライブBP初登板。チーム2026.2.14",
       "link": "https://www.yakult-swallows.co.jp/news/detail/31936",
       "published": "2026.2.14",
@@ -25,13 +32,6 @@
       "team": "ヤクルト",
       "title": "「バインダーを飾ろう！私の2025シーズンベストスワローズトレカ」入賞10作品発表および二次審査投票のご案内その他2026.2.13",
       "link": "https://www.yakult-swallows.co.jp/news/detail/31927",
-      "published": "2026.2.13",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
-      "title": "Official Goods Shop西都店の営業についてグッズ2026.2.13",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/31932",
       "published": "2026.2.13",
       "summary": ""
     },
@@ -172,10 +172,17 @@
     },
     {
       "team": "ヴィッセル神戸",
-      "title": "NEWS最新ニュース2026/02/153/18（水）ガンバ大阪戦　「Little Glee Monster x Jリーグ Special Live」開催決定クラブ2026/02/143/29（日）シ",
+      "title": "NEWS最新ニュース2026/02/153/18（水）ガンバ大阪戦「Little Glee Monster x Jリーグ Special Live」開催のお知らせクラブ2026/02/143/29（日",
       "link": "https://www.vissel-kobe.co.jp/news/article/26081.html",
       "published": "2026/02/15",
       "summary": ""
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "練習公開のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/0215post-2673.php",
+      "published": "2026-02-15",
+      "summary": "練習公開のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
@@ -206,17 +213,10 @@
       "summary": "クラブグランパス「1月・2月！ バースデーキャンペーン」実施のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
-      "team": "名古屋グランパス",
-      "title": "2/21（土）明治安田Ｊ１百年構想リーグ 第3節 V・ファーレン長崎戦 田中マルクス闘莉王氏 来場のお知らせ",
-      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/0214221-3-v.php",
-      "published": "2026-02-15",
-      "summary": "2/21（土）明治安田Ｊ１百年構想リーグ 第3節 V・ファーレン長崎戦 田中マルクス闘莉王氏 来場のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
       "team": "サンフレッチェ広島",
-      "title": "「2/15（日）vs.浦和」チケット当日券販売について2026.02.14レジーナ",
-      "link": "https://www.sanfrecce.co.jp/news/regina/12017",
-      "published": "2026.02.14",
+      "title": "【2/21（土）vs.千葉L】一部運用の変更についてのお知らせ2026.02.15レジーナ",
+      "link": "https://www.sanfrecce.co.jp/news/regina/12020",
+      "published": "2026.02.15",
       "summary": ""
     }
   ],
@@ -279,8 +279,8 @@
     },
     {
       "team": "アルバルク東京",
-      "title": "NEWTEAM2/14(土) 佐賀バルーナーズ戦 ゲームレポート2026-02-14",
-      "link": "https://www.alvark-tokyo.jp/news/detail/id=21207",
+      "title": "NEWTEAM2/15(日) 佐賀バルーナーズ戦 ゲームレポート2026-02-15",
+      "link": "https://www.alvark-tokyo.jp/news/detail/id=21213",
       "published": "2026-02-15",
       "summary": ""
     },
@@ -328,15 +328,15 @@
     },
     {
       "team": "横浜ビー・コルセアーズ",
-      "title": "【GAME REPORT】 りそなグループ B.LEAGUE 2025-26 SEASON 第23節 vs FE名古屋 GAME12026-02-14",
-      "link": "https://b-corsairs.com/game/?YMD=20260214&KEY=505227&DOUBLEHEADERFLAG=false&TAB=R",
+      "title": "【GAME REPORT】 りそなグループ B.LEAGUE 2025-26 SEASON 第23節 vs FE名古屋 GAME22026-02-15",
+      "link": "https://b-corsairs.com/game/?YMD=20260215&KEY=505228&DOUBLEHEADERFLAG=false&TAB=R",
       "published": "2026-02-15",
       "summary": ""
     },
     {
       "team": "琉球ゴールデンキングス",
-      "title": "NEWGAME【結果】喰らいつくA千葉を突き放し勝利！[2/15(日)vsアルティーリ千葉]2026-02-15",
-      "link": "https://goldenkings.jp/news/detail/id=22730",
+      "title": "NEWGAME【コメント】A千葉戦 試合後コメント[2/15(日)]2026-02-15",
+      "link": "https://goldenkings.jp/news/detail/id=22731",
       "published": "2026-02-15",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-02-15T09:39:54.194722"
+  "updated_at": "2026-02-15T13:48:42.851991"
 }
