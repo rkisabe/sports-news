@@ -9,9 +9,23 @@
     },
     {
       "team": "横浜DeNA",
-      "title": "EVENT2026/2/183/13(金)『横浜DeNAベイスターズ 必勝祈願2026』開催！",
-      "link": "https://www.baystars.co.jp/news/2026/02/0218_02.php",
+      "title": "FANCLUB2026/2/18球春到来！開幕直前！BlueMates限定イベント募集",
+      "link": "https://www.baystars.co.jp/news/2026/02/0218_01.php",
       "published": "2026/2/18",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "NEW【キャンプレポート】横浜DeNAと練習試合　池山監督「ポジション争いは、軸となる部分が見えつつある」チーム2026.2.18",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/31947",
+      "published": "2026.2.18",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "NEW2月CREWくじエントリー開始！CREW2026.2.18",
+      "link": "https://www.yakult-swallows.co.jp/fanclub/points/crew_kuji",
+      "published": "2026.2.18",
       "summary": ""
     },
     {
@@ -22,20 +36,6 @@
       "summary": ""
     },
     {
-      "team": "ヤクルト",
-      "title": "NEW【キャンプレポート】第3クール4日目　「状態は良い、子どもの頃のように野球を楽しみたい。よく使う日本語は『ガンバッテ』や『サイコウ』」（ウォルターズ投手）チーム2026.2.17",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/31943",
-      "published": "2026.2.17",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
-      "title": "NEW株式会社ヤクルト球団 2027年度新卒採用実施のお知らせその他2026.2.17",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/31942",
-      "published": "2026.2.17",
-      "summary": ""
-    },
-    {
       "team": "ソフトバンク",
       "title": "ホークスTV2026/02/18 (水)NEW!History of 徐若熙 ～グラブに刻む『SMILE』の矜持～　2026年台日野球国際交流試合みどころコラム①",
       "link": "https://www.softbankhawks.co.jp/news/detail/202600943218.html",
@@ -51,16 +51,16 @@
     },
     {
       "team": "ロッテ",
-      "title": "メディア2026/02/17 (火)読売新聞千葉版朝刊に横山投手のコラム「フロム陸人」第1回掲載",
-      "link": "https://www.marines.co.jp/news/detail/202600779932.html",
-      "published": "2026/02/17 (火)",
+      "title": "チケット2026/02/18 (水)NEW!2026年団体観戦チケット申込受付のお知らせ",
+      "link": "https://www.marines.co.jp/news/detail/202600775860.html",
+      "published": "2026/02/18 (水)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "メディア2026/02/17 (火)読売新聞千葉版朝刊に横山投手のコラム「フロム陸人」第1回掲載",
-      "link": "https://www.marines.co.jp/news/detail/202600779932.html",
-      "published": "2026/02/17 (火)",
+      "title": "チケット2026/02/18 (水)NEW!2026年団体観戦チケット申込受付のお知らせ",
+      "link": "https://www.marines.co.jp/news/detail/202600775860.html",
+      "published": "2026/02/18 (水)NEW!",
       "summary": ""
     },
     {
@@ -109,16 +109,16 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.02.17イベント＆ブース3/7(土)水戸戦「Reds'いちご祭り」開催について",
-      "link": "https://www.urawa-reds.co.jp/clubinfo/237180",
-      "published": "2026.02.17",
+      "title": "2026.02.18チケット「明治安田J1百年構想リーグ オリジナルデザインチケット」販売のお知らせ",
+      "link": "https://www.urawa-reds.co.jp/clubinfo/237268",
+      "published": "2026.02.18",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.02.17イベント＆ブース3/7(土)水戸戦「Reds'いちご祭り」開催について",
-      "link": "https://www.urawa-reds.co.jp/clubinfo/237180",
-      "published": "2026.02.17",
+      "title": "2026.02.18チケット「明治安田J1百年構想リーグ オリジナルデザインチケット」販売のお知らせ",
+      "link": "https://www.urawa-reds.co.jp/clubinfo/237268",
+      "published": "2026.02.18",
       "summary": ""
     },
     {
@@ -127,6 +127,13 @@
       "link": "https://www.so-net.ne.jp/",
       "published": "2020.03.26(木)",
       "summary": ""
+    },
+    {
+      "team": "FC東京",
+      "title": "【全学年対象】鹿島アントラーズ戦にてホームゲームイベントを実施！in味の素スタジアム",
+      "link": "https://www.fctokyo.co.jp/school/report/331243/",
+      "published": "Wed, 18 Feb 2026 18:30:00 +0000",
+      "summary": "<p>2026年2月7日(土) 明治安田Ｊ１百年構想リーグ 第1節 FC東京vs鹿島アントラーズ戦で、ホームゲームイベントを実施しました！</p><p>&nbsp;</p><h2>【1】 ウォーミングアップ見学</h2><p>試合開始前から雪が舞う状況で、ピッチレベルからの見学になりましたが、寒さを吹き飛ばすほどの熱気が場内から伝わっていました。</p><p>&nbsp;</p><p><img a"
     },
     {
       "team": "FC東京",
@@ -157,25 +164,32 @@
       "summary": "<p>2月18日(水)より『caseplay スマートフォンケース』に『FC東京百年構想リーグユニフォームVer』のオリジナルスマートフォンケースが新登場！<br />スリムプロテクションケースは、iPhone／Xperia／Galaxy／Pixelなど、150機種以上の幅広いラインアップに対応していますので観戦時にさりげなくアピールしてください！</p><p><img alt=\"\" class="
     },
     {
-      "team": "FC東京",
-      "title": "百年構想リーグ プレーヤーズ受注グッズ第二弾販売のお知らせ",
-      "link": "https://www.fctokyo.co.jp/news/details/331237/",
-      "published": "Tue, 17 Feb 2026 17:00:00 +0000",
-      "summary": "<p>2月18日(水)17:00よりプレーヤーズ受注グッズ第二弾の新商品を販売いたします。<br />ぜひお買い求めください。</p><h2>商品ラインナップ</h2><p><strong>□プレーヤーズフォトハンガー<br /></strong></p><p><img alt=\"\" class=\"alignnone size-full wp-image-331238\" height=\"1335\""
-    },
-    {
       "team": "ガンバ大阪",
-      "title": "26.2.18［チケット］4/4（土）明治安田J1百年構想 第9戦 京都戦 「あったかおでん付チケット」販売のお知らせ（冬季限定）",
-      "link": "https://www.gamba-osaka.net/news/index/no/19729/c/0/year/2026/month/02/",
-      "published": "26.2.18［チケット］",
+      "title": "26.2.18［チーム］［プレビュー］ACL2で最初の大一番。浦項に勝ってベスト8の切符を掴み取る",
+      "link": "https://www.gamba-osaka.net/news/index/no/19740/c/0/year/2026/month/02/",
+      "published": "26.2.18［チーム］",
       "summary": ""
     },
     {
       "team": "ヴィッセル神戸",
-      "title": "NEWS最新ニュース2026/02/18ファンクラブ会員限定 3月「マッチデーイベント」参加者募集ファンクラブ2026/02/17【更新】【ACLエリートMD8】2/17（火）vs.ジョホール 観戦チ",
-      "link": "https://www.vissel-kobe.co.jp/news/article/26091.html",
+      "title": "NEWS最新ニュース2026/02/183/14（土）ヴィッセル神戸サッカースクール「おためし1DAYサッカークリニック」参加者募集のお知らせスクール2026/02/18ファンクラブ会員限定 3月「マ",
+      "link": "https://www.vissel-kobe.co.jp/news/article/26092.html",
       "published": "2026/02/18",
       "summary": ""
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "2/21（土）長崎戦『ミズノサポーティングマッチDAY』開催のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/cat199/2026/0218221day.php",
+      "published": "2026-02-18",
+      "summary": "2/21（土）長崎戦『ミズノサポーティングマッチDAY』開催のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "日進市SC U6クラス（年中・年長）対象『冬の無料体験』（3月度）実施のご案内",
+      "link": "https://nagoya-grampus.jp/news/school/2026/0218sc-u63.php",
+      "published": "2026-02-18",
+      "summary": "日進市SC U6クラス（年中・年長）対象『冬の無料体験』（3月度）実施のご案内。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
@@ -199,24 +213,10 @@
       "summary": "Announcement of free match ticket invitation for foreigners。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
-      "team": "名古屋グランパス",
-      "title": "クラブグランパス ガチャガチャ両替に関するお願い",
-      "link": "https://nagoya-grampus.jp/news/goods/2026/0217post-2674.php",
-      "published": "2026-02-18",
-      "summary": "クラブグランパス ガチャガチャ両替に関するお願い。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "3/18（水）広島戦にて今年も就活イベントに参加しよう！",
-      "link": "https://nagoya-grampus.jp/news/ticket/2026/0217318-217.php",
-      "published": "2026-02-18",
-      "summary": "3/18（水）広島戦にて今年も就活イベントに参加しよう！。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
       "team": "サンフレッチェ広島",
-      "title": "2/27（金）vs.京都戦 緩衝地帯エリア変更のお知らせ2026.02.14お知らせ",
-      "link": "https://www.sanfrecce.co.jp/news/other/12019",
-      "published": "2026.02.14",
+      "title": "【#HiroshimaToSaudi】目指すはアジアの頂点！ACLEラウンド16 ホームで勝利して広島からサウジに行こう！デジタルクーポンプレゼントのお知らせ2026.02.18チケット",
+      "link": "https://www.sanfrecce.co.jp/news/ticket/12027",
+      "published": "2026.02.18",
       "summary": ""
     }
   ],
@@ -279,8 +279,8 @@
     },
     {
       "team": "アルバルク東京",
-      "title": "NEWEVENT江東区役所 天皇杯優勝記念展示のお知らせ2026-02-17",
-      "link": "https://www.alvark-tokyo.jp/news/detail/id=21194",
+      "title": "NEWGOODS3月 TOYOTA ARENA TOKYO アリーナショップ営業のお知らせ2026-02-18",
+      "link": "https://www.alvark-tokyo.jp/news/detail/id=21203",
       "published": "2026-02-18",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-02-18T04:49:56.824149"
+  "updated_at": "2026-02-18T09:58:01.779863"
 }
