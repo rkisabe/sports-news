@@ -16,6 +16,13 @@
     },
     {
       "team": "ヤクルト",
+      "title": "NEW【キャンプレポート】今季初オープン戦を白星発進！チーム2026.2.21",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/31953",
+      "published": "2026.2.21",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
       "title": "NEW2/1販売新商品の出荷遅延についてグッズ2026.2.21",
       "link": "https://www.yakult-swallows.co.jp/news/detail/31952",
       "published": "2026.2.21",
@@ -23,43 +30,36 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW【再掲】浦添キャンプでファンクラブイベントを開催します！CREW2026.2.20",
+      "title": "【再掲】浦添キャンプでファンクラブイベントを開催します！CREW2026.2.20",
       "link": "https://www.yakult-swallows.co.jp/news/detail/31846",
       "published": "2026.2.20",
       "summary": ""
     },
     {
-      "team": "ヤクルト",
-      "title": "NEW薩摩おいどんリーグ2026のスケジュールについてチーム2026.2.20",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/31951",
-      "published": "2026.2.20",
-      "summary": ""
-    },
-    {
       "team": "ソフトバンク",
-      "title": "チケットクラブホークスタカポイント2026/02/21 (土)NEW!【3月・4月】アウトレットシート販売情報",
-      "link": "https://www.softbankhawks.co.jp/news/detail/202600938352.html",
+      "title": "プレスリリースピンクフルデーグッズ2026/02/21 (土)NEW!ピンクフルユニフォーム2026デザインが決定！",
+      "link": "https://www.softbankhawks.co.jp/news/detail/202600948441.html",
       "published": "2026/02/21 (土)NEW!",
       "summary": ""
     },
     {
       "team": "ソフトバンク",
-      "title": "チケットクラブホークスタカポイント2026/02/21 (土)NEW!【3月・4月】アウトレットシート販売情報",
-      "link": "https://www.softbankhawks.co.jp/news/detail/202600938352.html",
+      "title": "プレスリリースピンクフルデーグッズ2026/02/21 (土)NEW!ピンクフルユニフォーム2026デザインが決定！",
+      "link": "https://www.softbankhawks.co.jp/news/detail/202600948441.html",
       "published": "2026/02/21 (土)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "チケット2026/02/21 (土)NEW!千葉市民向けシルバー割引の実施について",
-      "link": "https://www.marines.co.jp/news/detail/202600777967.html",
+      "title": "チーム2026/02/21 (土)NEW!2/18(水) 練習試合 vs広島",
+      "link": "https://www.marines.co.jp/news/detail/202600780521.html",
       "published": "2026/02/21 (土)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "チケット2026/02/21 (土)NEW!千葉市民向けシルバー割引の実施について",
-      "link": "https://www.marines.co.jp/news/detail/202600777967.html",
+      "title": "チーム2026/02/21 (土)NEW!2/18(水) 練習試合 vs広島",
+      "link": "https://www.marines.co.jp/news/detail/202600780521.html",
       "published": "2026/02/21 (土)NEW!",
       "summary": ""
     },
@@ -109,15 +109,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.02.21試合・練習明治安田J1百年構想リーグ 地域リーグラウンド 第3節 vs 横浜F・マリノス 試合情報",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/237283",
+      "title": "2026.02.21試合・練習マチェイ スコルジャ監督 横浜FM戦試合後会見",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/237378",
       "published": "2026.02.21",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.02.21試合・練習明治安田J1百年構想リーグ 地域リーグラウンド 第3節 vs 横浜F・マリノス 試合情報",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/237283",
+      "title": "2026.02.21試合・練習マチェイ スコルジャ監督 横浜FM戦試合後会見",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/237378",
       "published": "2026.02.21",
       "summary": ""
     },
@@ -165,9 +165,9 @@
     },
     {
       "team": "ガンバ大阪",
-      "title": "26.2.21［インフォメーション］2/22（日）明治安田J1百年構想 第3節 岡山戦 試合情報",
-      "link": "https://www.gamba-osaka.net/news/index/no/19730/c/0/year/2026/month/02/",
-      "published": "26.2.21［インフォメーション］",
+      "title": "26.2.21［チーム］［プレビュー］浦項戦の勝利を手応えに。ガンバが今季のスタイルで岡山の堅守をこじ開ける",
+      "link": "https://www.gamba-osaka.net/news/index/no/19760/c/0/year/2026/month/02/",
+      "published": "26.2.21［チーム］",
       "summary": ""
     },
     {
@@ -176,6 +176,20 @@
       "link": "https://www.vissel-kobe.co.jp/news/article/26103.html",
       "published": "2026/02/20",
       "summary": ""
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "3/1（日）アウェイ ファジアーノ岡山戦 試合情報",
+      "link": "https://nagoya-grampus.jp/news/game/2026/022131-38.php",
+      "published": "2026-02-21",
+      "summary": "3/1（日）アウェイ ファジアーノ岡山戦 試合情報。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "百年構想リーグ特別ユニフォーム 田中マルクス闘莉王氏来場記念デザイン受注販売のお知らせ！",
+      "link": "https://nagoya-grampus.jp/news/goods/2026/0221post-2675.php",
+      "published": "2026-02-21",
+      "summary": "百年構想リーグ特別ユニフォーム 田中マルクス闘莉王氏来場記念デザイン受注販売のお知らせ！。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
@@ -197,20 +211,6 @@
       "link": "https://nagoya-grampus.jp/news/youth/2026/0220-u-17-in-2026.php",
       "published": "2026-02-21",
       "summary": "「ミズノカップU-17 IN豊田2026」レポート。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "4/4（土）C大阪戦｜第2回『グランパス グルメフェスティバル』開催",
-      "link": "https://nagoya-grampus.jp/news/homegameevent/2026/022044c2.php",
-      "published": "2026-02-21",
-      "summary": "4/4（土）C大阪戦｜第2回『グランパス グルメフェスティバル』開催。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "【西鉄旅行様主催】3/22（日）京都サンガＦ.Ｃ.戦「アウェイオフィシャル応援ツアー」参加者募集！",
-      "link": "https://nagoya-grampus.jp/news/game/2026/0220322-2.php",
-      "published": "2026-02-21",
-      "summary": "【西鉄旅行様主催】3/22（日）京都サンガＦ.Ｃ.戦「アウェイオフィシャル応援ツアー」参加者募集！。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "サンフレッチェ広島",
@@ -279,8 +279,8 @@
     },
     {
       "team": "アルバルク東京",
-      "title": "NEWFANCLUBEVENTACADEMY第5回大人のバスケットボール体験会開催のお知らせ2026-02-20",
-      "link": "https://www.alvark-tokyo.jp/news/detail/id=21198",
+      "title": "NEWOTHER「ルークフォト缶バッジ」価格誤りのお詫びと返金についてのご案内2026-02-21",
+      "link": "https://www.alvark-tokyo.jp/news/detail/id=21236",
       "published": "2026-02-21",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-02-21T04:24:39.394900"
+  "updated_at": "2026-02-21T09:37:31.208346"
 }
