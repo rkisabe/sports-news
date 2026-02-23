@@ -16,7 +16,14 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW【キャンプレポート】オープン戦2戦目は黒星、連勝ならずチーム2026.2.22",
+      "title": "NEW【キャンプレポート】終盤に勝ち越し、オープン戦2勝目！チーム2026.2.23",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/31957",
+      "published": "2026.2.23",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "【キャンプレポート】オープン戦2戦目は黒星、連勝ならずチーム2026.2.22",
       "link": "https://www.yakult-swallows.co.jp/news/detail/31954",
       "published": "2026.2.22",
       "summary": ""
@@ -29,23 +36,16 @@
       "summary": ""
     },
     {
-      "team": "ヤクルト",
-      "title": "2/1販売新商品の出荷遅延についてグッズ2026.2.21",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/31952",
-      "published": "2026.2.21",
-      "summary": ""
-    },
-    {
       "team": "ソフトバンク",
-      "title": "球団2026/02/23 (月)NEW!ハニーズダンスアカデミードーム校無料体験会開催",
-      "link": "https://www.softbankhawks.co.jp/news/detail/202600951142.html",
+      "title": "ファームチケットイベント2026/02/23 (月)NEW!【ウェルカム☆ビジターデー】ビジターイベント付チケット発売！",
+      "link": "https://www.softbankhawks.co.jp/news/detail/202600951678.html",
       "published": "2026/02/23 (月)NEW!",
       "summary": ""
     },
     {
       "team": "ソフトバンク",
-      "title": "球団2026/02/23 (月)NEW!ハニーズダンスアカデミードーム校無料体験会開催",
-      "link": "https://www.softbankhawks.co.jp/news/detail/202600951142.html",
+      "title": "ファームチケットイベント2026/02/23 (月)NEW!【ウェルカム☆ビジターデー】ビジターイベント付チケット発売！",
+      "link": "https://www.softbankhawks.co.jp/news/detail/202600951678.html",
       "published": "2026/02/23 (月)NEW!",
       "summary": ""
     },
@@ -93,15 +93,15 @@
     },
     {
       "team": "オリックス",
-      "title": "グッズ2026/02/23 (月)NEW!【2月24日（火）～3月2日（月）オンライン限定】ネーム＆ナンバーTシャツ全メンバー受注販売",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600703195.html",
+      "title": "BPB DX2026/02/23 (月)NEW!【BPB DX】動画『2026選手ファンミーティングの裏側』公開！",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600705121.html",
       "published": "2026/02/23 (月)NEW!",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "グッズ2026/02/23 (月)NEW!【2月24日（火）～3月2日（月）オンライン限定】ネーム＆ナンバーTシャツ全メンバー受注販売",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600703195.html",
+      "title": "BPB DX2026/02/23 (月)NEW!【BPB DX】動画『2026選手ファンミーティングの裏側』公開！",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600705121.html",
       "published": "2026/02/23 (月)NEW!",
       "summary": ""
     }
@@ -130,6 +130,20 @@
     },
     {
       "team": "FC東京",
+      "title": "2/28(土)柏戦 来場者限定「青赤アプリくじ」開催のお知らせ",
+      "link": "https://www.fctokyo.co.jp/news/details/331369/",
+      "published": "Mon, 23 Feb 2026 15:00:00 +0000",
+      "summary": "<p><img alt=\"\" class=\"alignnone size-full wp-image-330155\" height=\"1440\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/02/apriTOP-scaled.png?x11029\" width=\"2560\" /></p><p>2月28日(土)2026明治"
+    },
+    {
+      "team": "FC東京",
+      "title": "2/28(土)柏戦 アトラクション情報",
+      "link": "https://www.fctokyo.co.jp/news/details/331359/",
+      "published": "Mon, 23 Feb 2026 14:00:00 +0000",
+      "summary": "<p>2月28日(土)明治安田Ｊ１百年構想リーグ第4節 vs柏レイソル(15:00キックオフ/味の素スタジアム)の、青赤パーク supported by ジョイポリスのアトラクション情報をお知らせいたします。<br />試合前に青赤パーク supported by ジョイポリスで楽しい思い出を作りましょう！<br /><strong>◇柏戦の飲食情報は<a href=\"https://www.fc"
+    },
+    {
+      "team": "FC東京",
       "title": "2/28(土)柏戦 青赤パークsupported by ジョイポリス モバイルオーダーサービスのお知らせ",
       "link": "https://www.fctokyo.co.jp/news/details/331422/",
       "published": "Mon, 23 Feb 2026 13:00:00 +0000",
@@ -148,20 +162,6 @@
       "link": "https://www.fctokyo.co.jp/school/report/331523/",
       "published": "Mon, 23 Feb 2026 11:00:00 +0000",
       "summary": "<p>2月21日(土)、「2026明治安田J1百年構想リーグ 第3節 川崎フロンターレ vs FC東京」の試合前に、<br />等々力第１サッカー場にて、小学１・２年生を対象に、川崎フロンターレのスクール生との交流戦を実施いたしました。</p><p>&nbsp;</p><p><img alt=\"\" class=\"aligncenter size-large wp-image-331532\" hei"
-    },
-    {
-      "team": "FC東京",
-      "title": "2/28(土)柏戦 東京都『女性の健康週間』への協力について",
-      "link": "https://www.fctokyo.co.jp/news/details/331346/",
-      "published": "Mon, 23 Feb 2026 10:00:00 +0000",
-      "summary": "<p>2月28日(土) 明治安田Ｊ１百年構想リーグ 第4節 vs 柏レイソル(15:00キックオフ/味の素スタジアム)において、東京都と連携し3月1日～3月8日の『女性の健康週間』にあわせた子宮頸がん検診・乳がん検診などの受診啓発のPRを実施いたします。</p><p>みなさまのご理解とご協力をよろしくお願いいたします。</p><p><img alt=\"\" class=\"alignnone size"
-    },
-    {
-      "team": "FC東京",
-      "title": "【パーク府中】3月普及部コーチ指導イベント参加者募集のお知らせ",
-      "link": "https://www.fctokyo.co.jp/news/details/331514/",
-      "published": "Mon, 23 Feb 2026 09:00:00 +0000",
-      "summary": "<p>FC東京パーク府中では、FC東京普及部コーチの指導が受けられるイベントの参加者を募集しております。</p><p>詳細・対象はイベントごとに予約サイトからご確認ください。<br />たくさんのご参加をお待ちしております！</p><p><img alt=\"\" class=\"alignnone size-full wp-image-331515\" height=\"2466\" src=\"https:"
     },
     {
       "team": "ガンバ大阪",
@@ -279,8 +279,8 @@
     },
     {
       "team": "アルバルク東京",
-      "title": "NEWOTHER「ルークフォト缶バッジ」価格誤りのお詫びと返金についてのご案内2026-02-21",
-      "link": "https://www.alvark-tokyo.jp/news/detail/id=21236",
+      "title": "NEWFANCLUBPARTNER第23節 佐賀戦 ファン投票で選出「MAN OF THE GAME supported by リクルートスタッフィング」結果発表2026-02-23",
+      "link": "https://www.alvark-tokyo.jp/news/detail/id=21238",
       "published": "2026-02-23",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-02-23T04:54:55.898609"
+  "updated_at": "2026-02-23T10:02:58.975868"
 }
