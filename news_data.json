@@ -16,6 +16,13 @@
     },
     {
       "team": "ヤクルト",
+      "title": "NEW【キャンプレポート】第4クール4日目、キャンプ最後の実戦に向け調整チーム2026.2.24",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/31958",
+      "published": "2026.2.24",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
       "title": "NEWOfficial Goods Shop浦添店 営業時間のお知らせグッズ2026.2.24",
       "link": "https://www.yakult-swallows.co.jp/news/detail/31960",
       "published": "2026.2.24",
@@ -26,13 +33,6 @@
       "title": "NEW「バインダーを飾ろう！私の2025シーズンベストスワローズトレカ」最終投票結果発表！その他2026.2.24",
       "link": "https://www.yakult-swallows.co.jp/news/detail/31955",
       "published": "2026.2.24",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
-      "title": "【キャンプレポート】終盤に勝ち越し、オープン戦2勝目！チーム2026.2.23",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/31957",
-      "published": "2026.2.23",
       "summary": ""
     },
     {
@@ -130,6 +130,13 @@
     },
     {
       "team": "FC東京",
+      "title": "3/7(土)横浜FM戦 特別演出",
+      "link": "https://www.fctokyo.co.jp/news/details/331429/",
+      "published": "Tue, 24 Feb 2026 18:00:00 +0000",
+      "summary": "<p>3月7日(土) 明治安田Ｊ1百年構想リーグ 第5節 vs 横浜F・マリノス(14:00キックオフ/MUFGスタジアム(国立競技場))にて、特別演出を実施いたします。<br />今シーズン最初のMUFGスタジアムでの試合を、炎や花火、クラブ初の青赤のカラースモークを使用した演出で彩ります。<br />迫力のある特別な演出をぜひお楽しみください！<br />火力MAXで『国立MAX熱戦』をお届け"
+    },
+    {
+      "team": "FC東京",
       "title": "2026オフィシャルチームウェア(練習着・アンセム)販売のお知らせ",
       "link": "https://www.fctokyo.co.jp/news/details/331430/",
       "published": "Tue, 24 Feb 2026 17:00:00 +0000",
@@ -155,13 +162,6 @@
       "link": "https://www.fctokyo.co.jp/news/details/331383/",
       "published": "Tue, 24 Feb 2026 14:00:00 +0000",
       "summary": "<p><span style=\"color: #ff0000;\"><strong>本試合はMUFGスタジアム(国立競技場)での開催となるため一部観戦マナーが異なります。</strong></span></p><h2><strong>J</strong><strong>リーグ統一禁止ルールについて</strong></h2><p>スタジアム来場者の安全で快適な試合観戦を提供するため､FC東京では管理"
-    },
-    {
-      "team": "FC東京",
-      "title": "3/7(土)横浜FM戦 飲食情報",
-      "link": "https://www.fctokyo.co.jp/news/details/331309/",
-      "published": "Tue, 24 Feb 2026 13:00:00 +0000",
-      "summary": "<p><img alt=\"\" class=\"alignnone size-full wp-image-331310\" height=\"1080\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/02/001-4.jpg?x32318\" width=\"1920\" /></p><p>3月7日(土) 明治安田Ｊ１百年構想リーグ 第"
     },
     {
       "team": "ガンバ大阪",
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-02-24T09:59:09.469593"
+  "updated_at": "2026-02-24T14:11:56.436982"
 }
