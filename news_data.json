@@ -16,6 +16,13 @@
     },
     {
       "team": "ヤクルト",
+      "title": "NEW【ファーム試合結果】2月28日（土）おいどんリーグ 東京ガス戦（薩摩川内）チーム2026.2.28",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/31972",
+      "published": "2026.2.28",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
       "title": "NEWOfficial Goods Shop（スタジアム通り店／信濃町店） 3月休業日のお知らせその他2026.2.28",
       "link": "https://www.yakult-swallows.co.jp/news/detail/31979",
       "published": "2026.2.28",
@@ -23,15 +30,8 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEWSwallows CREW 2026 入会記念品配送スケジュールのお知らせ（第二弾）CREW2026.2.27",
+      "title": "Swallows CREW 2026 入会記念品配送スケジュールのお知らせ（第二弾）CREW2026.2.27",
       "link": "https://www.yakult-swallows.co.jp/news/detail/31980",
-      "published": "2026.2.27",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
-      "title": "【限定イベント】開幕直前！五十嵐亮太さん×坂口智隆さんスペシャルトークショーをオンライン開催します！CREW2026.2.27",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/31949",
       "published": "2026.2.27",
       "summary": ""
     },
@@ -109,15 +109,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.02.28試合・練習マチェイ スコルジャ監督 鹿島戦試合後会見",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/237791",
+      "title": "2026.02.28試合・練習肥田野「下を向かず、次の試合で勝つことだけにフォーカスしてやっていく」",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/237829",
       "published": "2026.02.28",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.02.28試合・練習マチェイ スコルジャ監督 鹿島戦試合後会見",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/237791",
+      "title": "2026.02.28試合・練習肥田野「下を向かず、次の試合で勝つことだけにフォーカスしてやっていく」",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/237829",
       "published": "2026.02.28",
       "summary": ""
     },
@@ -214,8 +214,8 @@
     },
     {
       "team": "サンフレッチェ広島",
-      "title": "東俊希選手の入籍および第一子誕生のお知らせ2026.02.28チーム",
-      "link": "https://www.sanfrecce.co.jp/news/team/12063",
+      "title": "「JリーグオールスターDAZNカップ」サンフレッチェクラブ会員向け先行抽選販売のお知らせ2026.02.28サンフレッチェクラブ",
+      "link": "https://www.sanfrecce.co.jp/news/fanclub/12064",
       "published": "2026.02.28",
       "summary": ""
     }
@@ -335,8 +335,8 @@
     },
     {
       "team": "琉球ゴールデンキングス",
-      "title": "NEWTEAMINFO#8 佐土原選手「FIBA バスケットボールワールドカップ 2027 アジア地区予選」Window2 韓国代表戦 日本代表メンバー選出のお知らせ2026-02-28",
-      "link": "https://goldenkings.jp/news/detail/id=22821",
+      "title": "NEWFANCLUBファンクラブイベント2025-26開催のお知らせ2026-02-28",
+      "link": "https://goldenkings.jp/news/detail/id=22814",
       "published": "2026-02-28",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-02-28T09:34:01.111329"
+  "updated_at": "2026-02-28T13:38:08.699248"
 }
