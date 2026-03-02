@@ -9,9 +9,23 @@
     },
     {
       "team": "横浜DeNA",
-      "title": "FOODS2026/3/23/3(火)～『&9（アンド・ナイン）』にて、開幕応援キャンペーン開催！期間限定メニュー発売&ポストカードプレゼント！",
-      "link": "https://www.baystars.co.jp/news/2026/03/0302_03.php",
+      "title": "EVENT2026/3/24/11(土)〜4/12(日)『B-PARTY 2026』が今年も開催！",
+      "link": "https://www.baystars.co.jp/news/2026/03/0302_04.php",
       "published": "2026/3/2",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "NEW春季教育リーグについてチーム2026.3.2",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/31985",
+      "published": "2026.3.2",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "NEW2026キャンプグッズ再受注に関しましてグッズ2026.3.2",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/31986",
+      "published": "2026.3.2",
       "summary": ""
     },
     {
@@ -22,44 +36,30 @@
       "summary": ""
     },
     {
-      "team": "ヤクルト",
-      "title": "NEW神宮球場 新スタジアムMC就任のお知らせその他2026.3.2",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/31977",
-      "published": "2026.3.2",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
-      "title": "NEW4/4（土）きらぼしDAY開催！「観戦チケット付き！スタメンキッズと試合前練習見学会に参加できるキャンペーン」のご案内イベント2026.3.2",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/31982",
-      "published": "2026.3.2",
-      "summary": ""
-    },
-    {
       "team": "ソフトバンク",
-      "title": "スポンサー2026/03/02 (月)NEW!Senjin Holding福岡支社開設記念キャンペーン開催",
-      "link": "https://www.softbankhawks.co.jp/news/detail/202600956446.html",
+      "title": "スポンサー2026/03/02 (月)NEW!DAZNと「ライトスタンドパートナー」契約を締結！！",
+      "link": "https://www.softbankhawks.co.jp/news/detail/202600956350.html",
       "published": "2026/03/02 (月)NEW!",
       "summary": ""
     },
     {
       "team": "ソフトバンク",
-      "title": "スポンサー2026/03/02 (月)NEW!Senjin Holding福岡支社開設記念キャンペーン開催",
-      "link": "https://www.softbankhawks.co.jp/news/detail/202600956446.html",
+      "title": "スポンサー2026/03/02 (月)NEW!DAZNと「ライトスタンドパートナー」契約を締結！！",
+      "link": "https://www.softbankhawks.co.jp/news/detail/202600956350.html",
       "published": "2026/03/02 (月)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "メディアその他2026/03/02 (月)NEW!「J:magazine！」種市投手×西川選手インタビュー記事掲載(前編)",
-      "link": "https://www.marines.co.jp/news/detail/202600781894.html",
+      "title": "チケット2026/03/02 (月)NEW!2026シーズンビジターゲームチケット販売について",
+      "link": "https://www.marines.co.jp/news/detail/202600786391.html",
       "published": "2026/03/02 (月)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "メディアその他2026/03/02 (月)NEW!「J:magazine！」種市投手×西川選手インタビュー記事掲載(前編)",
-      "link": "https://www.marines.co.jp/news/detail/202600781894.html",
+      "title": "チケット2026/03/02 (月)NEW!2026シーズンビジターゲームチケット販売について",
+      "link": "https://www.marines.co.jp/news/detail/202600786391.html",
       "published": "2026/03/02 (月)NEW!",
       "summary": ""
     },
@@ -93,15 +93,15 @@
     },
     {
       "team": "オリックス",
-      "title": "その他2026/03/02 (月)NEW!【パーソル パ・リーグTV会員限定】いよいよシーズン開幕！パ・リーグ6球場へ行こう！抽選で34,000名様をご招待！",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600706614.html",
+      "title": "BPB DX2026/03/02 (月)NEW!【BPB DX】動画『BPB DXの時間 #32』公開！",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600708245.html",
       "published": "2026/03/02 (月)NEW!",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "その他2026/03/02 (月)NEW!【パーソル パ・リーグTV会員限定】いよいよシーズン開幕！パ・リーグ6球場へ行こう！抽選で34,000名様をご招待！",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600706614.html",
+      "title": "BPB DX2026/03/02 (月)NEW!【BPB DX】動画『BPB DXの時間 #32』公開！",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600708245.html",
       "published": "2026/03/02 (月)NEW!",
       "summary": ""
     }
@@ -109,16 +109,16 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.02.28試合・練習肥田野「下を向かず、次の試合で勝つことだけにフォーカスしてやっていく」",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/237829",
-      "published": "2026.02.28",
+      "title": "2026.03.02試合・練習3/3(火)公開トレーニング後のファンサービス中止のお知らせ",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/237852",
+      "published": "2026.03.02",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.02.28試合・練習肥田野「下を向かず、次の試合で勝つことだけにフォーカスしてやっていく」",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/237829",
-      "published": "2026.02.28",
+      "title": "2026.03.02試合・練習3/3(火)公開トレーニング後のファンサービス中止のお知らせ",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/237852",
+      "published": "2026.03.02",
       "summary": ""
     },
     {
@@ -172,9 +172,9 @@
     },
     {
       "team": "ヴィッセル神戸",
-      "title": "NEWS最新ニュース2026/02/28【ACLエリート ラウンド16 第1戦】3/4（水）vs.FCソウル 観戦チケット及び注意事項のお知らせクラブ2026/02/28大丸神戸店前・まちなかコンテナ",
-      "link": "https://www.vissel-kobe.co.jp/news/article/26124.html",
-      "published": "2026/02/28",
+      "title": "NEWS最新ニュース2026/03/023/11（水）vs.FCソウル「ホームゲーム開催情報」のお知らせクラブ2026/02/28【ACLエリート ラウンド16 第1戦】3/4（水）vs.FCソウル ",
+      "link": "https://www.vissel-kobe.co.jp/homegame/2026/0311/",
+      "published": "2026/03/02",
       "summary": ""
     },
     {
@@ -335,8 +335,8 @@
     },
     {
       "team": "琉球ゴールデンキングス",
-      "title": "NEWFANCLUBファンクラブイベント2025-26開催のお知らせ2026-02-28",
-      "link": "https://goldenkings.jp/news/detail/id=22814",
+      "title": "NEWCSRゴーディーによるあいさつ運動(2026年2月) 実施のご報告2026-03-02",
+      "link": "https://goldenkings.jp/news/detail/id=22827",
       "published": "2026-03-02",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-03-02T04:45:22.310075"
+  "updated_at": "2026-03-02T09:59:21.534972"
 }
