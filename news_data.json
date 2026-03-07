@@ -109,15 +109,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.03.07試合・練習マチェイ スコルジャ監督 水戸戦試合後会見",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/238069",
+      "title": "2026.03.07試合・練習照内「今日勝っただけでは誰も満足していない、次も必ず勝ちたい」",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/238121",
       "published": "2026.03.07",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.03.07試合・練習マチェイ スコルジャ監督 水戸戦試合後会見",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/238069",
+      "title": "2026.03.07試合・練習照内「今日勝っただけでは誰も満足していない、次も必ず勝ちたい」",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/238121",
       "published": "2026.03.07",
       "summary": ""
     },
@@ -179,6 +179,13 @@
     },
     {
       "team": "名古屋グランパス",
+      "title": "3/18（水）広島戦｜アクティビティ参加者募集開始のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/fanclub/2026/0307318-218.php",
+      "published": "2026-03-07",
+      "summary": "3/18（水）広島戦｜アクティビティ参加者募集開始のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
       "title": "4/4（土）C大阪戦｜臨時バス運行のお知らせ",
       "link": "https://nagoya-grampus.jp/news/game/2026/030744c-1.php",
       "published": "2026-03-07",
@@ -204,13 +211,6 @@
       "link": "https://nagoya-grampus.jp/news/goods/2026/030636-18.php",
       "published": "2026-03-07",
       "summary": "3/6（金）今週のグッズ担当イチオシアイテム！。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "練習公開のお知らせ",
-      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/0306post-2684.php",
-      "published": "2026-03-07",
-      "summary": "練習公開のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "サンフレッチェ広島",
@@ -307,8 +307,8 @@
     },
     {
       "team": "川崎ブレイブサンダース",
-      "title": "2/15 ○宇都宮 104-88 川崎● りそなグループB.LEAGUE 2025-26 B1リーグ戦 第23節GAME2 (39/60)2026-02-15",
-      "link": "https://kawasaki-bravethunders.com/game/?YMD=20260215&KEY=505214&DOUBLEHEADERFLAG=false&TAB=R",
+      "title": "3/7 ○川崎 84-72 滋賀● りそなグループB.LEAGUE 2025-26 B1リーグ戦 第24節GAME1 (40/60)2026-03-07",
+      "link": "https://kawasaki-bravethunders.com/game/?YMD=20260307&KEY=505243&DOUBLEHEADERFLAG=false&TAB=R",
       "published": "2026-03-07",
       "summary": ""
     },
@@ -328,15 +328,15 @@
     },
     {
       "team": "横浜ビー・コルセアーズ",
-      "title": "【GAME REPORT】 りそなグループ B.LEAGUE 2025-26 SEASON 第23節 vs FE名古屋 GAME22026-02-15",
-      "link": "https://b-corsairs.com/game/?YMD=20260215&KEY=505228&DOUBLEHEADERFLAG=false&TAB=R",
+      "title": "【GAME REPORT】 りそなグループ B.LEAGUE 2025-26 SEASON 第24節 vs 北海道 GAME12026-03-07",
+      "link": "https://b-corsairs.com/game/?YMD=20260307&KEY=505245&DOUBLEHEADERFLAG=false&TAB=R",
       "published": "2026-03-07",
       "summary": ""
     },
     {
       "team": "琉球ゴールデンキングス",
-      "title": "NEWINFO～インクルーシブなスポーツ観戦の推進に関するプロジェクト～ キッズチェア貸出開始のご案内2026-03-06",
-      "link": "https://goldenkings.jp/news/detail/id=22844",
+      "title": "NEWGAME【コメント】島根戦 試合後コメント[3/7(土)]2026-03-07",
+      "link": "https://goldenkings.jp/news/detail/id=22775",
       "published": "2026-03-07",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-03-07T09:36:40.477961"
+  "updated_at": "2026-03-07T13:40:27.372687"
 }
