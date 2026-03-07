@@ -23,14 +23,14 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW3/15(日)「出陣式」トークショー出演選手公開＆質問募集開始イベント2026.3.6",
+      "title": "3/15(日)「出陣式」トークショー出演選手公開＆質問募集開始イベント2026.3.6",
       "link": "https://yakult-swallows.co.jp/special/2026_syutsujin",
       "published": "2026.3.6",
       "summary": ""
     },
     {
       "team": "ヤクルト",
-      "title": "NEW2026CREWナビゲーター始動！特設ページを更新しましたCREW2026.3.6",
+      "title": "2026CREWナビゲーター始動！特設ページを更新しましたCREW2026.3.6",
       "link": "https://www.yakult-swallows.co.jp/fanclub/crew_navigator2026",
       "published": "2026.3.6",
       "summary": ""
@@ -109,15 +109,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.03.07試合・練習明治安田J1百年構想リーグ 地域リーグラウンド 第5節 vs 水戸ホーリーホック 試合情報",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/237985",
+      "title": "2026.03.07試合・練習マチェイ スコルジャ監督 水戸戦試合後会見",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/238069",
       "published": "2026.03.07",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.03.07試合・練習明治安田J1百年構想リーグ 地域リーグラウンド 第5節 vs 水戸ホーリーホック 試合情報",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/237985",
+      "title": "2026.03.07試合・練習マチェイ スコルジャ監督 水戸戦試合後会見",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/238069",
       "published": "2026.03.07",
       "summary": ""
     },
@@ -165,9 +165,9 @@
     },
     {
       "team": "ガンバ大阪",
-      "title": "26.3.7［インフォメーション］3/8（日）明治安田J1百年構想 第5節 長崎戦 吹田Gステージ情報",
-      "link": "https://www.gamba-osaka.net/news/index/no/19850/c/0/year/2026/month/03/",
-      "published": "26.3.7［インフォメーション］",
+      "title": "26.3.7［チーム］［プレビュー］勝ってACL2にも弾みをつける。ガンバが総力戦で長崎に勝ちに行く",
+      "link": "https://www.gamba-osaka.net/news/index/no/19854/c/0/year/2026/month/03/",
+      "published": "26.3.7［チーム］",
       "summary": ""
     },
     {
@@ -176,6 +176,13 @@
       "link": "https://www.vissel-kobe.co.jp/news/article/26155.html",
       "published": "2026/03/06",
       "summary": ""
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "4/4（土）C大阪戦｜臨時バス運行のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/game/2026/030744c-1.php",
+      "published": "2026-03-07",
+      "summary": "4/4（土）C大阪戦｜臨時バス運行のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
@@ -204,13 +211,6 @@
       "link": "https://nagoya-grampus.jp/news/pressrelease/2026/0306post-2684.php",
       "published": "2026-03-07",
       "summary": "練習公開のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "U-18竹内 悠三選手、「U-17日本代表 3月アルゼンチン遠征」メンバー選出について",
-      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/0306u-18-u-17-3-1.php",
-      "published": "2026-03-07",
-      "summary": "U-18竹内 悠三選手、「U-17日本代表 3月アルゼンチン遠征」メンバー選出について。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "サンフレッチェ広島",
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-03-07T04:19:31.207176"
+  "updated_at": "2026-03-07T09:36:40.477961"
 }
