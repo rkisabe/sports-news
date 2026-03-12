@@ -16,6 +16,13 @@
     },
     {
       "team": "ヤクルト",
+      "title": "NEW【Swallows CREW】オープン戦限定！WEB入会紹介キャンペーンを実施しますCREW2026.3.12",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32007",
+      "published": "2026.3.12",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
       "title": "NEW3月28日（土）新宿髙島屋との共同イベント 『スワローズボールパーク』開催決定！イベント2026.3.12",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32006",
       "published": "2026.3.12",
@@ -29,13 +36,6 @@
       "summary": ""
     },
     {
-      "team": "ヤクルト",
-      "title": "NEWオープン戦新商品の販売お知らせグッズ2026.3.12",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32009",
-      "published": "2026.3.12",
-      "summary": ""
-    },
-    {
       "team": "ソフトバンク",
       "title": "ファームチケットイベント2026/03/12 (木)NEW!【タマスタ筑後】5月のチケット発売！",
       "link": "https://www.softbankhawks.co.jp/news/detail/202600962308.html",
@@ -51,15 +51,15 @@
     },
     {
       "team": "ロッテ",
-      "title": "チケット2026/03/12 (木)NEW!【3/12(木)更新】3/27(金)埼玉西武戦 開幕戦チケット再販売について",
-      "link": "https://www.marines.co.jp/news/detail/202600784407.html",
+      "title": "グッズ2026/03/12 (木)NEW!3/13(金)Spring Camp2026選手ビジュアルグッズ、全選手展開 マンスリー総柄グッズなど受注販売グッズ情報",
+      "link": "https://www.marines.co.jp/news/detail/202600795004.html",
       "published": "2026/03/12 (木)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "チケット2026/03/12 (木)NEW!【3/12(木)更新】3/27(金)埼玉西武戦 開幕戦チケット再販売について",
-      "link": "https://www.marines.co.jp/news/detail/202600784407.html",
+      "title": "グッズ2026/03/12 (木)NEW!3/13(金)Spring Camp2026選手ビジュアルグッズ、全選手展開 マンスリー総柄グッズなど受注販売グッズ情報",
+      "link": "https://www.marines.co.jp/news/detail/202600795004.html",
       "published": "2026/03/12 (木)NEW!",
       "summary": ""
     },
@@ -109,15 +109,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.03.12チーム「メンタル面とプレー強度は、さらに向上している」マチェイ スコルジャ監督(定例会見3/12)",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/238364",
+      "title": "2026.03.12チームPICK UP PLAYER | 早川隼平",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/238366",
       "published": "2026.03.12",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.03.12チーム「メンタル面とプレー強度は、さらに向上している」マチェイ スコルジャ監督(定例会見3/12)",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/238364",
+      "title": "2026.03.12チームPICK UP PLAYER | 早川隼平",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/238366",
       "published": "2026.03.12",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-03-12T09:53:31.398031"
+  "updated_at": "2026-03-12T14:04:07.100498"
 }
