@@ -23,14 +23,14 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEWCREW DAY 第1弾　CREW会員限定イベントの募集を開始！CREW2026.3.13",
+      "title": "CREW DAY 第1弾　CREW会員限定イベントの募集を開始！CREW2026.3.13",
       "link": "https://www.yakult-swallows.co.jp/event/swallows_crew_day/2026",
       "published": "2026.3.13",
       "summary": ""
     },
     {
       "team": "ヤクルト",
-      "title": "NEW3/13（金）～3/15（日）オープン戦期間中の信濃町店の決済についてグッズ2026.3.13",
+      "title": "3/13（金）～3/15（日）オープン戦期間中の信濃町店の決済についてグッズ2026.3.13",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32012",
       "published": "2026.3.13",
       "summary": ""
@@ -109,15 +109,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.03.14試合・練習明治安田J1百年構想リーグ 地域リーグラウンド 第6節 vs 東京ヴェルディ 試合情報",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/238360",
+      "title": "2026.03.14試合・練習明治安田J1百年構想リーグ 地域リーグラウンド 第6節 vs 東京ヴェルディ 試合結果",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/238412",
       "published": "2026.03.14",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.03.14試合・練習明治安田J1百年構想リーグ 地域リーグラウンド 第6節 vs 東京ヴェルディ 試合情報",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/238360",
+      "title": "2026.03.14試合・練習明治安田J1百年構想リーグ 地域リーグラウンド 第6節 vs 東京ヴェルディ 試合結果",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/238412",
       "published": "2026.03.14",
       "summary": ""
     },
@@ -214,9 +214,9 @@
     },
     {
       "team": "サンフレッチェ広島",
-      "title": "【3/14（土）G大阪戦】ヤマザキビスケット「キッズイレブン」開催のお知らせ2026.03.13イベント・グルメ",
-      "link": "https://www.sanfrecce.co.jp/news/event/12108",
-      "published": "2026.03.13",
+      "title": "明治安田J1百年構想リーグ WEST第11節以降のセンサリールーム申込スケジュールについて2026.03.14チケット",
+      "link": "https://www.sanfrecce.co.jp/news/ticket/12112",
+      "published": "2026.03.14",
       "summary": ""
     }
   ],
@@ -307,7 +307,7 @@
     },
     {
       "team": "川崎ブレイブサンダース",
-      "title": "3/11 ●川崎 76-89 群馬○ りそなグループB.LEAGUE 2025-26 B1リーグ戦 第25 (42/60)2026-03-11",
+      "title": "3/11 ●川崎 76-89 群馬○ りそなグループB.LEAGUE 2025-26 B1リーグ戦 第25節 (42/60)2026-03-11",
       "link": "https://kawasaki-bravethunders.com/game/?YMD=20260311&KEY=505266&DOUBLEHEADERFLAG=false&TAB=R",
       "published": "2026-03-14",
       "summary": ""
@@ -328,8 +328,8 @@
     },
     {
       "team": "横浜ビー・コルセアーズ",
-      "title": "【GAME REPORT】 りそなグループ B.LEAGUE 2025-26 SEASON 第25節 vs 広島ドラゴンフライズ2026-03-11",
-      "link": "https://b-corsairs.com/game/?YMD=20260311&KEY=505271&DOUBLEHEADERFLAG=false&TAB=R",
+      "title": "【GAME REPORT】 りそなグループ B.LEAGUE 2025-26 SEASON 第26節 vs 三河 GAME12026-03-14",
+      "link": "https://b-corsairs.com/game/?YMD=20260314&KEY=505284&DOUBLEHEADERFLAG=false&TAB=R",
       "published": "2026-03-14",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-03-14T04:29:23.731841"
+  "updated_at": "2026-03-14T09:41:12.794098"
 }
