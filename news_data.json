@@ -16,6 +16,13 @@
     },
     {
       "team": "ヤクルト",
+      "title": "NEWつば九郎の活動再開についてチーム2026.3.15",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32015",
+      "published": "2026.3.15",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
       "title": "3月14日（土）オリックス戦チケット完売のお知らせチケット2026.3.13",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32011",
       "published": "2026.3.13",
@@ -29,13 +36,6 @@
       "summary": ""
     },
     {
-      "team": "ヤクルト",
-      "title": "3/13（金）～3/15（日）オープン戦期間中の信濃町店の決済についてグッズ2026.3.13",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32012",
-      "published": "2026.3.13",
-      "summary": ""
-    },
-    {
       "team": "ソフトバンク",
       "title": "イベントチケットグッズクラブホークスCSR2026/03/15 (日)NEW!【4/16】「ファイト！九州デーin北九州」イベント情報",
       "link": "https://www.softbankhawks.co.jp/news/detail/202600964951.html",
@@ -51,16 +51,16 @@
     },
     {
       "team": "ロッテ",
-      "title": "アカデミー2026/03/14 (土)マリーンズ・ダンスアカデミー「フィットネスクラブ東京ドーム ららぽーと柏の葉校」新規開校および無料体験会実施のお知らせ",
-      "link": "https://www.marines.co.jp/news/detail/202600794528.html",
-      "published": "2026/03/14 (土)",
+      "title": "イベント2026/03/15 (日)NEW!【3/15(日)更新】2026 OPENING SERIES MARINES NATION イベント情報",
+      "link": "https://www.marines.co.jp/news/detail/202600772647.html",
+      "published": "2026/03/15 (日)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "アカデミー2026/03/14 (土)マリーンズ・ダンスアカデミー「フィットネスクラブ東京ドーム ららぽーと柏の葉校」新規開校および無料体験会実施のお知らせ",
-      "link": "https://www.marines.co.jp/news/detail/202600794528.html",
-      "published": "2026/03/14 (土)",
+      "title": "イベント2026/03/15 (日)NEW!【3/15(日)更新】2026 OPENING SERIES MARINES NATION イベント情報",
+      "link": "https://www.marines.co.jp/news/detail/202600772647.html",
+      "published": "2026/03/15 (日)NEW!",
       "summary": ""
     },
     {
@@ -214,8 +214,8 @@
     },
     {
       "team": "サンフレッチェ広島",
-      "title": "サンフレッチェ広島工大高ジュニアユース『高円宮杯U15サッカーリーグ2026 HiFAユースリーグ 2部』結果のお知らせ2026.03.15育成",
-      "link": "https://www.sanfrecce.co.jp/news/academy/12114",
+      "title": "システムメンテナンスのお知らせ2026.03.15お知らせ",
+      "link": "https://www.sanfrecce.co.jp/news/other/12111",
       "published": "2026.03.15",
       "summary": ""
     }
@@ -328,8 +328,8 @@
     },
     {
       "team": "横浜ビー・コルセアーズ",
-      "title": "【GAME REPORT】 りそなグループ B.LEAGUE 2025-26 SEASON 第26節 vs 三河 GAME12026-03-14",
-      "link": "https://b-corsairs.com/game/?YMD=20260314&KEY=505284&DOUBLEHEADERFLAG=false&TAB=R",
+      "title": "【GAME REPORT】 りそなグループ B.LEAGUE 2025-26 SEASON 第26節 vs 三河 GAME22026-03-15",
+      "link": "https://b-corsairs.com/game/?YMD=20260315&KEY=505285&DOUBLEHEADERFLAG=false&TAB=R",
       "published": "2026-03-15",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-03-15T05:02:10.836023"
+  "updated_at": "2026-03-15T09:42:27.022871"
 }
