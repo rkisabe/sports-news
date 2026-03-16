@@ -16,6 +16,13 @@
     },
     {
       "team": "ヤクルト",
+      "title": "NEW激励会を実施！「ブンブン丸号はすでに出航しております。燕心を全開にプライドと意地をかけて戦って参ります」（池山監督）チーム2026.3.16",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32014",
+      "published": "2026.3.16",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
       "title": "NEW今年も開校！学生限定のスワローズ学燕！チケット2026.3.16",
       "link": "https://www.yakult-swallows.co.jp/event/swallows_school2026",
       "published": "2026.3.16",
@@ -26,13 +33,6 @@
       "title": "つば九郎の活動再開についてチーム2026.3.15",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32015",
       "published": "2026.3.15",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
-      "title": "3月14日（土）オリックス戦チケット完売のお知らせチケット2026.3.13",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32011",
-      "published": "2026.3.13",
       "summary": ""
     },
     {
@@ -109,15 +109,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.03.16試合・練習明治安田J1百年構想リーグ 地域リーグラウンド 第7節 vs 柏レイソル 試合情報",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/238553",
+      "title": "2026.03.16チームPICK UP PLAYER | オナイウ阿道",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/238543",
       "published": "2026.03.16",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.03.16試合・練習明治安田J1百年構想リーグ 地域リーグラウンド 第7節 vs 柏レイソル 試合情報",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/238553",
+      "title": "2026.03.16チームPICK UP PLAYER | オナイウ阿道",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/238543",
       "published": "2026.03.16",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-03-16T10:10:48.742639"
+  "updated_at": "2026-03-16T14:21:24.565451"
 }
