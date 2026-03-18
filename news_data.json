@@ -51,15 +51,15 @@
     },
     {
       "team": "ロッテ",
-      "title": "チケット2026/03/18 (水)NEW!3/27(金)埼玉西武戦 開幕戦チケット完売御礼",
-      "link": "https://www.marines.co.jp/news/detail/202600791863.html",
+      "title": "グッズ2026/03/18 (水)NEW!3/19(木)選手ビジュアルグッズ、全選手展開ロゴデザインネーム＆ナンバーTシャツなど受注販売開始",
+      "link": "https://www.marines.co.jp/news/detail/202600798196.html",
       "published": "2026/03/18 (水)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "チケット2026/03/18 (水)NEW!3/27(金)埼玉西武戦 開幕戦チケット完売御礼",
-      "link": "https://www.marines.co.jp/news/detail/202600791863.html",
+      "title": "グッズ2026/03/18 (水)NEW!3/19(木)選手ビジュアルグッズ、全選手展開ロゴデザインネーム＆ナンバーTシャツなど受注販売開始",
+      "link": "https://www.marines.co.jp/news/detail/202600798196.html",
       "published": "2026/03/18 (水)NEW!",
       "summary": ""
     },
@@ -109,15 +109,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.03.18試合・練習明治安田J1百年構想リーグ 地域リーグラウンド 第7節 vs 柏レイソル 試合情報",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/238553",
+      "title": "2026.03.18試合・練習マチェイ スコルジャ監督 柏戦試合後会見",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/238667",
       "published": "2026.03.18",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.03.18試合・練習明治安田J1百年構想リーグ 地域リーグラウンド 第7節 vs 柏レイソル 試合情報",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/238553",
+      "title": "2026.03.18試合・練習マチェイ スコルジャ監督 柏戦試合後会見",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/238667",
       "published": "2026.03.18",
       "summary": ""
     },
@@ -179,6 +179,13 @@
     },
     {
       "team": "名古屋グランパス",
+      "title": "チームスケジュール変更のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/0318post-2691.php",
+      "published": "2026-03-18",
+      "summary": "チームスケジュール変更のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
       "title": "マテウス カストロ選手の来日について",
       "link": "https://nagoya-grampus.jp/news/pressrelease/2026/0318post-2689.php",
       "published": "2026-03-18",
@@ -204,13 +211,6 @@
       "link": "https://nagoya-grampus.jp/news/ticket/2026/0316318-web.php",
       "published": "2026-03-18",
       "summary": "3/18（水）広島戦｜「雨の日お席変更サービス」実施のお知らせ ※WEB事前取得限定※。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "有松連携施策 このまちの伝統を紡ぐ「～世界に風をおこす～SHIBORI プロジェクト2026」進行中！",
-      "link": "https://nagoya-grampus.jp/news/hometown/2026/0316-shibori-2026.php",
-      "published": "2026-03-18",
-      "summary": "有松連携施策 このまちの伝統を紡ぐ「～世界に風をおこす～SHIBORI プロジェクト2026」進行中！。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "サンフレッチェ広島",
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-03-18T10:02:38.281418"
+  "updated_at": "2026-03-18T14:22:13.804220"
 }
