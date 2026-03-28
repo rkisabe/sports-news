@@ -51,15 +51,15 @@
     },
     {
       "team": "ロッテ",
-      "title": "アカデミー2026/03/28 (土)NEW!マリーンズ・ベースボールアカデミー 2026年4月特別講座を開講",
-      "link": "https://www.marines.co.jp/news/detail/202600806165.html",
+      "title": "イベント2026/03/28 (土)NEW!3/28(土)「Hotel Mikazuki チャレンジDay」ラッキーチャンスナンバー 当選番号発表",
+      "link": "https://www.marines.co.jp/news/detail/202600807329.html",
       "published": "2026/03/28 (土)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "アカデミー2026/03/28 (土)NEW!マリーンズ・ベースボールアカデミー 2026年4月特別講座を開講",
-      "link": "https://www.marines.co.jp/news/detail/202600806165.html",
+      "title": "イベント2026/03/28 (土)NEW!3/28(土)「Hotel Mikazuki チャレンジDay」ラッキーチャンスナンバー 当選番号発表",
+      "link": "https://www.marines.co.jp/news/detail/202600807329.html",
       "published": "2026/03/28 (土)NEW!",
       "summary": ""
     },
@@ -130,6 +130,13 @@
     },
     {
       "team": "FC東京",
+      "title": "【FC東京サッカー・フットサルスクール】タイ遠征 実施報告  〜世界に触れ、未来を広げる5日間〜",
+      "link": "https://www.fctokyo.co.jp/news/details/333055/",
+      "published": "Sat, 28 Mar 2026 15:00:00 +0000",
+      "summary": "<p><img alt=\"\" class=\"alignnone size-full wp-image-333056\" height=\"760\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/03/Image-75-1.jpg?x21145\" width=\"1013\" /></p><p>FC東京サッカー・フットサルスクールで"
+    },
+    {
+      "team": "FC東京",
       "title": "【3/27追記】4/5(日)町田戦『明治安田Presents TOKYO SWEET DAY』開催決定！",
       "link": "https://www.fctokyo.co.jp/news/details/331701/",
       "published": "Fri, 27 Mar 2026 09:00:14 +0000",
@@ -157,25 +164,32 @@
       "summary": "<p>森重真人選手と佐藤恵允選手が東京ガス料理教室公式YouTubeチャンネルに登場しています。<br />ぜひご覧ください！</p><h3>東京ガス料理教室公式YouTube</h3><p><a href=\"https://youtu.be/clIBigfCe6w\" rel=\"noopener\" target=\"_blank\"><img alt=\"\" class=\"alignnone size-"
     },
     {
-      "team": "FC東京",
-      "title": "4/5(日)町田戦 アトラクション情報",
-      "link": "https://www.fctokyo.co.jp/news/details/332995/",
-      "published": "Fri, 27 Mar 2026 11:00:00 +0000",
-      "summary": "<p>4月5日(日) 明治安田Ｊ１百年構想リーグ 第9節 vs FC町田ゼルビア(15:00キックオフ/味の素スタジアム)の、青赤パーク supported by ジョイポリスのアトラクション情報をお知らせいたします。<br />『明治安田Presents TOKYO SWEET DAY』の開催に合わせ、スイーツアトラクションが登場！<br />試合前に青赤パークを楽しもう！<br /><stro"
-    },
-    {
       "team": "ガンバ大阪",
-      "title": "26.3.28［インフォメーション］4月トップチーム練習公開について",
-      "link": "https://www.gamba-osaka.net/news/index/no/19989/c/0/year/2026/month/03/",
-      "published": "26.3.28［インフォメーション］",
+      "title": "26.3.28［チーム］満田 誠選手 ヴィッセル神戸へ期限付き移籍のお知らせ",
+      "link": "https://www.gamba-osaka.net/news/index/no/19986/c/0/year/2026/month/03/",
+      "published": "26.3.28［チーム］",
       "summary": ""
     },
     {
       "team": "ヴィッセル神戸",
-      "title": "NEWS最新ニュース2026/03/284/1（水）vs.清水「ヴィッセルエイプリルドリームDAY」開催決定クラブ2026/03/26【更新】「AFC Champions League Elite™ ",
-      "link": "https://www.vissel-kobe.co.jp/news/article/26253.html",
+      "title": "NEWS最新ニュース2026/03/28FW満田誠選手 ガンバ大阪より期限付き移籍のお知らせチーム2026/03/284/1（水）vs.清水「ヴィッセルエイプリルドリームDAY」開催決定クラブ2026",
+      "link": "https://www.vissel-kobe.co.jp/news/article/26258.html",
       "published": "2026/03/28",
       "summary": ""
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "5/3（日）アウェイ長崎戦｜ビジターチケット販売方法のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/game/2026/032853-34.php",
+      "published": "2026-03-28",
+      "summary": "5/3（日）アウェイ長崎戦｜ビジターチケット販売方法のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "練習公開のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/0328post-2700.php",
+      "published": "2026-03-28",
+      "summary": "練習公開のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
@@ -199,24 +213,10 @@
       "summary": "3/27（金）今週のグッズ担当イチオシアイテム！。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
-      "team": "名古屋グランパス",
-      "title": "3/28（土）練習試合 vs 愛知学院大学・愛知東邦大学 公開のお知らせ",
-      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/0327328-vs.php",
-      "published": "2026-03-28",
-      "summary": "3/28（土）練習試合 vs 愛知学院大学・愛知東邦大学 公開のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "クラブグランパス「4月！バースデーキャンペーン」実施のお知らせ",
-      "link": "https://nagoya-grampus.jp/news/goods/2026/03274-45.php",
-      "published": "2026-03-28",
-      "summary": "クラブグランパス「4月！バースデーキャンペーン」実施のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
       "team": "サンフレッチェ広島",
-      "title": "「3/28（土）vs.EL埼玉」チケット当日券販売について2026.03.27レジーナ",
-      "link": "https://www.sanfrecce.co.jp/news/regina/12158",
-      "published": "2026.03.27",
+      "title": "【会員限定】4/11（土）vs.清水 ハーフタイムに抽選で選手サインパネルプレゼント2026.03.28サンフレッチェクラブ",
+      "link": "https://www.sanfrecce.co.jp/news/fanclub/12159",
+      "published": "2026.03.28",
       "summary": ""
     }
   ],
@@ -307,8 +307,8 @@
     },
     {
       "team": "川崎ブレイブサンダース",
-      "title": "3/15 ●FE名古屋 74-82川崎○ りそなグループB.LEAGUE 2025-26 B1リーグ戦 第26節GAME2 (44/60)2026-03-15",
-      "link": "https://kawasaki-bravethunders.com/game/?YMD=20260315&KEY=505289&DOUBLEHEADERFLAG=false&TAB=R",
+      "title": "3/28 ○三河 75-60 川崎● りそなグループB.LEAGUE 2025-26 B1リーグ戦 第27節GAME1 (45/60)2026-03-28",
+      "link": "https://kawasaki-bravethunders.com/game/?YMD=20260328&KEY=505314&DOUBLEHEADERFLAG=false&TAB=R",
       "published": "2026-03-28",
       "summary": ""
     },
@@ -328,8 +328,8 @@
     },
     {
       "team": "横浜ビー・コルセアーズ",
-      "title": "【GAME REPORT】 りそなグループ B.LEAGUE 2025-26 SEASON 第26節 vs 三河 GAME22026-03-15",
-      "link": "https://b-corsairs.com/game/?YMD=20260315&KEY=505285&DOUBLEHEADERFLAG=false&TAB=R",
+      "title": "【GAME REPORT】 りそなグループ B.LEAGUE 2025-26 SEASON 第27節 vs 越谷 GAME12026-03-28",
+      "link": "https://b-corsairs.com/game/?YMD=20260328&KEY=505310&DOUBLEHEADERFLAG=false&TAB=R",
       "published": "2026-03-28",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-03-28T04:49:56.155817"
+  "updated_at": "2026-03-28T09:46:19.335015"
 }
