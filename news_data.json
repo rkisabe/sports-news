@@ -16,6 +16,13 @@
     },
     {
       "team": "ヤクルト",
+      "title": "NEW【ちょこっと応援チケット】3月31日（火）広島戦チーム2026.3.31",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32065",
+      "published": "2026.3.31",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
       "title": "NEW3月31日（火）広島戦　試合開始予定時刻変更のお知らせチーム2026.3.31",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32069",
       "published": "2026.3.31",
@@ -25,13 +32,6 @@
       "team": "ヤクルト",
       "title": "2026シーズンの球場内演出・イニング間イベントを公開しました！イベント2026.3.30",
       "link": "https://www.yakult-swallows.co.jp/event/program",
-      "published": "2026.3.30",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
-      "title": "【Swallows CREW】神宮開幕6連戦限定！WEB入会キャンペーンにて入会時のスワレージポイントが2倍！CREW2026.3.30",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32062",
       "published": "2026.3.30",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-03-31T10:10:43.648620"
+  "updated_at": "2026-03-31T14:27:02.570910"
 }
