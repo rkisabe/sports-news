@@ -179,6 +179,13 @@
     },
     {
       "team": "名古屋グランパス",
+      "title": "4/5（日）練習試合 vs藤枝MYFC 公開のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/040145-vs-myfc.php",
+      "published": "2026-04-01",
+      "summary": "4/5（日）練習試合 vs藤枝MYFC 公開のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
       "title": "「小中高生10,000人招待」・「キッズTシャツ15,000人プレゼント」申し込みはこちら",
       "link": "https://nagoya-grampus.jp/news/homegameevent/2026/040110000t15000.php",
       "published": "2026-04-01",
@@ -204,13 +211,6 @@
       "link": "https://nagoya-grampus.jp/news/goods/2026/0401post-2703.php",
       "published": "2026-04-01",
       "summary": "「なりきりグランパスくんキャップ」発売記念！「どの選手がいちばん告知上手！？決定戦」実施のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "名古屋グランパスの社会連携活動『GRAMPUS DREAM』メンバー（法人）募集のお知らせ",
-      "link": "https://nagoya-grampus.jp/news/hometown/for-the-family/2026/0401grampus-dream-2.php",
-      "published": "2026-04-01",
-      "summary": "名古屋グランパスの社会連携活動『GRAMPUS DREAM』メンバー（法人）募集のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "サンフレッチェ広島",
@@ -307,8 +307,8 @@
     },
     {
       "team": "川崎ブレイブサンダース",
-      "title": "3/29 ○三河 84-72 川崎● りそなグループB.LEAGUE 2025-26 B1リーグ戦 第27節GAME2 (46/60)2026-03-29",
-      "link": "https://kawasaki-bravethunders.com/game/?YMD=20260329&KEY=505315&DOUBLEHEADERFLAG=false&TAB=R",
+      "title": "4/1 ○川崎 89-69 越谷● りそなグループB.LEAGUE 2025-26 B1リーグ戦 第28節 (47/60)2026-04-01",
+      "link": "https://kawasaki-bravethunders.com/game/?YMD=20260401&KEY=505330&DOUBLEHEADERFLAG=false&TAB=R",
       "published": "2026-04-01",
       "summary": ""
     },
@@ -328,8 +328,8 @@
     },
     {
       "team": "横浜ビー・コルセアーズ",
-      "title": "【GAME REPORT】 りそなグループ B.LEAGUE 2025-26 SEASON 第27節 vs 越谷 GAME22026-03-29",
-      "link": "https://b-corsairs.com/game/?YMD=20260329&KEY=505311&DOUBLEHEADERFLAG=false&TAB=R",
+      "title": "【GAME REPORT】 りそなグループ B.LEAGUE 2025-26 SEASON 第28節 vs 宇都宮2026-04-01",
+      "link": "https://b-corsairs.com/game/?YMD=20260401&KEY=505331&DOUBLEHEADERFLAG=false&TAB=R",
       "published": "2026-04-01",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-04-01T10:11:43.008009"
+  "updated_at": "2026-04-01T14:42:22.961483"
 }
