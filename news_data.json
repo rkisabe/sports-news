@@ -16,7 +16,14 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW【生ビール半額ナイター開催！！】情報公開！イベント2026.4.2",
+      "title": "NEW5月3日（日）対横浜DeNAベイスターズ戦 オフィシャルサプライヤー Majestic 主催の「OFF THE GAME SPECIAL NIGHT GAME」開催についてグッズ2026.4.2",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32089",
+      "published": "2026.4.2",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "NEW生ビール半額ナイター開催！！情報公開！イベント2026.4.2",
       "link": "https://www.yakult-swallows.co.jp/event/beer_nighter2026",
       "published": "2026.4.2",
       "summary": ""
@@ -25,13 +32,6 @@
       "team": "ヤクルト",
       "title": "NEW【ちょこっと応援チケット】4月2日（木）広島戦チケット2026.4.2",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32064",
-      "published": "2026.4.2",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
-      "title": "NEW【6月開催】はたらくひと応燕シリーズ supported by 洋服の青山 情報公開！イベント2026.4.2",
-      "link": "https://www.yakult-swallows.co.jp/event/hataraku_series2026",
       "published": "2026.4.2",
       "summary": ""
     },
@@ -109,15 +109,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.04.02グッズ＆ショップアメコミテイストのレディアグッズが登場! 4/3(金)18時より受注販売開始!!",
-      "link": "https://www.urawa-reds.co.jp/clubinfo/239225",
+      "title": "2026.04.02試合・練習明治安田J1百年構想リーグ 地域リーグラウンド 第9節 vs 川崎フロンターレ 試合情報",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/239290",
       "published": "2026.04.02",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.04.02グッズ＆ショップアメコミテイストのレディアグッズが登場! 4/3(金)18時より受注販売開始!!",
-      "link": "https://www.urawa-reds.co.jp/clubinfo/239225",
+      "title": "2026.04.02試合・練習明治安田J1百年構想リーグ 地域リーグラウンド 第9節 vs 川崎フロンターレ 試合情報",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/239290",
       "published": "2026.04.02",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-04-02T10:06:13.739090"
+  "updated_at": "2026-04-02T14:22:14.497304"
 }
