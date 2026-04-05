@@ -23,16 +23,16 @@
     },
     {
       "team": "ヤクルト",
-      "title": "【ちょこっと応援チケット】4月5日（日）中日戦チケット2026.4.4",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32065",
+      "title": "【ファーム】4月4日（土）埼玉西武ライオンズ戦（戸田）中止のお知らせその他2026.4.4",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32080",
       "published": "2026.4.4",
       "summary": ""
     },
     {
       "team": "ヤクルト",
-      "title": "【ファーム】4月4日（土）埼玉西武ライオンズ戦（戸田）中止のお知らせその他2026.4.4",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32080",
-      "published": "2026.4.4",
+      "title": "伊藤琉偉 サヨナラヒット記念グッズの受注販売についてグッズ2026.4.3",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32094",
+      "published": "2026.4.3",
       "summary": ""
     },
     {
@@ -109,15 +109,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.04.05試合・練習明治安田J1百年構想リーグ 地域リーグラウンド 第9節 vs 川崎フロンターレ 試合結果",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/239344",
+      "title": "2026.04.05試合・練習柴戸「もう少し賢い戦い方をしていかなければいけない」",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/239393",
       "published": "2026.04.05",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.04.05試合・練習明治安田J1百年構想リーグ 地域リーグラウンド 第9節 vs 川崎フロンターレ 試合結果",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/239344",
+      "title": "2026.04.05試合・練習柴戸「もう少し賢い戦い方をしていかなければいけない」",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/239393",
       "published": "2026.04.05",
       "summary": ""
     },
@@ -165,8 +165,8 @@
     },
     {
       "team": "ガンバ大阪",
-      "title": "26.4.5［スタジアム情報］4/11（土）明治安田J1百年構想 第10節 C大阪戦 スタグル情報 淡路屋 お弁当予約販売のお知らせ",
-      "link": "https://www.gamba-osaka.net/news/index/no/20041/c/0/year/2026/month/04/",
+      "title": "26.4.5［スタジアム情報］4/19（日）明治安田J1百年構想 第11節 岡山戦「モフレムオリジナルステッカープレゼント」の対象メニュー決定！",
+      "link": "https://www.gamba-osaka.net/news/index/no/20047/c/0/year/2026/month/04/",
       "published": "26.4.5［スタジアム情報］",
       "summary": ""
     },
@@ -307,8 +307,8 @@
     },
     {
       "team": "川崎ブレイブサンダース",
-      "title": "4/4 ●川崎 71-85 横浜BC○ りそなグループB.LEAGUE 2025-26 B1リーグ戦 第29節GAME1 (48/60)2026-04-04",
-      "link": "https://kawasaki-bravethunders.com/game/?YMD=20260404&KEY=505351&DOUBLEHEADERFLAG=false&TAB=R",
+      "title": "4/5 ○川崎 82-75 横浜BC● りそなグループB.LEAGUE 2025-26 B1リーグ戦 第29節GAME2 (49/60)2026-04-05",
+      "link": "https://kawasaki-bravethunders.com/game/?YMD=20260405&KEY=505352&DOUBLEHEADERFLAG=false&TAB=R",
       "published": "2026-04-05",
       "summary": ""
     },
@@ -328,8 +328,8 @@
     },
     {
       "team": "横浜ビー・コルセアーズ",
-      "title": "【GAME REPORT】 りそなグループ B.LEAGUE 2025-26 SEASON 第29節 vs 川崎 GAME12026-04-04",
-      "link": "https://b-corsairs.com/game/?YMD=20260404&KEY=505351&DOUBLEHEADERFLAG=false&TAB=R",
+      "title": "【GAME REPORT】 りそなグループ B.LEAGUE 2025-26 SEASON 第29節 vs 川崎 GAME22026-04-05",
+      "link": "https://b-corsairs.com/game/?YMD=20260405&KEY=505352&DOUBLEHEADERFLAG=false&TAB=R",
       "published": "2026-04-05",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-04-05T09:48:35.617665"
+  "updated_at": "2026-04-05T13:55:55.530349"
 }
