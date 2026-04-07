@@ -16,6 +16,13 @@
     },
     {
       "team": "ヤクルト",
+      "title": "NEW4月18日・19日のCREW DAYで「特典ユニホーム球場受け取りキャンペーン」を実施します！CREW2026.4.7",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32086",
+      "published": "2026.4.7",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
       "title": "NEWスワローズトレカにて、新機能『リアルタイムビンゴ』がスタート！その他2026.4.7",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32099",
       "published": "2026.4.7",
@@ -23,15 +30,8 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW廣澤優プロ初勝利記念グッズの受注販売についてグッズ2026.4.6",
+      "title": "廣澤優プロ初勝利記念グッズの受注販売についてグッズ2026.4.6",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32098",
-      "published": "2026.4.6",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
-      "title": "【更新】2026シーズン開催イベント一覧イベント2026.4.6",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/31934",
       "published": "2026.4.6",
       "summary": ""
     },
@@ -93,15 +93,15 @@
     },
     {
       "team": "オリックス",
-      "title": "BPB DX2026/04/07 (火)NEW!【BPB DX】動画『【NGシーンまとめ】安達コーチが送る「なにわ男子」へのスペシャルメッセージ』公開！",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600729915.html",
+      "title": "イベントBsGravityBsGirlsBsGuysマスコット2026/04/07 (火)NEW!4月18日（土）・19日（日）バファローブル＆BsGravityがみずほPayPayドームに訪問します！！",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600715032.html",
       "published": "2026/04/07 (火)NEW!",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "BPB DX2026/04/07 (火)NEW!【BPB DX】動画『【NGシーンまとめ】安達コーチが送る「なにわ男子」へのスペシャルメッセージ』公開！",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600729915.html",
+      "title": "イベントBsGravityBsGirlsBsGuysマスコット2026/04/07 (火)NEW!4月18日（土）・19日（日）バファローブル＆BsGravityがみずほPayPayドームに訪問します！！",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600715032.html",
       "published": "2026/04/07 (火)NEW!",
       "summary": ""
     }
@@ -109,15 +109,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.04.07パートナー東北自動車道 浦和ICに『サッカーのまち浦和』の装飾を実施",
-      "link": "https://www.urawa-reds.co.jp/clubinfo/239405",
+      "title": "2026.04.07チームソーシャルメディアにおける誹謗中傷について",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/239408",
       "published": "2026.04.07",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.04.07パートナー東北自動車道 浦和ICに『サッカーのまち浦和』の装飾を実施",
-      "link": "https://www.urawa-reds.co.jp/clubinfo/239405",
+      "title": "2026.04.07チームソーシャルメディアにおける誹謗中傷について",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/239408",
       "published": "2026.04.07",
       "summary": ""
     },
@@ -165,17 +165,24 @@
     },
     {
       "team": "ガンバ大阪",
-      "title": "26.4.7［パートナー］WESTERポイント 及び Wesmo! 導入を記念しキャンペーンを実施のお知らせ",
-      "link": "https://www.gamba-osaka.net/news/index/no/20030/c/0/year/2026/month/04/",
-      "published": "26.4.7［パートナー］",
+      "title": "26.4.7［チーム］［プレビュー］一戦必勝だけを目指すバンコク・ユナイテッド戦。今大会最後のホームゲームでガンバがサポーターとともに戦い抜く",
+      "link": "https://www.gamba-osaka.net/news/index/no/20057/c/0/year/2026/month/04/",
+      "published": "26.4.7［チーム］",
       "summary": ""
     },
     {
       "team": "ヴィッセル神戸",
-      "title": "NEWS最新ニュース2026/04/073月度「2026 PLAYER OF THE MONTH Supported by 楽天カード」グッズ発売のお知らせグッズ2026/04/07【更新】4/11（",
-      "link": "https://www.vissel-kobe.co.jp/news/article/26277.html",
+      "title": "NEWS最新ニュース2026/04/07ヴィッセル神戸ファンクラブ 4/29（水・祝）vs.C大阪「U-12会員向け体験イベント」参加者募集のお知らせファンクラブ2026/04/07「AFC Cham",
+      "link": "https://www.vissel-kobe.co.jp/news/article/26247.html",
       "published": "2026/04/07",
       "summary": ""
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "明治安田Ｊ１百年構想リーグ プレーオフラウンド第1戦 試合日程決定のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/0407-1-15.php",
+      "published": "2026-04-07",
+      "summary": "明治安田Ｊ１百年構想リーグ プレーオフラウンド第1戦 試合日程決定のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
@@ -206,13 +213,6 @@
       "summary": "クラブグランパス「チアグラ来店イベント」実施のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
-      "team": "名古屋グランパス",
-      "title": "クラブグランパス「パロマ瑞穂スタジアムこけら落としポスタープレゼント」のお知らせ",
-      "link": "https://nagoya-grampus.jp/news/goods/2026/0405post-2705.php",
-      "published": "2026-04-07",
-      "summary": "クラブグランパス「パロマ瑞穂スタジアムこけら落としポスタープレゼント」のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
       "team": "サンフレッチェ広島",
       "title": "紫熊倶楽部2026年3月号プレゼント当選者発表！2026.04.07お知らせ",
       "link": "https://www.sanfrecce.co.jp/news/other/12200",
@@ -223,8 +223,8 @@
   "bleague": [
     {
       "team": "千葉ジェッツ",
-      "title": "NEWGAMEEVENT[4/7 更新]【4/11-12 vs.滋賀】千葉ジェッツ祭2026開催！2026-04-07",
-      "link": "https://chibajets.jp/news/detail/id=24081",
+      "title": "NEWTEAM#7 マイケル・オウ選手自由交渉リスト公示のお知らせ2026-04-07",
+      "link": "https://chibajets.jp/news/detail/id=26627",
       "published": "2026-04-07",
       "summary": ""
     },
@@ -279,8 +279,8 @@
     },
     {
       "team": "アルバルク東京",
-      "title": "NEWPARTNERCHEERLEADERSEVENT5/2(土) パブリックビューイング開催のお知らせ「THE PUBLIC RED AKASAKA」2026-04-07",
-      "link": "https://www.alvark-tokyo.jp/news/detail/id=21347",
+      "title": "NEWFANCLUBPARTNER第29節 秋田戦 ファン投票で選出「MAN OF THE GAME supported by リクルートスタッフィング」結果発表2026-04-07",
+      "link": "https://www.alvark-tokyo.jp/news/detail/id=23803",
       "published": "2026-04-07",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-04-07T05:05:25.137336"
+  "updated_at": "2026-04-07T10:12:05.607896"
 }
