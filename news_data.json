@@ -16,6 +16,13 @@
     },
     {
       "team": "ヤクルト",
+      "title": "NEW【更新】4/28（火）JRA東京競馬場ナイター特設ブース＆キッチンカー情報イベント2026.4.18",
+      "link": "https://www.yakult-swallows.co.jp/event/jra-collab-day",
+      "published": "2026.4.18",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
       "title": "NEW4/18（土）・19（日）来場者プレゼント配布概要を更新しましたCREW2026.4.18",
       "link": "https://www.yakult-swallows.co.jp/event/swallows_crew_day/2026",
       "published": "2026.4.18",
@@ -29,23 +36,16 @@
       "summary": ""
     },
     {
-      "team": "ヤクルト",
-      "title": "NEW4月18日（土）巨人戦チケット完売のお知らせチケット2026.4.17",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32125",
-      "published": "2026.4.17",
-      "summary": ""
-    },
-    {
       "team": "ソフトバンク",
-      "title": "プレスリリース2026/04/18 (土)NEW!大竹風雅投手との支配下選手契約について",
-      "link": "https://www.softbankhawks.co.jp/news/detail/202600995060.html",
+      "title": "球団選手CSR2026/04/18 (土)NEW!福岡県内の新小学1、4年生にホークス文具を提供",
+      "link": "https://www.softbankhawks.co.jp/news/detail/202600992504.html",
       "published": "2026/04/18 (土)NEW!",
       "summary": ""
     },
     {
       "team": "ソフトバンク",
-      "title": "プレスリリース2026/04/18 (土)NEW!大竹風雅投手との支配下選手契約について",
-      "link": "https://www.softbankhawks.co.jp/news/detail/202600995060.html",
+      "title": "球団選手CSR2026/04/18 (土)NEW!福岡県内の新小学1、4年生にホークス文具を提供",
+      "link": "https://www.softbankhawks.co.jp/news/detail/202600992504.html",
       "published": "2026/04/18 (土)NEW!",
       "summary": ""
     },
@@ -109,15 +109,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.04.18試合・練習明治安田J1百年構想リーグ 地域リーグラウンド 第11節 vs 鹿島アントラーズ 試合情報",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/239925",
+      "title": "2026.04.18試合・練習西川「こういうときだからこそみんなで同じ方向を向き、次の試合を闘いたい」",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/240023",
       "published": "2026.04.18",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.04.18試合・練習明治安田J1百年構想リーグ 地域リーグラウンド 第11節 vs 鹿島アントラーズ 試合情報",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/239925",
+      "title": "2026.04.18試合・練習西川「こういうときだからこそみんなで同じ方向を向き、次の試合を闘いたい」",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/240023",
       "published": "2026.04.18",
       "summary": ""
     },
@@ -165,17 +165,24 @@
     },
     {
       "team": "ガンバ大阪",
-      "title": "26.4.18［スタジアム情報］4/19（日）明治安田J1百年構想 第11節岡山戦 ガンバ公式クラフトビール販売ブース『GAMBA BEERSTREAM』出店情報＆「ホッピーヴァイツェン」数量限定販売のお知らせ",
-      "link": "https://www.gamba-osaka.net/news/index/no/20142/c/0/year/2026/month/04/",
-      "published": "26.4.18［スタジアム情報］",
+      "title": "26.4.18［チーム］岡山戦 試合前コメント（ヴィッシング監督、宇佐美選手、岸本選手）",
+      "link": "https://www.gamba-osaka.net/news/index/no/20144/c/0/year/2026/month/04/",
+      "published": "26.4.18［チーム］",
       "summary": ""
     },
     {
       "team": "ヴィッセル神戸",
-      "title": "NEWS最新ニュース2026/04/185/24（日）「株式会社神戸物産 × ヴィッセル神戸サッカークリニック」参加者募集のお知らせスクール2026/04/18今シーズンの抱負色紙プレゼントイベント（",
-      "link": "https://www.vissel-kobe.co.jp/news/article/26308.html",
+      "title": "NEWS最新ニュース2026/04/185/10（日）vs. ファジアーノ岡山「母の日スペシャル」開催のお知らせクラブ2026/04/185/24（日）「株式会社神戸物産 × ヴィッセル神戸サッカーク",
+      "link": "https://www.vissel-kobe.co.jp/news/article/26334.html",
       "published": "2026/04/18",
       "summary": ""
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "高円宮杯 JFA U-18サッカープレミアリーグ 2026 WEST 第3節「サガン鳥栖U-18」試合結果",
+      "link": "https://nagoya-grampus.jp/news/youth/2026/0418-jfa-u-18-2026-west-3u-18.php",
+      "published": "2026-04-18",
+      "summary": "高円宮杯 JFA U-18サッカープレミアリーグ 2026 WEST 第3節「サガン鳥栖U-18」試合結果。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
@@ -204,13 +211,6 @@
       "link": "https://nagoya-grampus.jp/news/school/2026/0417post-2716.php",
       "published": "2026-04-18",
       "summary": "中学生サッカースクール無料実施のご案内。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "『スーパードライpresentsぶっちぎり賞』ファン投票実施のお知らせ",
-      "link": "https://nagoya-grampus.jp/news/cat199/2026/0417presents-629.php",
-      "published": "2026-04-18",
-      "summary": "『スーパードライpresentsぶっちぎり賞』ファン投票実施のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "サンフレッチェ広島",
@@ -307,8 +307,8 @@
     },
     {
       "team": "川崎ブレイブサンダース",
-      "title": "4/15 ●川崎 63-84 千葉○ りそなグループB.LEAGUE 2025-26 B1リーグ戦 第32節 (53/60)2026-04-15",
-      "link": "https://kawasaki-bravethunders.com/game/?YMD=20260415&KEY=505409&DOUBLEHEADERFLAG=false&TAB=R",
+      "title": "4/18 ○大阪 76-98 川崎● りそなグループB.LEAGUE 2025-26 B1リーグ戦 第33節GAME1 (54/60)2026-04-18",
+      "link": "https://kawasaki-bravethunders.com/game/?YMD=20260418&KEY=505437&DOUBLEHEADERFLAG=false&TAB=R",
       "published": "2026-04-18",
       "summary": ""
     },
@@ -328,8 +328,8 @@
     },
     {
       "team": "横浜ビー・コルセアーズ",
-      "title": "【GAME REPORT】 りそなグループ B.LEAGUE 2025-26 SEASON 第32節 vs A東京2026-04-15",
-      "link": "https://b-corsairs.com/game/?YMD=20260415&KEY=505410&DOUBLEHEADERFLAG=false&TAB=R",
+      "title": "【GAME REPORT】 りそなグループ B.LEAGUE 2025-26 SEASON 第33節 vs SR渋谷 GAME12026-04-18",
+      "link": "https://b-corsairs.com/game/?YMD=20260418&KEY=505427&DOUBLEHEADERFLAG=false&TAB=R",
       "published": "2026-04-18",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-04-18T05:03:03.057402"
+  "updated_at": "2026-04-18T09:54:15.146398"
 }
