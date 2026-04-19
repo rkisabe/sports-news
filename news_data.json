@@ -16,6 +16,13 @@
     },
     {
       "team": "ヤクルト",
+      "title": "NEW【更新】2026シーズン開催イベント一覧イベント2026.4.19",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/31934",
+      "published": "2026.4.19",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
       "title": "NEW5/13（水）マイナビデー開催決定！当日の観戦チケットプレゼントキャンペーンのご案内その他2026.4.19",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32130",
       "published": "2026.4.19",
@@ -23,15 +30,8 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW4月19日（日）巨人戦チケット完売のお知らせチケット2026.4.18",
+      "title": "4月19日（日）巨人戦チケット完売のお知らせチケット2026.4.18",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32133",
-      "published": "2026.4.18",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
-      "title": "NEW【ちょこっと応援チケット】4月19日（日）巨人戦チケット2026.4.18",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32132",
       "published": "2026.4.18",
       "summary": ""
     },
@@ -165,9 +165,9 @@
     },
     {
       "team": "ガンバ大阪",
-      "title": "26.4.19［グッズ］［オンラインショップ］WINNING GAMBA「ホログラムデカ缶バッジ」受注販売開始のお知らせ",
-      "link": "https://www.gamba-osaka.net/news/index/no/20149/c/0/year/2026/month/04/",
-      "published": "26.4.19［グッズ］",
+      "title": "26.4.19［パートナー］GAMBA OSAKA ~2026 VICTORY AUCTION~［ファジアーノ岡山］開催について",
+      "link": "https://www.gamba-osaka.net/news/index/no/20148/c/0/year/2026/month/04/",
+      "published": "26.4.19［パートナー］",
       "summary": ""
     },
     {
@@ -176,6 +176,13 @@
       "link": "https://www.vissel-kobe.co.jp/news/article/26334.html",
       "published": "2026/04/18",
       "summary": ""
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "4/25（土）アウェイ 清水エスパルス戦 試合情報",
+      "link": "https://nagoya-grampus.jp/news/game/2026/0419425-5.php",
+      "published": "2026-04-19",
+      "summary": "4/25（土）アウェイ 清水エスパルス戦 試合情報。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
@@ -204,13 +211,6 @@
       "link": "https://nagoya-grampus.jp/news/goods/2026/0417424-5.php",
       "published": "2026-04-19",
       "summary": "4/24（金）スタート！名古屋グランパス 周年祭のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "「G-SHOCK名古屋グランパスモデル This is new NAGOYA Edition」発売のお知らせ",
-      "link": "https://nagoya-grampus.jp/news/goods/2026/0417g-shock-this-is-new-nagoya-edition.php",
-      "published": "2026-04-19",
-      "summary": "「G-SHOCK名古屋グランパスモデル This is new NAGOYA Edition」発売のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "サンフレッチェ広島",
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-04-19T09:53:58.605294"
+  "updated_at": "2026-04-19T14:00:11.760044"
 }
