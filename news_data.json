@@ -23,15 +23,15 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW【ちょこっと応援チケット】5月1日（金）横浜DeNA戦チケット2026.5.1",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32121",
+      "title": "NEWゴールデンウイーク休業のカスタマー対応および商品出荷への影響についてグッズ2026.5.1",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32183",
       "published": "2026.5.1",
       "summary": ""
     },
     {
       "team": "ヤクルト",
-      "title": "NEWゴールデンウイーク休業のカスタマー対応および商品出荷への影響についてグッズ2026.5.1",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32183",
+      "title": "NEW山田哲人シート受付開始（5/26～6/7：9試合分）チケット2026.5.1",
+      "link": "https://www.yakult-swallows.co.jp/ticket/players/yamada",
       "published": "2026.5.1",
       "summary": ""
     },
@@ -130,6 +130,13 @@
     },
     {
       "team": "FC東京",
+      "title": "2026 ENGLISH-LANGUAGE TICKET INFORMATION",
+      "link": "https://www.fctokyo.co.jp/news/details/318928/",
+      "published": "Fri, 01 May 2026 21:44:11 +0000",
+      "summary": "<p><img alt=\"\" class=\"alignnone size-full wp-image-329513\" height=\"200\" src=\"https://stg.fctokyo-web.sports-crm.jp/wp/wp-content/uploads/2026/01/画像_tickets-for-overseas.jpg\" width=\"600\" /></p><p>Thank"
+    },
+    {
+      "team": "FC東京",
       "title": "5/2(土)川崎戦 当日券販売について",
       "link": "https://www.fctokyo.co.jp/news/details/334556/",
       "published": "Fri, 01 May 2026 18:00:00 +0000",
@@ -157,13 +164,6 @@
       "summary": "<p><img alt=\"\" class=\"alignnone size-full wp-image-334647\" height=\"1707\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/05/U18syugousyasinn-scaled.jpg?x15760\" width=\"2560\" /></p><p>FC東京U"
     },
     {
-      "team": "FC東京",
-      "title": "5/2(土)川崎戦『ビオレ冷タオル』配布のお知らせ",
-      "link": "https://www.fctokyo.co.jp/news/details/334509/",
-      "published": "Fri, 01 May 2026 14:00:00 +0000",
-      "summary": "<p>5月2日(土) 明治安田Ｊ１百年構想リーグ EASTグループ 第14節vs川崎フロンターレ (14:00キックオフ/味の素スタジアム)において、暑熱対策に効果的な、のせる前の肌温度から－3℃が1時間つづく『ビオレ冷タオル』を来場者先着30,000名様に配布いたします。</p><p><img alt=\"\" class=\"alignnone size-full wp-image-334510\" "
-    },
-    {
       "team": "ガンバ大阪",
       "title": "26.5.1［チーム］［プレビュー］勝点3がマストの神戸戦。アウェイの反省を活かして90分で勝ち切るのみ",
       "link": "https://www.gamba-osaka.net/news/index/no/20247/c/0/year/2026/month/05/",
@@ -176,6 +176,13 @@
       "link": "https://www.vissel-kobe.co.jp/news/article/26387.html",
       "published": "2026/05/01",
       "summary": ""
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "キッズワンダーランド「小中高生10,000人招待」｜受付延長のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/ticket/2026/050110000-816.php",
+      "published": "2026-05-01",
+      "summary": "キッズワンダーランド「小中高生10,000人招待」｜受付延長のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
@@ -204,13 +211,6 @@
       "link": "https://nagoya-grampus.jp/news/game/2026/050153-v.php",
       "published": "2026-05-01",
       "summary": "5/3（日）アウェイ V・ファーレン長崎戦 試合情報。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "高円宮杯 JFA U-18サッカープレミアリーグ 2026 WEST 第5節「大津高校」試合結果",
-      "link": "https://nagoya-grampus.jp/news/youth/2026/0429-jfa-u-18-2026-west-5.php",
-      "published": "2026-05-01",
-      "summary": "高円宮杯 JFA U-18サッカープレミアリーグ 2026 WEST 第5節「大津高校」試合結果。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "サンフレッチェ広島",
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-05-01T10:26:53.715824"
+  "updated_at": "2026-05-01T14:17:32.940375"
 }
