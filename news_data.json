@@ -16,8 +16,15 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW【ちょこっと応援チケット】5月3日（日・祝）横浜DeNA戦チケット2026.5.3",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32121",
+      "title": "NEW武岡龍世 サヨナラヒット記念グッズ受注販売についてグッズ2026.5.3",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32191",
+      "published": "2026.5.3",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "NEWホセ・キハダ 来日初勝利記念グッズグッズ2026.5.3",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32190",
       "published": "2026.5.3",
       "summary": ""
     },
@@ -25,13 +32,6 @@
       "team": "ヤクルト",
       "title": "丸山和郁 サイクル安打記念グッズの受注販売についてグッズ2026.5.2",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32186",
-      "published": "2026.5.2",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
-      "title": "つば九郎×競馬デザイングッズの店舗販売分完売とOfficial Net Shopでの受注販売についてグッズ2026.5.2",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32185",
       "published": "2026.5.2",
       "summary": ""
     },
@@ -279,8 +279,8 @@
     },
     {
       "team": "アルバルク東京",
-      "title": "NEWGAME（5/3更新）【緊急再販】2025-26シーズン選手コラボメニュー2026-05-03",
-      "link": "https://www.alvark-tokyo.jp/news/detail/id=20673",
+      "title": "NEWEVENTGAMEMASCOTりそなグループ B.LEAGUE QUARTERFINALS 2025-26 パブリックビューイング開催2026-05-03",
+      "link": "https://www.alvark-tokyo.jp/news/detail/id=23891",
       "published": "2026-05-03",
       "summary": ""
     },
@@ -349,8 +349,8 @@
     },
     {
       "team": "大阪エヴェッサ",
-      "title": "NEWTEAM【ご報告】合田 怜選手 負傷について2026-05-02",
-      "link": "https://www.evessa.com/news/detail/id=23442",
+      "title": "NEWTEAM2025-26シーズン終了のご挨拶2026-05-03",
+      "link": "https://www.evessa.com/news/detail/id=23446",
       "published": "2026-05-03",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-05-03T10:11:29.340583"
+  "updated_at": "2026-05-03T14:11:31.881776"
 }
