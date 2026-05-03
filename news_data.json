@@ -23,7 +23,7 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW丸山和郁 サイクル安打記念グッズの受注販売についてグッズ2026.5.2",
+      "title": "丸山和郁 サイクル安打記念グッズの受注販売についてグッズ2026.5.2",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32186",
       "published": "2026.5.2",
       "summary": ""
@@ -130,6 +130,13 @@
     },
     {
       "team": "FC東京",
+      "title": "5/6(水休)千葉戦 来場者限定「青赤アプリくじ」開催のお知らせ",
+      "link": "https://www.fctokyo.co.jp/news/details/334731/",
+      "published": "Sun, 03 May 2026 15:00:00 +0000",
+      "summary": "<p><img alt=\"\" class=\"alignnone size-full wp-image-330155\" height=\"1440\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/02/apriTOP-scaled.png?x15760\" width=\"2560\" /></p><p>5月6日(水休)2026明治"
+    },
+    {
+      "team": "FC東京",
       "title": "5/6(水休)千葉戦『東京ドロンパ』出没情報！",
       "link": "https://www.fctokyo.co.jp/news/details/334728/",
       "published": "Sun, 03 May 2026 13:00:00 +0000",
@@ -155,13 +162,6 @@
       "link": "https://www.fctokyo.co.jp/news/details/334556/",
       "published": "Fri, 01 May 2026 18:00:00 +0000",
       "summary": "<p>5月2日(土) 明治安田Ｊ１百年構想リーグ 第14節 vs 川崎フロンターレ(14:00キックオフ/味の素スタジアム)の当日券販売につきまして、下記のとおりお知らせいたします。<br />◇試合情報は<a href=\"https://www.fctokyo.co.jp/match/schedule/info/20260502/\" rel=\"noopener\" target=\"_blank\">"
-    },
-    {
-      "team": "FC東京",
-      "title": "5/2(土)川崎戦 グッズ売店・ガチャガチャコーナー開催のお知らせ",
-      "link": "https://www.fctokyo.co.jp/news/details/334516/",
-      "published": "Fri, 01 May 2026 16:00:00 +0000",
-      "summary": "<p>5月2日(土) 明治安田Ｊ１百年構想リーグ第14節 vs 川崎フロンターレ (14:00キックオフ/味の素スタジアム)にて、グッズ売店・ガチャガチャコーナーを開催いたします。<br />ぜひご来店ください！<br />今シーズンよりホームゲーム開催時におけるグッズ売店およびガチャガチャ売店にて、完全キャッシュレス決済を導入いたします。<br />対象となる売店では現金でのお支払いはご利用いた"
     },
     {
       "team": "ガンバ大阪",
@@ -214,17 +214,17 @@
     },
     {
       "team": "サンフレッチェ広島",
-      "title": "【お詫びとお知らせ】Tシャツ表記誤り商品の販売再開および交換対応について2026.05.02グッズ",
-      "link": "https://www.sanfrecce.co.jp/news/goods/12321",
-      "published": "2026.05.02",
+      "title": "6/7（日）「サンフレッチェ広島 ファン感謝デー2026」入場チケット販売概要のお知らせ2026.05.03イベント・グルメ",
+      "link": "https://www.sanfrecce.co.jp/news/event/12323",
+      "published": "2026.05.03",
       "summary": ""
     }
   ],
   "bleague": [
     {
       "team": "千葉ジェッツ",
-      "title": "NEWEVENT2025-26シーズン 千葉ジェッツ ブースターフェス presented by イングリッシュカンパニー開催のお知らせ2026-05-01",
-      "link": "https://chibajets.jp/news/detail/id=26674",
+      "title": "NEWTICKET[5/3 更新]【チケット】りそなグループ B.LEAGUE CHAMPIONSHIP 2025-26 チケット販売概要について2026-05-03",
+      "link": "https://chibajets.jp/news/detail/id=26624",
       "published": "2026-05-03",
       "summary": ""
     },
@@ -279,8 +279,8 @@
     },
     {
       "team": "アルバルク東京",
-      "title": "NEWTEAMGAME REPORT5/2(土) レバンガ北海道戦 ゲームレポート2026-05-02",
-      "link": "https://www.alvark-tokyo.jp/news/detail/id=23892",
+      "title": "NEWGAME（5/3更新）【緊急再販】2025-26シーズン選手コラボメニュー2026-05-03",
+      "link": "https://www.alvark-tokyo.jp/news/detail/id=20673",
       "published": "2026-05-03",
       "summary": ""
     },
@@ -307,8 +307,8 @@
     },
     {
       "team": "川崎ブレイブサンダース",
-      "title": "5/2 ●横浜BC 71-74 川崎○ りそなグループB.LEAGUE 2025-26 B1リーグ戦 第36節GAME1 (59/60)2026-05-02",
-      "link": "https://kawasaki-bravethunders.com/game/?YMD=20260502&KEY=505494&DOUBLEHEADERFLAG=false&TAB=R",
+      "title": "5/3 ●横浜BC 84-88 川崎○ りそなグループB.LEAGUE 2025-26 B1リーグ戦 第36節GAME2 (60/60)2026-05-03",
+      "link": "https://kawasaki-bravethunders.com/game/?YMD=20260503&KEY=505495&DOUBLEHEADERFLAG=false&TAB=R",
       "published": "2026-05-03",
       "summary": ""
     },
@@ -328,8 +328,8 @@
     },
     {
       "team": "横浜ビー・コルセアーズ",
-      "title": "【GAME REPORT】 りそなグループ B.LEAGUE 2025-26 SEASON 第36節 vs 川崎 GAME12026-05-02",
-      "link": "https://b-corsairs.com/game/?YMD=20260502&KEY=505494&DOUBLEHEADERFLAG=false&TAB=R",
+      "title": "【GAME REPORT】 りそなグループ B.LEAGUE 2025-26 SEASON 第36節 vs 川崎 GAME22026-05-03",
+      "link": "https://b-corsairs.com/game/?YMD=20260503&KEY=505495&DOUBLEHEADERFLAG=false&TAB=R",
       "published": "2026-05-03",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-05-03T05:54:31.884093"
+  "updated_at": "2026-05-03T10:11:29.340583"
 }
