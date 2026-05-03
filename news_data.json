@@ -16,6 +16,13 @@
     },
     {
       "team": "ヤクルト",
+      "title": "NEW【更新】2026シーズン開催イベント一覧イベント2026.5.3",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/31934",
+      "published": "2026.5.3",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
       "title": "NEW武岡龍世 サヨナラヒット記念グッズ受注販売についてグッズ2026.5.3",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32191",
       "published": "2026.5.3",
@@ -29,24 +36,17 @@
       "summary": ""
     },
     {
-      "team": "ヤクルト",
-      "title": "丸山和郁 サイクル安打記念グッズの受注販売についてグッズ2026.5.2",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32186",
-      "published": "2026.5.2",
+      "team": "ソフトバンク",
+      "title": "イベントグッズ2026/05/03 (日)【5/12･13】ルーフオープン＆売り子デー開催！",
+      "link": "https://www.softbankhawks.co.jp/news/detail/202601005749.html",
+      "published": "2026/05/03 (日)",
       "summary": ""
     },
     {
       "team": "ソフトバンク",
-      "title": "イベントグッズ2026/05/03 (日)NEW!【5/12･13】ルーフオープン＆売り子デー開催！",
+      "title": "イベントグッズ2026/05/03 (日)【5/12･13】ルーフオープン＆売り子デー開催！",
       "link": "https://www.softbankhawks.co.jp/news/detail/202601005749.html",
-      "published": "2026/05/03 (日)NEW!",
-      "summary": ""
-    },
-    {
-      "team": "ソフトバンク",
-      "title": "イベントグッズ2026/05/03 (日)NEW!【5/12･13】ルーフオープン＆売り子デー開催！",
-      "link": "https://www.softbankhawks.co.jp/news/detail/202601005749.html",
-      "published": "2026/05/03 (日)NEW!",
+      "published": "2026/05/03 (日)",
       "summary": ""
     },
     {
@@ -93,16 +93,16 @@
     },
     {
       "team": "オリックス",
-      "title": "イベント2026/05/03 (日)NEW!5/4～5/6 千葉ロッテマリーンズ戦 試合＆イベント情報",
+      "title": "イベント2026/05/03 (日)5/4～5/6 千葉ロッテマリーンズ戦 試合＆イベント情報",
       "link": "https://www.buffaloes.co.jp/news/detail/202600741850.html",
-      "published": "2026/05/03 (日)NEW!",
+      "published": "2026/05/03 (日)",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "イベント2026/05/03 (日)NEW!5/4～5/6 千葉ロッテマリーンズ戦 試合＆イベント情報",
+      "title": "イベント2026/05/03 (日)5/4～5/6 千葉ロッテマリーンズ戦 試合＆イベント情報",
       "link": "https://www.buffaloes.co.jp/news/detail/202600741850.html",
-      "published": "2026/05/03 (日)NEW!",
+      "published": "2026/05/03 (日)",
       "summary": ""
     }
   ],
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-05-03T14:11:31.881776"
+  "updated_at": "2026-05-03T21:51:15.824959"
 }
