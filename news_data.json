@@ -165,9 +165,9 @@
     },
     {
       "team": "ガンバ大阪",
-      "title": "26.5.6［インフォメーション］AFC チャンピオンズリーグ 2 2025/26 決勝 チケット販売について",
-      "link": "https://www.gamba-osaka.net/news/index/no/20262/c/0/year/2026/month/05/",
-      "published": "26.5.6［インフォメーション］",
+      "title": "26.5.6［ホームタウン］SDGs5/6（水・祝）明治安田J1百年構想 第15節 名古屋戦「箕面市×ガンバ大阪連携事業 パブリックビューイング」実施報告",
+      "link": "https://www.gamba-osaka.net/news/index/no/20265/c/0/year/2026/month/05/",
+      "published": "26.5.6［ホームタウン］SDGs",
       "summary": ""
     },
     {
@@ -176,6 +176,20 @@
       "link": "https://www.vissel-kobe.co.jp/news/article/26380.html",
       "published": "2026/05/05",
       "summary": ""
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "練習スケジュール変更のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/0506post-2728.php",
+      "published": "2026-05-06",
+      "summary": "練習スケジュール変更のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "高円宮杯 JFA U-18サッカープレミアリーグ 2026 WEST 第6節「神村学園高等部」試合結果",
+      "link": "https://nagoya-grampus.jp/news/youth/2026/0506-jfa-u-18-2026-west-6.php",
+      "published": "2026-05-06",
+      "summary": "高円宮杯 JFA U-18サッカープレミアリーグ 2026 WEST 第6節「神村学園高等部」試合結果。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
@@ -197,20 +211,6 @@
       "link": "https://nagoya-grampus.jp/news/homegameevent/2026/0504510-waon.php",
       "published": "2026-05-06",
       "summary": "5/10（日）京都戦｜大好き名古屋グランパス WAONチャージスタジアム抽選会のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "興梠 慎三氏 国内研修受け入れのお知らせ",
-      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/0504post-2727.php",
-      "published": "2026-05-06",
-      "summary": "興梠 慎三氏 国内研修受け入れのお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "U-16 アメリカ遠征レポート：3月25日〜4月6日 / フロリダ州（IMGアカデミー）",
-      "link": "https://nagoya-grampus.jp/news/youth/2026/0504u-16-generation-adidas-cup-202632546-img.php",
-      "published": "2026-05-06",
-      "summary": "U-16 アメリカ遠征レポート：3月25日〜4月6日 / フロリダ州（IMGアカデミー）。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "サンフレッチェ広島",
@@ -293,8 +293,8 @@
     },
     {
       "team": "川崎ブレイブサンダース",
-      "title": "NEWTEAM2025-26シーズン終了のご報告2026-05-04",
-      "link": "https://kawasaki-bravethunders.com/news/detail/id=25140",
+      "title": "NEWTEAM飯田遼選手 契約満了のお知らせ2026-05-06",
+      "link": "https://kawasaki-bravethunders.com/news/detail/id=25146",
       "published": "2026-05-06",
       "summary": ""
     },
@@ -349,8 +349,8 @@
     },
     {
       "team": "大阪エヴェッサ",
-      "title": "NEWGOODS2025-26シーズン サンクスオークションvol.1開催！2026-05-06",
-      "link": "https://www.evessa.com/news/detail/id=23440",
+      "title": "NEWOTHERパフォーマンスユニット「BT」2026-27シーズン メンバーオーディション開催のお知らせ2026-05-06",
+      "link": "https://www.evessa.com/news/detail/id=20914",
       "published": "2026-05-06",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-05-06T05:53:11.658645"
+  "updated_at": "2026-05-06T11:10:37.945958"
 }
