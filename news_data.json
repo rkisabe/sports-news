@@ -9,9 +9,16 @@
     },
     {
       "team": "横浜DeNA",
-      "title": "SPONSOR2026/5/20タクトホーム株式会社が5/23に『タクトホームファミリーデー presented byすまいるか』を開催！来場者限定の特別特典も！",
-      "link": "https://www.baystars.co.jp/news/2026/05/0520_03.php",
+      "title": "APP2026/5/20【MY BAYSTARS】HIGHLIGHT SCENES -MARCH&APRIL-ガチャが登場！",
+      "link": "https://www.baystars.co.jp/news/2026/05/0520_01.php",
       "published": "2026/5/20",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "NEW5月27日（水）埼玉西武ライオンズ戦「みずほDAY 2026」を開催します！イベント2026.5.20",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32217",
+      "published": "2026.5.20",
       "summary": ""
     },
     {
@@ -29,13 +36,6 @@
       "summary": ""
     },
     {
-      "team": "ヤクルト",
-      "title": "再掲【ユニホーム配布】5月19日(火) いわき開催試合でのいわき燕パワーユニホームの配布についてイベント2026.5.18",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32206",
-      "published": "2026.5.18",
-      "summary": ""
-    },
-    {
       "team": "ソフトバンク",
       "title": "球団2026/05/20 (水)NEW!『月刊ホークス』6月号は史上最多10度目の優勝へ！セ・パ交流戦特集",
       "link": "https://www.softbankhawks.co.jp/news/detail/202601013240.html",
@@ -51,15 +51,15 @@
     },
     {
       "team": "ロッテ",
-      "title": "チケット2026/05/20 (水)NEW!5/30(土)阪神戦 チケット完売御礼",
-      "link": "https://www.marines.co.jp/news/detail/202600842805.html",
+      "title": "グッズ2026/05/20 (水)NEW!5/22(金)マスコットグッズ先行予約販売開始",
+      "link": "https://www.marines.co.jp/news/detail/202600842765.html",
       "published": "2026/05/20 (水)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "チケット2026/05/20 (水)NEW!5/30(土)阪神戦 チケット完売御礼",
-      "link": "https://www.marines.co.jp/news/detail/202600842805.html",
+      "title": "グッズ2026/05/20 (水)NEW!5/22(金)マスコットグッズ先行予約販売開始",
+      "link": "https://www.marines.co.jp/news/detail/202600842765.html",
       "published": "2026/05/20 (水)NEW!",
       "summary": ""
     },
@@ -109,15 +109,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.05.20チケット6月ホームゲーム LOYALTY会員およびREGULAR会員特典「フラッグキッズ」募集開始!",
-      "link": "https://www.urawa-reds.co.jp/clubinfo/241651",
+      "title": "2026.05.20チームPICK UP PLAYER | 松尾佑介",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/241653",
       "published": "2026.05.20",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.05.20チケット6月ホームゲーム LOYALTY会員およびREGULAR会員特典「フラッグキッズ」募集開始!",
-      "link": "https://www.urawa-reds.co.jp/clubinfo/241651",
+      "title": "2026.05.20チームPICK UP PLAYER | 松尾佑介",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/241653",
       "published": "2026.05.20",
       "summary": ""
     },
@@ -165,9 +165,9 @@
     },
     {
       "team": "ガンバ大阪",
-      "title": "26.5.20［グッズ］5/24（日）明治安田J1百年構想 第18節 清水戦 AWAYグッズ情報",
-      "link": "https://www.gamba-osaka.net/news/index/no/20330/c/0/year/2026/month/05/",
-      "published": "26.5.20［グッズ］",
+      "title": "26.5.20［チーム］荒木 琉偉選手 明治安田Ｊ１百年構想リーグ WEST 4月度 月間ヤングプレーヤー賞受賞のお知らせ",
+      "link": "https://www.gamba-osaka.net/news/index/no/20298/c/0/year/2026/month/05/",
+      "published": "26.5.20［チーム］",
       "summary": ""
     },
     {
@@ -176,6 +176,13 @@
       "link": "https://www.vissel-kobe.co.jp/news/article/26466.html",
       "published": "2026/05/19",
       "summary": ""
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "5/30（土）対戦相手未定｜明治安田Ｊ１百年構想リーグ プレーオフラウンド第1戦【南スタンド（アウェイ指定席、C指定席）】チケット販売スケジュールのお知らせ",
+      "link": "https://nagoya-grampus.jp/news/ticket/2026/0520530-1c.php",
+      "published": "2026-05-20",
+      "summary": "5/30（土）対戦相手未定｜明治安田Ｊ１百年構想リーグ プレーオフラウンド第1戦【南スタンド（アウェイ指定席、C指定席）】チケット販売スケジュールのお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
@@ -206,17 +213,10 @@
       "summary": "練習公開のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
-      "team": "名古屋グランパス",
-      "title": "5/23（土）アウェイ サンフレッチェ広島戦 試合情報",
-      "link": "https://nagoya-grampus.jp/news/game/2026/0517523-2.php",
-      "published": "2026-05-20",
-      "summary": "5/23（土）アウェイ サンフレッチェ広島戦 試合情報。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
       "team": "サンフレッチェ広島",
-      "title": "赤井秀一監督 2025/26シーズン総括会見を行いました！2026.05.19レジーナ",
-      "link": "https://www.sanfrecce.co.jp/news/regina/12374",
-      "published": "2026.05.19",
+      "title": "オフィシャルストアよりイベントのお知らせ2026.05.20レジーナ",
+      "link": "https://www.sanfrecce.co.jp/news/regina/12377",
+      "published": "2026.05.20",
       "summary": ""
     }
   ],
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-05-20T06:44:45.606050"
+  "updated_at": "2026-05-20T11:53:07.149071"
 }
