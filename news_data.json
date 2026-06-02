@@ -16,13 +16,6 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW【ちょこっと応援チケット】6月2日（火）千葉ロッテ戦チケット2026.6.2",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32121",
-      "published": "2026.6.2",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
       "title": "NEW【更新】はたらくひと応燕シリーズ 洋服の青山店舗キャンペーン情報＆Photoismリリースイベント2026.6.2",
       "link": "https://www.yakult-swallows.co.jp/event/hataraku_series2026",
       "published": "2026.6.2",
@@ -36,31 +29,38 @@
       "summary": ""
     },
     {
-      "team": "ソフトバンク",
-      "title": "お知らせファーム2026/06/02 (火)NEW!【2軍戦開催中止】6/2 阪神戦",
-      "link": "https://www.softbankhawks.co.jp/news/detail/202601022950.html",
-      "published": "2026/06/02 (火)NEW!",
+      "team": "ヤクルト",
+      "title": "NEW6月3日（水）台風の接近に伴うOfficial Goods Shopの営業時間の変更についてグッズ2026.6.2",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32271",
+      "published": "2026.6.2",
       "summary": ""
     },
     {
       "team": "ソフトバンク",
-      "title": "お知らせファーム2026/06/02 (火)NEW!【2軍戦開催中止】6/2 阪神戦",
+      "title": "お知らせファーム2026/06/02 (火)【2軍戦開催中止】6/2 阪神戦",
       "link": "https://www.softbankhawks.co.jp/news/detail/202601022950.html",
-      "published": "2026/06/02 (火)NEW!",
+      "published": "2026/06/02 (火)",
+      "summary": ""
+    },
+    {
+      "team": "ソフトバンク",
+      "title": "お知らせファーム2026/06/02 (火)【2軍戦開催中止】6/2 阪神戦",
+      "link": "https://www.softbankhawks.co.jp/news/detail/202601022950.html",
+      "published": "2026/06/02 (火)",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "イベント2026/06/02 (火)NEW!6/12(金)「JALスペシャルナイター」開催",
+      "title": "イベント2026/06/02 (火)6/12(金)「JALスペシャルナイター」開催",
       "link": "https://www.marines.co.jp/news/detail/202600851491.html",
-      "published": "2026/06/02 (火)NEW!",
+      "published": "2026/06/02 (火)",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "イベント2026/06/02 (火)NEW!6/12(金)「JALスペシャルナイター」開催",
+      "title": "イベント2026/06/02 (火)6/12(金)「JALスペシャルナイター」開催",
       "link": "https://www.marines.co.jp/news/detail/202600851491.html",
-      "published": "2026/06/02 (火)NEW!",
+      "published": "2026/06/02 (火)",
       "summary": ""
     },
     {
@@ -93,16 +93,16 @@
     },
     {
       "team": "オリックス",
-      "title": "BPB DX2026/06/02 (火)NEW!【BPB DX】動画『どっちが好きでSHOW〜池田陵真〜』公開！",
+      "title": "BPB DX2026/06/02 (火)【BPB DX】動画『どっちが好きでSHOW〜池田陵真〜』公開！",
       "link": "https://www.buffaloes.co.jp/news/detail/202600754029.html",
-      "published": "2026/06/02 (火)NEW!",
+      "published": "2026/06/02 (火)",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "BPB DX2026/06/02 (火)NEW!【BPB DX】動画『どっちが好きでSHOW〜池田陵真〜』公開！",
+      "title": "BPB DX2026/06/02 (火)【BPB DX】動画『どっちが好きでSHOW〜池田陵真〜』公開！",
       "link": "https://www.buffaloes.co.jp/news/detail/202600754029.html",
-      "published": "2026/06/02 (火)NEW!",
+      "published": "2026/06/02 (火)",
       "summary": ""
     }
   ],
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-06-02T12:47:37.738590"
+  "updated_at": "2026-06-02T17:24:45.384393"
 }
