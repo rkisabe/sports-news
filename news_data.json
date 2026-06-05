@@ -102,6 +102,13 @@
   "jleague": [
     {
       "team": "FC東京",
+      "title": "【3日目活動報告】フランス遠征2026",
+      "link": "https://www.fctokyo.co.jp/school/report/336270/",
+      "published": "Fri, 05 Jun 2026 18:48:18 +0000",
+      "summary": "<p>3日目はしっかり睡眠を取ることができました。</p><p>また、朝食後は自分たちから片付けなどを行うなどピッチ外での成長を感じることができました。</p><p><img alt=\"\" class=\"alignnone size-medium wp-image-336271\" height=\"225\" src=\"https://assets.fctokyo.co.jp/wp/wp-conten"
+    },
+    {
+      "team": "FC東京",
       "title": "6/6(土)プレーオフラウンド第2戦 当日券販売について",
       "link": "https://www.fctokyo.co.jp/news/details/336248/",
       "published": "Fri, 05 Jun 2026 18:00:00 +0000",
@@ -127,13 +134,6 @@
       "link": "https://www.fctokyo.co.jp/news/details/335433/",
       "published": "Thu, 04 Jun 2026 19:00:00 +0000",
       "summary": "<p>【6/4追記】<br /><a href=\"https://www.fctokyo.co.jp/news/feed/#Quiz\">QuizKnock × Ｊリーグ クイズラリーの景品情報</a>を更新しました。<br />【5/27追記】<br /><a href=\"https://www.fctokyo.co.jp/news/feed/#kaidan\">明治公園の階段装飾</a>について追"
-    },
-    {
-      "team": "FC東京",
-      "title": "6/6(土)プレーオフラウンド第2戦 グッズ売店・ガチャガチャコーナー開催のお知らせ",
-      "link": "https://www.fctokyo.co.jp/news/details/336163/",
-      "published": "Thu, 04 Jun 2026 15:00:00 +0000",
-      "summary": "<p>6月6日(土) 明治安田Ｊ１百年構想リーグ プレーオフラウンド第2戦 vsセレッソ大阪 (14:00キックオフ/MUFGスタジアム(国立競技場))にて、グッズ売店・ガチャガチャコーナーを開催いたします。<br />ぜひご来店ください！！<br />今シーズンよりホームゲーム開催時におけるグッズ売店およびガチャガチャ売店にて、完全キャッシュレス決済を導入いたします。<br />対象となる売店で"
     },
     {
       "team": "ヴィッセル神戸",
@@ -348,5 +348,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-06-05T15:55:36.665263"
+  "updated_at": "2026-06-05T22:18:33.469710"
 }
