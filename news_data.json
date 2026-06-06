@@ -1,10 +1,24 @@
 {
   "npb": [
     {
+      "team": "読売ジャイアンツ",
+      "title": "2026.1.232026年東京ドーム巨人公式戦　入場券についてチケット",
+      "link": "https://www.giants.jp/news/28352/",
+      "published": "2026-06-06",
+      "summary": ""
+    },
+    {
       "team": "横浜DeNA",
-      "title": "TICKET2026/6/56/5(金)福岡ソフトバンク戦の観戦チケットは完売いたしました",
-      "link": "https://www.baystars.co.jp/news/2026/06/0605_10.php",
-      "published": "2026/6/5",
+      "title": "OTHER2026/6/6横浜DeNAベイスターズチアスクールTHE BAYS校「ホームクラス」体験会開催！",
+      "link": "https://www.baystars.co.jp/news/2026/06/0606_01.php",
+      "published": "2026/6/6",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "NEW【ちょこっと応援チケット】6月6日（土）北海道日本ハム戦チケット2026.6.6",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32121",
+      "published": "2026.6.6",
       "summary": ""
     },
     {
@@ -22,38 +36,31 @@
       "summary": ""
     },
     {
-      "team": "ヤクルト",
-      "title": "NEW「明治神宮外苑創建百年記念奉納試合」開催についてイベント2026.6.5",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32272",
-      "published": "2026.6.5",
+      "team": "ソフトバンク",
+      "title": "プレスリリース球団2026/06/06 (土)NEW!ホークスジュニアチーム選手選考会を開催！",
+      "link": "https://www.softbankhawks.co.jp/news/detail/202601023311.html",
+      "published": "2026/06/06 (土)NEW!",
       "summary": ""
     },
     {
       "team": "ソフトバンク",
-      "title": "イベントCSR2026/06/05 (金)日本緩和医療学会学術大会 市民公開企画 いのちの交差点への参画について",
-      "link": "https://www.softbankhawks.co.jp/news/detail/202601023788.html",
-      "published": "2026/06/05 (金)",
-      "summary": ""
-    },
-    {
-      "team": "ソフトバンク",
-      "title": "イベントCSR2026/06/05 (金)日本緩和医療学会学術大会 市民公開企画 いのちの交差点への参画について",
-      "link": "https://www.softbankhawks.co.jp/news/detail/202601023788.html",
-      "published": "2026/06/05 (金)",
+      "title": "プレスリリース球団2026/06/06 (土)NEW!ホークスジュニアチーム選手選考会を開催！",
+      "link": "https://www.softbankhawks.co.jp/news/detail/202601023311.html",
+      "published": "2026/06/06 (土)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "チーム2026/06/05 (金)6/5(金)ソト選手がNPB通算200本塁打達成",
-      "link": "https://www.marines.co.jp/news/detail/202600825406.html",
-      "published": "2026/06/05 (金)",
+      "title": "グッズ2026/06/06 (土)NEW!6/9(火)中日交流戦コラボグッズ情報",
+      "link": "https://www.marines.co.jp/news/detail/202600854135.html",
+      "published": "2026/06/06 (土)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "チーム2026/06/05 (金)6/5(金)ソト選手がNPB通算200本塁打達成",
-      "link": "https://www.marines.co.jp/news/detail/202600825406.html",
-      "published": "2026/06/05 (金)",
+      "title": "グッズ2026/06/06 (土)NEW!6/9(火)中日交流戦コラボグッズ情報",
+      "link": "https://www.marines.co.jp/news/detail/202600854135.html",
+      "published": "2026/06/06 (土)NEW!",
       "summary": ""
     },
     {
@@ -67,39 +74,60 @@
       "team": "楽天",
       "title": "チーム・選手",
       "link": "https://www.rakuteneagles.jp/team/?scid=oe_out_othEgl_000000_web_top_belt_menu",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": ""
     },
     {
       "team": "楽天",
       "title": "イベント情報",
       "link": "https://www.rakuteneagles.jp/event/?scid=oe_out_othEgl_000000_web_top_belt_menu",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": ""
     },
     {
       "team": "日本ハム",
       "title": "チーム・選手",
       "link": "https://www.fighters.co.jp/team/",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "BPB DX2026/06/05 (金)【BPB DX】動画『食堂カメラ#19』公開！",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600756042.html",
-      "published": "2026/06/05 (金)",
+      "title": "BPB DX2026/06/06 (土)NEW!【BPB DX】動画『【BPBDX MAP】自分の部屋のタイプは？』公開！",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600756551.html",
+      "published": "2026/06/06 (土)NEW!",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "BPB DX2026/06/05 (金)【BPB DX】動画『食堂カメラ#19』公開！",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600756042.html",
-      "published": "2026/06/05 (金)",
+      "title": "BPB DX2026/06/06 (土)NEW!【BPB DX】動画『【BPBDX MAP】自分の部屋のタイプは？』公開！",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600756551.html",
+      "published": "2026/06/06 (土)NEW!",
       "summary": ""
     }
   ],
   "jleague": [
+    {
+      "team": "浦和レッズ",
+      "title": "2026.06.06試合・練習明治安田J1百年構想リーグ プレーオフラウンド 第2戦 vs ファジアーノ岡山 試合情報",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/242236",
+      "published": "2026.06.06",
+      "summary": ""
+    },
+    {
+      "team": "浦和レッズ",
+      "title": "2026.06.06試合・練習明治安田J1百年構想リーグ プレーオフラウンド 第2戦 vs ファジアーノ岡山 試合情報",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/242236",
+      "published": "2026.06.06",
+      "summary": ""
+    },
+    {
+      "team": "鹿島アントラーズ",
+      "title": "https://www.antlers.co.jp/",
+      "link": "https://www.so-net.ne.jp/",
+      "published": "2020.03.26(木)",
+      "summary": ""
+    },
     {
       "team": "FC東京",
       "title": "【3日目活動報告】フランス遠征2026",
@@ -136,6 +164,13 @@
       "summary": "<p>【6/4追記】<br /><a href=\"https://www.fctokyo.co.jp/news/feed/#Quiz\">QuizKnock × Ｊリーグ クイズラリーの景品情報</a>を更新しました。<br />【5/27追記】<br /><a href=\"https://www.fctokyo.co.jp/news/feed/#kaidan\">明治公園の階段装飾</a>について追"
     },
     {
+      "team": "ガンバ大阪",
+      "title": "26.6.5［チーム］［プレビュー］熱く濃密だった半年間のラストマッチ。若い力とともにガンバが有終の美を飾る",
+      "link": "https://www.gamba-osaka.net/news/index/no/20403/c/0/year/2026/month/06/",
+      "published": "26.6.5［チーム］",
+      "summary": ""
+    },
+    {
       "team": "ヴィッセル神戸",
       "title": "NEWS最新ニュース2026/06/05【更新】6/7（日）「旧居留地サッカーフェスティバル」参加のお知らせクラブ2026/06/046/10（水）は「ム（6）トウ（10）の日！！」イベント開催のお知",
       "link": "https://www.vissel-kobe.co.jp/news/article/26554.html",
@@ -146,36 +181,43 @@
       "team": "名古屋グランパス",
       "title": "6/6（土）AWAY FC町田ゼルビア戦 グッズ購入者への名古屋グランパスコレクションステッカー配布のお知らせ",
       "link": "https://nagoya-grampus.jp/news/clubteam/2026/060566away-fc.php",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": "6/6（土）AWAY FC町田ゼルビア戦 グッズ購入者への名古屋グランパスコレクションステッカー配布のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
       "title": "AWAY町田ゼルビア戦限定グッズ！「旅するグランパスくん」グッズのお知らせ",
       "link": "https://nagoya-grampus.jp/news/goods/2026/0605away-8.php",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": "AWAY町田ゼルビア戦限定グッズ！「旅するグランパスくん」グッズのお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
       "title": "6/5（金）今週のグッズ担当イチオシアイテム！",
       "link": "https://nagoya-grampus.jp/news/goods/2026/060565-4.php",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": "6/5（金）今週のグッズ担当イチオシアイテム！。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
       "title": "クラブグランパス「チアグラ来店イベント」実施のお知らせ",
       "link": "https://nagoya-grampus.jp/news/goods/2026/0605post-2749.php",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": "クラブグランパス「チアグラ来店イベント」実施のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
       "title": "SNSにおける誹謗中傷について",
       "link": "https://nagoya-grampus.jp/news/misc/2026/0604sns-6.php",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": "SNSにおける誹謗中傷について。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "サンフレッチェ広島",
+      "title": "ピースウイングオフィシャルストア 3,200円くじ開催のお知らせ2026.06.05グッズ",
+      "link": "https://www.sanfrecce.co.jp/news/goods/12452",
+      "published": "2026.06.05",
+      "summary": ""
     }
   ],
   "bleague": [
@@ -183,21 +225,21 @@
       "team": "千葉ジェッツ",
       "title": "NEWTEAM2026-27シーズン 田代直希 選手契約継続のお知らせ2026-06-05",
       "link": "https://chibajets.jp/news/detail/id=26781",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": ""
     },
     {
       "team": "千葉ジェッツ",
       "title": "ニュース一覧へ",
       "link": "https://chibajets.jp/news/",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": ""
     },
     {
       "team": "千葉ジェッツ",
       "title": "REPORT",
       "link": "https://chibajets.jp/report/",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": ""
     },
     {
@@ -239,114 +281,114 @@
       "team": "アルバルク東京",
       "title": "TEAMOTHER「2025-26シーズン 応援ありがとう特設サイト」公開のお知らせ2026-05-14",
       "link": "https://www.alvark-tokyo.jp/news/detail/id=23913",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": ""
     },
     {
       "team": "アルバルク東京",
       "title": "ニュース一覧へ",
       "link": "https://www.alvark-tokyo.jp/news/",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": ""
     },
     {
       "team": "川崎ブレイブサンダース",
-      "title": "NEWGOODS,FOODS「好きな写真を選んで作るフォトブック」受注販売のご案内2026-06-05",
-      "link": "https://kawasaki-bravethunders.com/news/detail/id=25213",
-      "published": "2026-06-05",
+      "title": "NEWOTHERクラブWEBサイト メンテナンスのお知らせ2026-06-06",
+      "link": "https://kawasaki-bravethunders.com/news/detail/id=25224",
+      "published": "2026-06-06",
       "summary": ""
     },
     {
       "team": "川崎ブレイブサンダース",
       "title": "ニュース一覧へ",
       "link": "https://kawasaki-bravethunders.com/news/",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": ""
     },
     {
       "team": "川崎ブレイブサンダース",
       "title": "5/3 ●横浜BC 84-88 川崎○ りそなグループB.LEAGUE 2025-26 B1リーグ戦 第36節GAME2 (60/60)2026-05-03",
       "link": "https://kawasaki-bravethunders.com/game/?YMD=20260503&KEY=505495&DOUBLEHEADERFLAG=false&TAB=R",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": ""
     },
     {
       "team": "横浜ビー・コルセアーズ",
       "title": "TICKET【重要】新アカウント登録のお願い2026-04-06",
       "link": "https://b-corsairs.com/news/detail/id=22728",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": ""
     },
     {
       "team": "横浜ビー・コルセアーズ",
       "title": "ニュース一覧へ",
       "link": "https://b-corsairs.com/news/",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": ""
     },
     {
       "team": "横浜ビー・コルセアーズ",
       "title": "【GAME REPORT】 りそなグループ B.LEAGUE 2025-26 SEASON 第36節 vs 川崎 GAME22026-05-03",
       "link": "https://b-corsairs.com/game/?YMD=20260503&KEY=505495&DOUBLEHEADERFLAG=false&TAB=R",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": ""
     },
     {
       "team": "琉球ゴールデンキングス",
       "title": "GAME「キングスオフィシャルファンクラブ2026-27」入会募集中2026-04-16",
       "link": "https://goldenkings.jp/news/detail/id=23054",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": ""
     },
     {
       "team": "琉球ゴールデンキングス",
       "title": "ニュース一覧へ",
       "link": "https://goldenkings.jp/news/",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": ""
     },
     {
       "team": "大阪エヴェッサ",
       "title": "TEAM2026-27シーズン 選手・チームスタッフ契約情報【6月2日更新】2026-05-18",
       "link": "https://www.evessa.com/news/detail/id=23470",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": ""
     },
     {
       "team": "大阪エヴェッサ",
       "title": "ニュース一覧へ",
       "link": "https://www.evessa.com/news/",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": ""
     },
     {
       "team": "大阪エヴェッサ",
       "title": "HOMETOWN",
       "link": "https://www.evessa.com/news/contents_type=61",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": ""
     },
     {
       "team": "広島ドラゴンフライズ",
       "title": "トップパートナー",
       "link": "https://www.nova.co.jp/",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": ""
     },
     {
       "team": "広島ドラゴンフライズ",
       "title": "ダイヤモンドパートナー",
       "link": "https://www.itto.jp/company/",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": ""
     },
     {
       "team": "広島ドラゴンフライズ",
       "title": "プラチナパートナー",
       "link": "https://www.aseed-hd.co.jp/",
-      "published": "2026-06-05",
+      "published": "2026-06-06",
       "summary": ""
     }
   ],
-  "updated_at": "2026-06-05T22:18:33.469710"
+  "updated_at": "2026-06-06T06:26:14.976741"
 }
