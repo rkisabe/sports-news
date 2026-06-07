@@ -16,13 +16,6 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW【ちょこっと応援チケット】6月7日（日）北海道日本ハム戦チケット2026.6.7",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32121",
-      "published": "2026.6.7",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
       "title": "【再掲】6月6日・7日のファイターズ戦で「CREW紹介キャンペーン」を実施します！CREW2026.6.6",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32235",
       "published": "2026.6.6",
@@ -33,6 +26,13 @@
       "title": "【再掲】6月6日・7日のファイターズ戦で「特典ユニホーム球場受け取りキャンペーン」を実施します！CREW2026.6.6",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32227",
       "published": "2026.6.6",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "東京ヤクルトスワローズ トップスポンサー オープンハウスグループ　始球式投球者募集のお知らせイベント2026.6.5",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32286",
+      "published": "2026.6.5",
       "summary": ""
     },
     {
@@ -214,8 +214,8 @@
     },
     {
       "team": "サンフレッチェ広島",
-      "title": "『2026/27明治安田J1リーグ』 ユニフォーム決定のお知らせ2026.06.07チーム",
-      "link": "https://www.sanfrecce.co.jp/news/team/12447",
+      "title": "レジーナジュニアユース『U15女子サッカーリーグ2026 中国』結果のお知らせ2026.06.07レジーナ",
+      "link": "https://www.sanfrecce.co.jp/news/regina/12457",
       "published": "2026.06.07",
       "summary": ""
     }
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-06-07T07:02:38.066118"
+  "updated_at": "2026-06-07T11:12:19.692927"
 }
