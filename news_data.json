@@ -1,6 +1,13 @@
 {
   "npb": [
     {
+      "team": "読売ジャイアンツ",
+      "title": "2026.1.232026年東京ドーム巨人公式戦　入場券についてチケット",
+      "link": "https://www.giants.jp/news/28352/",
+      "published": "2026-06-15",
+      "summary": ""
+    },
+    {
       "team": "横浜DeNA",
       "title": "OTHER2026/6/15横浜公園内一時封鎖のお知らせ（予定）",
       "link": "https://www.baystars.co.jp/news/2026/06/0615_03.php",
@@ -101,6 +108,27 @@
   ],
   "jleague": [
     {
+      "team": "浦和レッズ",
+      "title": "2026.06.13試合・練習西川周作 ＪリーグオールスターDAZNカップ 大会後コメント",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/242545",
+      "published": "2026.06.13",
+      "summary": ""
+    },
+    {
+      "team": "浦和レッズ",
+      "title": "2026.06.13試合・練習西川周作 ＪリーグオールスターDAZNカップ 大会後コメント",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/242545",
+      "published": "2026.06.13",
+      "summary": ""
+    },
+    {
+      "team": "鹿島アントラーズ",
+      "title": "https://www.antlers.co.jp/",
+      "link": "https://www.so-net.ne.jp/",
+      "published": "2020.03.26(木)",
+      "summary": ""
+    },
+    {
       "team": "FC東京",
       "title": "6/15(月)～18(木)放送 J-WAVE『Smiley Smile』に石川直宏コミュニティジェネレーター出演のお知らせ",
       "link": "https://www.fctokyo.co.jp/news/details/336505/",
@@ -134,6 +162,13 @@
       "link": "https://www.fctokyo.co.jp/news/details/318928/",
       "published": "Thu, 11 Jun 2026 20:37:19 +0000",
       "summary": "<p><img alt=\"\" class=\"alignnone size-full wp-image-329513\" height=\"200\" src=\"https://stg.fctokyo-web.sports-crm.jp/wp/wp-content/uploads/2026/01/画像_tickets-for-overseas.jpg\" width=\"600\" /></p><p>Thank"
+    },
+    {
+      "team": "ガンバ大阪",
+      "title": "26.6.13［インフォメーション］1993年と同カード、8月開幕へ。2026/27 明治安田J1リーグ 開幕カード決定のお知らせ",
+      "link": "https://www.gamba-osaka.net/news/index/no/20427/c/0/year/2026/month/06/",
+      "published": "26.6.13［インフォメーション］",
+      "summary": ""
     },
     {
       "team": "ヴィッセル神戸",
@@ -176,6 +211,13 @@
       "link": "https://nagoya-grampus.jp/news/pressrelease/2026/0612pr-gkob.php",
       "published": "2026-06-15",
       "summary": "愛知・名古屋アジア・パラ競技大会「聖火リレーPRランナー」楢﨑 正剛GKコーチおよび名古屋グランパスOB阿部 翔平氏決定のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "サンフレッチェ広島",
+      "title": "契約更新選手のお知らせ①2026.06.15レジーナ",
+      "link": "https://www.sanfrecce.co.jp/news/regina/12474",
+      "published": "2026.06.15",
+      "summary": ""
     }
   ],
   "bleague": [
@@ -348,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-06-15T15:21:14.775032"
+  "updated_at": "2026-06-15T17:58:05.755211"
 }
