@@ -9,9 +9,16 @@
     },
     {
       "team": "横浜DeNA",
-      "title": "FOODS2026/6/176/19(金)阪神戦からコンテナでの飲食POP UP販売の第3弾を実施！",
-      "link": "https://www.baystars.co.jp/news/2026/06/0617_03.php",
+      "title": "EVENT2026/6/177/7(火)～7/9(木)『野球未来創造SERIES ～横浜DeNAベイスターズ 15th ANNIVERSARY GAME～』特別イベント「野球未来ソウゾウ☆キッズ体験」追加施策が決定！今年はビジターチームファンのキッズの参加者も募集！",
+      "link": "https://www.baystars.co.jp/news/2026/06/0616_03.php",
       "published": "2026/6/17",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "NEW【スワレージ】6月のポイント交換新アイテムを公開！CREW2026.6.17",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32288",
+      "published": "2026.6.17",
       "summary": ""
     },
     {
@@ -29,13 +36,6 @@
       "summary": ""
     },
     {
-      "team": "ヤクルト",
-      "title": "NEW6/19（金）広島戦にて「アパグループ55周年ナイター」を開催！イベント2026.6.17",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32300",
-      "published": "2026.6.17",
-      "summary": ""
-    },
-    {
       "team": "ソフトバンク",
       "title": "プレスリリース2026/06/17 (水)NEW!BOSS E・ZO FUKUOKAに「久留米立花うどん 恩想」が新規出店",
       "link": "https://www.softbankhawks.co.jp/news/detail/202601031022.html",
@@ -51,15 +51,15 @@
     },
     {
       "team": "ロッテ",
-      "title": "地域振興2026/06/17 (水)NEW!2026年千葉ロッテマリーンズジュニアチーム選考会",
-      "link": "https://www.marines.co.jp/news/detail/202600860550.html",
+      "title": "グルメ2026/06/17 (水)NEW!PLAYERS COLLAB MENU 2026第2弾販売商品のお知らせ",
+      "link": "https://www.marines.co.jp/news/detail/202600861345.html",
       "published": "2026/06/17 (水)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "地域振興2026/06/17 (水)NEW!2026年千葉ロッテマリーンズジュニアチーム選考会",
-      "link": "https://www.marines.co.jp/news/detail/202600860550.html",
+      "title": "グルメ2026/06/17 (水)NEW!PLAYERS COLLAB MENU 2026第2弾販売商品のお知らせ",
+      "link": "https://www.marines.co.jp/news/detail/202600861345.html",
       "published": "2026/06/17 (水)NEW!",
       "summary": ""
     },
@@ -93,31 +93,31 @@
     },
     {
       "team": "オリックス",
-      "title": "メディア2026/06/16 (火)NHK「ほっと関西」で杉本選手のインタビューが放送されます！",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600761345.html",
-      "published": "2026/06/16 (火)",
+      "title": "BPB DX2026/06/17 (水)NEW!【BPB DX】動画『記憶しりとり(大里選手、川瀬投手、河内投手)』公開！",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600761443.html",
+      "published": "2026/06/17 (水)NEW!",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "メディア2026/06/16 (火)NHK「ほっと関西」で杉本選手のインタビューが放送されます！",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600761345.html",
-      "published": "2026/06/16 (火)",
+      "title": "BPB DX2026/06/17 (水)NEW!【BPB DX】動画『記憶しりとり(大里選手、川瀬投手、河内投手)』公開！",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600761443.html",
+      "published": "2026/06/17 (水)NEW!",
       "summary": ""
     }
   ],
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.06.17試合・練習U-21 Jリーグ グループ分け、開催期間発表",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/242576",
+      "title": "2026.06.17クラブクラブ休業期間のお知らせについて",
+      "link": "https://www.urawa-reds.co.jp/clubinfo/242573",
       "published": "2026.06.17",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.06.17試合・練習U-21 Jリーグ グループ分け、開催期間発表",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/242576",
+      "title": "2026.06.17クラブクラブ休業期間のお知らせについて",
+      "link": "https://www.urawa-reds.co.jp/clubinfo/242573",
       "published": "2026.06.17",
       "summary": ""
     },
@@ -165,8 +165,8 @@
     },
     {
       "team": "ガンバ大阪",
-      "title": "26.6.17［インフォメーション］U-21 Ｊリーグ グループ分けおよび開催期間について",
-      "link": "https://www.gamba-osaka.net/news/index/no/20443/c/0/year/2026/month/06/",
+      "title": "26.6.17［インフォメーション］岸本武流選手 奈良県橿原市より表彰のお知らせ",
+      "link": "https://www.gamba-osaka.net/news/index/no/20440/c/0/year/2026/month/06/",
       "published": "26.6.17［インフォメーション］",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-06-17T08:25:17.753431"
+  "updated_at": "2026-06-17T12:54:59.471775"
 }
