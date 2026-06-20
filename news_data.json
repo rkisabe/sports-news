@@ -9,16 +9,9 @@
     },
     {
       "team": "横浜DeNA",
-      "title": "OTHER2026/6/206/20(土)横浜DeNA 対 阪神 開門見合せのお知らせ",
-      "link": "https://www.baystars.co.jp/news/2026/06/0620_04.php",
+      "title": "LIVE2026/6/20【THE LIVE】6/20(土) 横浜DeNA 対 阪神タイガース 払戻しのご案内",
+      "link": "https://www.baystars.co.jp/news/2026/06/0620_05.php",
       "published": "2026/6/20",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
-      "title": "NEW【ちょこっと応援チケット】6月20日（土）広島戦チケット2026.6.20",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32121",
-      "published": "2026.6.20",
       "summary": ""
     },
     {
@@ -30,8 +23,15 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW6月19日（金）広島戦チケット完売のお知らせチケット2026.6.19",
+      "title": "6月19日（金）広島戦チケット完売のお知らせチケット2026.6.19",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32323",
+      "published": "2026.6.19",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "LADIES DAY 2026グッズの販売についてグッズ2026.6.19",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32311",
       "published": "2026.6.19",
       "summary": ""
     },
@@ -93,15 +93,15 @@
     },
     {
       "team": "オリックス",
-      "title": "ファーム2026/06/20 (土)NEW!6月20日（土）ファーム・リーグ公式戦 対阪神戦（豊中ローズ）中止のお知らせ",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600762921.html",
+      "title": "イベントBsGravityBsGirlsBsGuys2026/06/20 (土)NEW!【BsStage】6月21日（日）「バファローブル＆ベル×BsGravityコラボステージ」当日券販売のお知らせ",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600762804.html",
       "published": "2026/06/20 (土)NEW!",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "ファーム2026/06/20 (土)NEW!6月20日（土）ファーム・リーグ公式戦 対阪神戦（豊中ローズ）中止のお知らせ",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600762921.html",
+      "title": "イベントBsGravityBsGirlsBsGuys2026/06/20 (土)NEW!【BsStage】6月21日（日）「バファローブル＆ベル×BsGravityコラボステージ」当日券販売のお知らせ",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600762804.html",
       "published": "2026/06/20 (土)NEW!",
       "summary": ""
     }
@@ -179,6 +179,13 @@
     },
     {
       "team": "名古屋グランパス",
+      "title": "倍井 謙選手、KベールスホットVAへの期限付き移籍満了のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/0620-kva-1.php",
+      "published": "2026-06-20",
+      "summary": "倍井 謙選手、KベールスホットVAへの期限付き移籍満了のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
       "title": "『名古屋グランパス \"スタグル\" プレシーズンイベント』開催～キッチンカー40台集結～",
       "link": "https://nagoya-grampus.jp/news/homegameevent/2026/0620-40.php",
       "published": "2026-06-20",
@@ -206,16 +213,9 @@
       "summary": "「旅するグランパスくん」グッズ受注販売のお知らせ！。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
-      "team": "名古屋グランパス",
-      "title": "【7/19（日）イオンモール Nagoya Noritake Garden】依存症啓発イベントにグランパスくんが参加！",
-      "link": "https://nagoya-grampus.jp/news/hometown/2026/0619719-nagoya-noritake-garden.php",
-      "published": "2026-06-20",
-      "summary": "【7/19（日）イオンモール Nagoya Noritake Garden】依存症啓発イベントにグランパスくんが参加！。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
       "team": "サンフレッチェ広島",
-      "title": "契約更新選手のお知らせ⑥2026.06.20レジーナ",
-      "link": "https://www.sanfrecce.co.jp/news/regina/12497",
+      "title": "サンフレッチェ広島工大高ジュニアユース『第41回日本クラブユースサッカー選手権（U-15）大会 中国地区予選』結果のお知らせ2026.06.20育成",
+      "link": "https://www.sanfrecce.co.jp/news/academy/12499",
       "published": "2026.06.20",
       "summary": ""
     }
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-06-20T06:58:17.086230"
+  "updated_at": "2026-06-20T11:22:46.568400"
 }
