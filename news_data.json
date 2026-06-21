@@ -16,13 +16,6 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW【ちょこっと応援チケット】6月21日（日）広島戦チケット2026.6.21",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32121",
-      "published": "2026.6.21",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
       "title": "【ファーム】6月20日（土）北海道日本ハムファイターズ戦（戸田）中止のお知らせチーム2026.6.20",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32290",
       "published": "2026.6.20",
@@ -32,6 +25,13 @@
       "team": "ヤクルト",
       "title": "6月19日（金）広島戦チケット完売のお知らせチケット2026.6.19",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32323",
+      "published": "2026.6.19",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "LADIES DAY 2026グッズの販売についてグッズ2026.6.19",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32311",
       "published": "2026.6.19",
       "summary": ""
     },
@@ -179,6 +179,13 @@
     },
     {
       "team": "名古屋グランパス",
+      "title": "加藤 玄選手、RB大宮アルディージャへ期限付き移籍延長のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/0621-rb-1.php",
+      "published": "2026-06-21",
+      "summary": "加藤 玄選手、RB大宮アルディージャへ期限付き移籍延長のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
       "title": "倍井 謙選手、KベールスホットVAへの期限付き移籍満了のお知らせ",
       "link": "https://nagoya-grampus.jp/news/pressrelease/2026/0620-kva-1.php",
       "published": "2026-06-21",
@@ -204,13 +211,6 @@
       "link": "https://nagoya-grampus.jp/news/school/2026/0619as-2days1day-1.php",
       "published": "2026-06-21",
       "summary": "『ASローマ 2daysサマーキャンプ＆1dayスクール』開催決定及び参加者募集のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "「旅するグランパスくん」グッズ受注販売のお知らせ！",
-      "link": "https://nagoya-grampus.jp/news/goods/2026/0619post-2759.php",
-      "published": "2026-06-21",
-      "summary": "「旅するグランパスくん」グッズ受注販売のお知らせ！。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "サンフレッチェ広島",
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-06-21T07:55:49.468377"
+  "updated_at": "2026-06-21T11:48:17.245134"
 }
