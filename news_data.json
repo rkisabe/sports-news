@@ -51,15 +51,15 @@
     },
     {
       "team": "ロッテ",
-      "title": "グッズ2026/06/22 (月)NEW!6/28(日)「ラブライブ！シリーズ×パ・リーグ6球団 2026」コラボグッズ販売情報",
-      "link": "https://www.marines.co.jp/news/detail/202600871993.html",
+      "title": "グッズ2026/06/22 (月)NEW!6/27(土)ラヴィット！ × パ・リーグ6球団コラボ マリーンズデザイングッズ販売情報",
+      "link": "https://www.marines.co.jp/news/detail/202600858710.html",
       "published": "2026/06/22 (月)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "グッズ2026/06/22 (月)NEW!6/28(日)「ラブライブ！シリーズ×パ・リーグ6球団 2026」コラボグッズ販売情報",
-      "link": "https://www.marines.co.jp/news/detail/202600871993.html",
+      "title": "グッズ2026/06/22 (月)NEW!6/27(土)ラヴィット！ × パ・リーグ6球団コラボ マリーンズデザイングッズ販売情報",
+      "link": "https://www.marines.co.jp/news/detail/202600858710.html",
       "published": "2026/06/22 (月)NEW!",
       "summary": ""
     },
@@ -222,6 +222,27 @@
   ],
   "bleague": [
     {
+      "team": "千葉ジェッツ",
+      "title": "NEWTEAM2026-27 シーズン チームスタッフ契約締結（新規）のお知らせ2026-06-19",
+      "link": "https://chibajets.jp/news/detail/id=26867",
+      "published": "2026-06-22",
+      "summary": ""
+    },
+    {
+      "team": "千葉ジェッツ",
+      "title": "ニュース一覧へ",
+      "link": "https://chibajets.jp/news/",
+      "published": "2026-06-22",
+      "summary": ""
+    },
+    {
+      "team": "千葉ジェッツ",
+      "title": "REPORT",
+      "link": "https://chibajets.jp/report/",
+      "published": "2026-06-22",
+      "summary": ""
+    },
+    {
       "team": "宇都宮ブレックス",
       "title": "CODE PHANTOM RAG (Relay Attack Guard)",
       "link": "https://brex.jp/archives/product/code-phantom-rag-relay-attack-guard-2",
@@ -254,6 +275,62 @@
       "title": "CODE PHANTOM TV ACTIVE Multi",
       "link": "https://brex.jp/archives/product/code-phantom-tv-active-multi",
       "published": "Wed, 17 Sep 2025 23:41:51 +0000",
+      "summary": ""
+    },
+    {
+      "team": "アルバルク東京",
+      "title": "TEAMOTHER「2025-26シーズン 応援ありがとう特設サイト」公開のお知らせ2026-05-14",
+      "link": "https://www.alvark-tokyo.jp/news/detail/id=23913",
+      "published": "2026-06-22",
+      "summary": ""
+    },
+    {
+      "team": "アルバルク東京",
+      "title": "ニュース一覧へ",
+      "link": "https://www.alvark-tokyo.jp/news/",
+      "published": "2026-06-22",
+      "summary": ""
+    },
+    {
+      "team": "川崎ブレイブサンダース",
+      "title": "NEWTEAMエマニュエル・テリー選手 移籍先決定のお知らせ2026-06-16",
+      "link": "https://kawasaki-bravethunders.com/news/detail/id=25249",
+      "published": "2026-06-22",
+      "summary": ""
+    },
+    {
+      "team": "川崎ブレイブサンダース",
+      "title": "ニュース一覧へ",
+      "link": "https://kawasaki-bravethunders.com/news/",
+      "published": "2026-06-22",
+      "summary": ""
+    },
+    {
+      "team": "川崎ブレイブサンダース",
+      "title": "5/3 ●横浜BC 84-88 川崎○ りそなグループB.LEAGUE 2025-26 B1リーグ戦 第36節GAME2 (60/60)2026-05-03",
+      "link": "https://kawasaki-bravethunders.com/game/?YMD=20260503&KEY=505495&DOUBLEHEADERFLAG=false&TAB=R",
+      "published": "2026-06-22",
+      "summary": ""
+    },
+    {
+      "team": "横浜ビー・コルセアーズ",
+      "title": "TICKET【重要】新アカウント登録のお願い2026-04-06",
+      "link": "https://b-corsairs.com/news/detail/id=22728",
+      "published": "2026-06-22",
+      "summary": ""
+    },
+    {
+      "team": "横浜ビー・コルセアーズ",
+      "title": "ニュース一覧へ",
+      "link": "https://b-corsairs.com/news/",
+      "published": "2026-06-22",
+      "summary": ""
+    },
+    {
+      "team": "横浜ビー・コルセアーズ",
+      "title": "【GAME REPORT】 りそなグループ B.LEAGUE 2025-26 SEASON 第36節 vs 川崎 GAME22026-05-03",
+      "link": "https://b-corsairs.com/game/?YMD=20260503&KEY=505495&DOUBLEHEADERFLAG=false&TAB=R",
+      "published": "2026-06-22",
       "summary": ""
     },
     {
@@ -313,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-06-22T08:54:05.078133"
+  "updated_at": "2026-06-22T14:47:02.761696"
 }
