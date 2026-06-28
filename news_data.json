@@ -16,13 +16,6 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW【ちょこっと応援チケット】6月28日（日）中日戦チケット2026.6.28",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32121",
-      "published": "2026.6.28",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
       "title": "【更新】「Swallows LADIES DAY バインダーコンテスト」入賞5作品発表および神宮球場での二次審査投票のご案内その他2026.6.27",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32321",
       "published": "2026.6.27",
@@ -32,6 +25,13 @@
       "team": "ヤクルト",
       "title": "6月27日（土）中日戦（神宮球場）チケット払い戻しについてチケット2026.6.27",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32265",
+      "published": "2026.6.27",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "6月27日（土）中日戦（神宮球場）試合中止のお知らせチーム2026.6.27",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32332",
       "published": "2026.6.27",
       "summary": ""
     },
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-06-28T11:12:19.413802"
+  "updated_at": "2026-06-28T14:49:18.668780"
 }
