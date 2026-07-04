@@ -9,9 +9,16 @@
     },
     {
       "team": "横浜DeNA",
-      "title": "FANCLUB2026/7/42026年度オフィシャルファンクラブ入会受付終了日のお知らせ",
-      "link": "https://www.baystars.co.jp/news/2026/07/0704_03.php",
+      "title": "APP2026/7/4【MY BAYSTARS】 7/7(火)〜7/9(木)にブース出展！ B☆Memories Uniform Play Scenesガチャも登場！",
+      "link": "https://www.baystars.co.jp/news/2026/07/0704_01.php",
       "published": "2026/7/4",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "NEW7月4日（土）横浜DeNA戦チケット完売のお知らせチケット2026.7.4",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32367",
+      "published": "2026.7.4",
       "summary": ""
     },
     {
@@ -23,15 +30,8 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW『プロ野球ニュース×つば九郎』今日のホームランフェイスタオルの受注販売についてグッズ2026.7.3",
+      "title": "『プロ野球ニュース×つば九郎』今日のホームランフェイスタオルの受注販売についてグッズ2026.7.3",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32366",
-      "published": "2026.7.3",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
-      "title": "NEWOfficial Net Shop注文数の超過に伴う出荷遅延についてグッズ2026.7.3",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32365",
       "published": "2026.7.3",
       "summary": ""
     },
@@ -93,15 +93,15 @@
     },
     {
       "team": "オリックス",
-      "title": "チケット2026/07/04 (土)NEW!【試合中止】7月4日（土）対埼玉西武戦の中止に伴う前売券払戻およびシーズンシート、回数券、BsCLUB各種引換券、招待企画等の対応について",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600765394.html",
+      "title": "その他2026/07/04 (土)NEW!【7/4更新】ベネズエラ地震義援金募金活動のご報告と今後の募金箱設置について",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600767044.html",
       "published": "2026/07/04 (土)NEW!",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "チケット2026/07/04 (土)NEW!【試合中止】7月4日（土）対埼玉西武戦の中止に伴う前売券払戻およびシーズンシート、回数券、BsCLUB各種引換券、招待企画等の対応について",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600765394.html",
+      "title": "その他2026/07/04 (土)NEW!【7/4更新】ベネズエラ地震義援金募金活動のご報告と今後の募金箱設置について",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600767044.html",
       "published": "2026/07/04 (土)NEW!",
       "summary": ""
     }
@@ -172,7 +172,7 @@
     },
     {
       "team": "ヴィッセル神戸",
-      "title": "NEWS最新ニュース2026/07/03ロイヤル限定！【応募不要】7 月公開練習「特別開放日」の\r\nご案内ファンクラブ2026/07/027/10（金）「2026/27シーズン キックオフイベント」開",
+      "title": "NEWS最新ニュース2026/07/03ロイヤル限定！【応募不要】7月公開練習「特別開放日」の\r\nご案内ファンクラブ2026/07/027/10（金）「2026/27シーズン キックオフイベント」開催",
       "link": "https://www.vissel-kobe.co.jp/news/article/26615.html",
       "published": "2026/07/03",
       "summary": ""
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-07-04T06:14:54.834599"
+  "updated_at": "2026-07-04T10:56:53.535734"
 }
