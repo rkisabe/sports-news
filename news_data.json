@@ -16,7 +16,14 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW7月4日（土）横浜DeNA戦チケット完売のお知らせチケット2026.7.4",
+      "title": "NEW【ちょこっと応援チケット】7月5日（日）横浜DeNA戦チケット2026.7.5",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32121",
+      "published": "2026.7.5",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "7月4日（土）横浜DeNA戦チケット完売のお知らせチケット2026.7.4",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32367",
       "published": "2026.7.4",
       "summary": ""
@@ -29,23 +36,16 @@
       "summary": ""
     },
     {
-      "team": "ヤクルト",
-      "title": "Official Net Shop注文数の超過に伴う出荷遅延についてグッズ2026.7.3",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32365",
-      "published": "2026.7.3",
-      "summary": ""
-    },
-    {
       "team": "ソフトバンク",
-      "title": "イベントみずほPayPayドームグッズ2026/07/05 (日)NEW!【8/8-9】「Pet博2026 福岡」ホークスコンテンツが決定！",
-      "link": "https://www.softbankhawks.co.jp/news/detail/202601046552.html",
+      "title": "お知らせファームチケット2026/07/05 (日)NEW!【2軍戦開催中止】7/5 阪神戦",
+      "link": "https://www.softbankhawks.co.jp/news/detail/202601048128.html",
       "published": "2026/07/05 (日)NEW!",
       "summary": ""
     },
     {
       "team": "ソフトバンク",
-      "title": "イベントみずほPayPayドームグッズ2026/07/05 (日)NEW!【8/8-9】「Pet博2026 福岡」ホークスコンテンツが決定！",
-      "link": "https://www.softbankhawks.co.jp/news/detail/202601046552.html",
+      "title": "お知らせファームチケット2026/07/05 (日)NEW!【2軍戦開催中止】7/5 阪神戦",
+      "link": "https://www.softbankhawks.co.jp/news/detail/202601048128.html",
       "published": "2026/07/05 (日)NEW!",
       "summary": ""
     },
@@ -93,15 +93,15 @@
     },
     {
       "team": "オリックス",
-      "title": "BPB DX2026/07/05 (日)NEW!【BPB DX】動画『食堂カメラ#20』公開！",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600771563.html",
+      "title": "その他2026/07/05 (日)NEW!マチャド投手・エスピノーザ投手によるベネズエラ地震義援金募金活動実施のお知らせ",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600770729.html",
       "published": "2026/07/05 (日)NEW!",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "BPB DX2026/07/05 (日)NEW!【BPB DX】動画『食堂カメラ#20』公開！",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600771563.html",
+      "title": "その他2026/07/05 (日)NEW!マチャド投手・エスピノーザ投手によるベネズエラ地震義援金募金活動実施のお知らせ",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600770729.html",
       "published": "2026/07/05 (日)NEW!",
       "summary": ""
     }
@@ -109,16 +109,16 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.07.03チーム松尾佑介選手 FC町田ゼルビアへ完全移籍のお知らせ",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/242997",
-      "published": "2026.07.03",
+      "title": "2026.07.05パートナーU-21 Jリーグ 2026/27シーズン パートナーおよびユニフォーム・プラクティスウェアサプライヤーのお知らせ",
+      "link": "https://www.urawa-reds.co.jp/clubinfo/243087",
+      "published": "2026.07.05",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.07.03チーム松尾佑介選手 FC町田ゼルビアへ完全移籍のお知らせ",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/242997",
-      "published": "2026.07.03",
+      "title": "2026.07.05パートナーU-21 Jリーグ 2026/27シーズン パートナーおよびユニフォーム・プラクティスウェアサプライヤーのお知らせ",
+      "link": "https://www.urawa-reds.co.jp/clubinfo/243087",
+      "published": "2026.07.05",
       "summary": ""
     },
     {
@@ -390,5 +390,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-07-05T06:36:22.179602"
+  "updated_at": "2026-07-05T11:07:53.582306"
 }
