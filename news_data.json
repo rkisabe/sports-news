@@ -9,9 +9,16 @@
     },
     {
       "team": "横浜DeNA",
-      "title": "APP2026/7/7『星のパズルナイン’』にガチャ機能が追加！サポートとして全選手が登場！！",
-      "link": "https://www.baystars.co.jp/news/2026/07/0707_06.php",
+      "title": "APP2026/7/7【MY BAYSTARS】15周年記念キャンペーン開催・未来への寄せ書きガチャが登場！ニュース限定カード配布も！",
+      "link": "https://www.baystars.co.jp/news/2026/07/0707_02.php",
       "published": "2026/7/7",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "NEW「マイナビオールスターゲーム2026」ファン投票で山野投手、キハダ投手、古賀選手、増田選手が選出！チーム2026.7.7",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32375",
+      "published": "2026.7.7",
       "summary": ""
     },
     {
@@ -29,13 +36,6 @@
       "summary": ""
     },
     {
-      "team": "ヤクルト",
-      "title": "石井巧 プロ初ホームラン記念グッズの受注販売についてグッズ2026.7.5",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32373",
-      "published": "2026.7.5",
-      "summary": ""
-    },
-    {
       "team": "ソフトバンク",
       "title": "お知らせグッズ2026/07/06 (月)【お詫び】若鷹ガチャ商品デザイン不備について",
       "link": "https://www.softbankhawks.co.jp/news/detail/202601046746.html",
@@ -51,15 +51,15 @@
     },
     {
       "team": "ロッテ",
-      "title": "イベント2026/07/07 (火)NEW!「BLACK SUMMER WEEK 2026 supported by クーリッシュ」演出情報",
-      "link": "https://www.marines.co.jp/news/detail/202600882395.html",
+      "title": "イベント2026/07/07 (火)NEW!7/7(火)「丹波篠山黒豆ナイター」ラッキーチャンスナンバー 当選番号発表",
+      "link": "https://www.marines.co.jp/news/detail/202600884166.html",
       "published": "2026/07/07 (火)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "イベント2026/07/07 (火)NEW!「BLACK SUMMER WEEK 2026 supported by クーリッシュ」演出情報",
-      "link": "https://www.marines.co.jp/news/detail/202600882395.html",
+      "title": "イベント2026/07/07 (火)NEW!7/7(火)「丹波篠山黒豆ナイター」ラッキーチャンスナンバー 当選番号発表",
+      "link": "https://www.marines.co.jp/news/detail/202600884166.html",
       "published": "2026/07/07 (火)NEW!",
       "summary": ""
     },
@@ -93,15 +93,15 @@
     },
     {
       "team": "オリックス",
-      "title": "イベント2026/07/07 (火)NEW!7/25（土）「Bsオリ姫デー2026 supported by エクスドリーム不動産」選手トークショー開催！",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600769594.html",
+      "title": "チーム2026/07/07 (火)NEW!公式戦日程追加のお知らせ",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600772705.html",
       "published": "2026/07/07 (火)NEW!",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "イベント2026/07/07 (火)NEW!7/25（土）「Bsオリ姫デー2026 supported by エクスドリーム不動産」選手トークショー開催！",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600769594.html",
+      "title": "チーム2026/07/07 (火)NEW!公式戦日程追加のお知らせ",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600772705.html",
       "published": "2026/07/07 (火)NEW!",
       "summary": ""
     }
@@ -109,15 +109,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.07.07グッズ＆ショップ【沖縄トレーニングキャンプグッズ登場!】7/8(水)より順次販売開始",
-      "link": "https://www.urawa-reds.co.jp/clubinfo/243216",
+      "title": "2026.07.07チーム荻原拓也選手のチーム離脱について",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/243320",
       "published": "2026.07.07",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.07.07グッズ＆ショップ【沖縄トレーニングキャンプグッズ登場!】7/8(水)より順次販売開始",
-      "link": "https://www.urawa-reds.co.jp/clubinfo/243216",
+      "title": "2026.07.07チーム荻原拓也選手のチーム離脱について",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/243320",
       "published": "2026.07.07",
       "summary": ""
     },
@@ -127,6 +127,27 @@
       "link": "https://www.so-net.ne.jp/",
       "published": "2020.03.26(木)",
       "summary": ""
+    },
+    {
+      "team": "FC東京",
+      "title": "佐藤龍之介選手 バレンシアCFへ完全移籍のお知らせ",
+      "link": "https://www.fctokyo.co.jp/news/details/337421/",
+      "published": "Tue, 07 Jul 2026 18:00:00 +0000",
+      "summary": "<p>佐藤龍之介選手がバレンシアCF(スペイン)に完全移籍することが決定しましたのでお知らせします。</p><p><img alt=\"\" class=\"alignnone size-full wp-image-337425\" height=\"1350\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/07/sato_0629"
+    },
+    {
+      "team": "FC東京",
+      "title": "7月8日(水)新商品販売のお知らせ",
+      "link": "https://www.fctokyo.co.jp/news/details/337397/",
+      "published": "Tue, 07 Jul 2026 16:00:00 +0000",
+      "summary": "<p>7月8日(水)17:00よりFC東京グッズの新商品を販売いたします。<br />ぜひお買い求めください。</p><h2>商品ラインナップ</h2><h3>□リンガーTシャツ</h3><p><strong>#エンブレム<br /><img alt=\"\" class=\"alignnone size-full wp-image-337386\" height=\"959\" src=\"https://a"
+    },
+    {
+      "team": "FC東京",
+      "title": "2026/27シーズン プレーヤーズ受注グッズ第一弾販売のお知らせ",
+      "link": "https://www.fctokyo.co.jp/news/details/337400/",
+      "published": "Tue, 07 Jul 2026 16:00:00 +0000",
+      "summary": "<p>7月8日(水)17:00よりプレーヤーズ受注グッズ第一弾の新商品を販売いたします。<br />ぜひお買い求めください。</p><h2>商品ラインナップ</h2><p><img alt=\"\" class=\"alignnone size-full wp-image-337403\" height=\"552\" src=\"https://assets.fctokyo.co.jp/wp/wp-conte"
     },
     {
       "team": "FC東京",
@@ -143,37 +164,16 @@
       "summary": "<p><img alt=\"\" class=\"alignnone size-full wp-image-337342\" height=\"1080\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/07/①jp_bag_06.jpg?x59605\" width=\"1920\" /></p><p>8月21日(金) 2026/27明治"
     },
     {
-      "team": "FC東京",
-      "title": "【SOCIO/OFFICIAL MEMBERSHIP限定】8/1(土)国際親善試合 ボルシア ドルトムント戦 FC東京クラブフラッグベアラー参加者募集のお知らせ",
-      "link": "https://www.fctokyo.co.jp/news/details/337351/",
-      "published": "Mon, 06 Jul 2026 17:00:00 +0000",
-      "summary": "<p>8月1日(土)国際親善試合 ボルシア ドルトムント戦(19:00キックオフ/MUFGスタジアム(国立競技場))にて「FC東京クラブフラッグベアラー」を実施いたします!<br />SOCIO/OFFICIAL MEMBERSHIP会員から参加者を募集いたしますので、注意事項など下記項目をご確認の上、ぜひご応募ください。</p><h3>□実施試合</h3><p>8月1日(土) 19:00キックオ"
-    },
-    {
-      "team": "FC東京",
-      "title": "2026/27シーズン ユニフォーム販売について",
-      "link": "https://www.fctokyo.co.jp/news/details/336942/",
-      "published": "Fri, 03 Jul 2026 17:16:57 +0000",
-      "summary": "<p><img alt=\"\" class=\"alignnone size-full wp-image-337282\" height=\"1350\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/07/2627uni_kv_16-9.jpg?x59605\" width=\"2400\" /></p><p>2026/27シーズンのユ"
-    },
-    {
-      "team": "FC東京",
-      "title": "2026/27シーズン『ユニフォームパートナー』決定のお知らせ",
-      "link": "https://www.fctokyo.co.jp/news/details/337287/",
-      "published": "Fri, 03 Jul 2026 17:00:00 +0000",
-      "summary": "<p>2026/27シーズンのユニフォームパートナーが決定しましたので、お知らせいたします。<br />パートナーのみなさまの想いとともに、2026/27シーズンの戦いに臨んでまいります。</p><p><img alt=\"\" class=\"alignnone size-full wp-image-337295\" height=\"887\" src=\"https://assets.fctokyo.co"
-    },
-    {
       "team": "ガンバ大阪",
-      "title": "26.7.7［インフォメーション］7/25（土）GAMBA OSAKA KICKOFF FES Supported by 明治安田 開催のお知らせ",
-      "link": "https://www.gamba-osaka.net/news/index/no/20493/c/0/year/2026/month/07/",
-      "published": "26.7.7［インフォメーション］",
+      "title": "26.7.7［アカデミー］2027年度 ユースセレクション応募締切間近！",
+      "link": "https://www.gamba-osaka.net/news/index/no/20503/c/0/year/2026/month/07/",
+      "published": "26.7.7［アカデミー］",
       "summary": ""
     },
     {
       "team": "ヴィッセル神戸",
-      "title": "NEWS最新ニュース2026/07/07夏季トレーニングキャンプ「楽天モバイル最強キャンプ2026」一般公開日のお知らせチーム2026/07/068/15（土）FC東京戦「ポケモンＪリーグフェス」開催",
-      "link": "https://www.vissel-kobe.co.jp/news/article/26707.html",
+      "title": "NEWS最新ニュース2026/07/072026/27シーズン ホームゲーム駐車券販売概要についてのお知らせチケット2026/07/072026/27シーズン ホームゲームチケット販売概要決定のお知ら",
+      "link": "https://www.vissel-kobe.co.jp/news/article/26704.html",
       "published": "2026/07/07",
       "summary": ""
     },
@@ -214,8 +214,8 @@
     },
     {
       "team": "サンフレッチェ広島",
-      "title": "李誠雅選手 朝鮮民主主義人民共和国女子代表 選出のお知らせ2026.07.07レジーナ",
-      "link": "https://www.sanfrecce.co.jp/news/regina/12555",
+      "title": "サンフレチケット メンテナンスのお知らせ2026.07.07チケット",
+      "link": "https://www.sanfrecce.co.jp/news/ticket/12561",
       "published": "2026.07.07",
       "summary": ""
     }
@@ -258,8 +258,8 @@
     },
     {
       "team": "アルバルク東京",
-      "title": "NEWFANCLUB(7/6更新) ルークファンクラブ「ROOK CLUB」設立のお知らせ2026-07-06",
-      "link": "https://www.alvark-tokyo.jp/news/detail/id=23985",
+      "title": "NEWALVARK WillTOKYO UNITE「#your_shoes」チャリティーオークション2026への協力について2026-07-07",
+      "link": "https://www.alvark-tokyo.jp/news/detail/id=24123",
       "published": "2026-07-07",
       "summary": ""
     },
@@ -369,5 +369,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-07-07T06:41:44.981725"
+  "updated_at": "2026-07-07T12:00:04.871644"
 }
