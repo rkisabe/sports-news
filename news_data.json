@@ -23,7 +23,7 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW「マイナビオールスターゲーム2026」ファン投票で山野投手、キハダ投手、古賀選手、増田選手が選出！チーム2026.7.7",
+      "title": "「マイナビオールスターゲーム2026」ファン投票で山野投手、キハダ投手、古賀選手、増田選手が選出！チーム2026.7.7",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32375",
       "published": "2026.7.7",
       "summary": ""
@@ -51,15 +51,15 @@
     },
     {
       "team": "ロッテ",
-      "title": "イベント2026/07/08 (水)NEW!「BLACK SUMMER WEEK supported by クーリッシュ」リポーター情報",
-      "link": "https://www.marines.co.jp/news/detail/202600877007.html",
+      "title": "イベント2026/07/08 (水)NEW!7/8(水)「THIS IS MISAWA ナイター」ラッキーチャンスナンバー 当選番号発表",
+      "link": "https://www.marines.co.jp/news/detail/202600884953.html",
       "published": "2026/07/08 (水)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "イベント2026/07/08 (水)NEW!「BLACK SUMMER WEEK supported by クーリッシュ」リポーター情報",
-      "link": "https://www.marines.co.jp/news/detail/202600877007.html",
+      "title": "イベント2026/07/08 (水)NEW!7/8(水)「THIS IS MISAWA ナイター」ラッキーチャンスナンバー 当選番号発表",
+      "link": "https://www.marines.co.jp/news/detail/202600884953.html",
       "published": "2026/07/08 (水)NEW!",
       "summary": ""
     },
@@ -165,9 +165,9 @@
     },
     {
       "team": "ガンバ大阪",
-      "title": "26.7.8［チケット］明治安田J１　チケット発売日のご案内［8/7（金）浦和戦］",
-      "link": "https://www.gamba-osaka.net/news/index/no/20504/c/0/year/2026/month/07/",
-      "published": "26.7.8［チケット］",
+      "title": "26.7.8［キャンプレポート］2026/27 オーストリアキャンプDAY2",
+      "link": "https://www.gamba-osaka.net/news/index/no/20506/c/0/year/2026/month/07/",
+      "published": "26.7.8［キャンプレポート］",
       "summary": ""
     },
     {
@@ -176,6 +176,13 @@
       "link": "https://www.vissel-kobe.co.jp/news/article/26704.html",
       "published": "2026/07/07",
       "summary": ""
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "クラブグランパス「ペット入店OK day」開催のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/goods/2026/0708-ok-day.php",
+      "published": "2026-07-08",
+      "summary": "クラブグランパス「ペット入店OK day」開催のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
@@ -206,16 +213,9 @@
       "summary": "【名古屋グランパスコレクション】 海外クラブ所属選手のデジタルカード配信のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
-      "team": "名古屋グランパス",
-      "title": "8/29（土）岡山戦にて、\"ポケモンＪリーグフェス\"開催決定！ 来場者全員にEVO BAG（ポケモンのエコバッグ）をプレゼント",
-      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/0706829-evo-bag.php",
-      "published": "2026-07-08",
-      "summary": "8/29（土）岡山戦にて、\"ポケモンＪリーグフェス\"開催決定！ 来場者全員にEVO BAG（ポケモンのエコバッグ）をプレゼント。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
       "team": "サンフレッチェ広島",
-      "title": "令和8年（2026年）平和記念式典の放映について2026.07.08お知らせ",
-      "link": "https://www.sanfrecce.co.jp/news/other/12544",
+      "title": "【WEリーグ｜WEリーグクラシエカップ】チケット販売スケジュールについてのお知らせ2026.07.08レジーナ",
+      "link": "https://www.sanfrecce.co.jp/news/regina/12569",
       "published": "2026.07.08",
       "summary": ""
     }
@@ -355,5 +355,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-07-08T05:46:17.185497"
+  "updated_at": "2026-07-08T11:09:43.230286"
 }
