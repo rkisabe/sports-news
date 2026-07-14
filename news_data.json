@@ -16,6 +16,13 @@
     },
     {
       "team": "ヤクルト",
+      "title": "NEWファンが選ぶ！神宮球場グルメ総選挙結果発表についてイベント2026.7.14",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32390",
+      "published": "2026.7.14",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
       "title": "NEWくるりんぱカフェにてSwallowsPayを画面提示でオリジナルグッズをもらおうキャンペーンの実施イベント2026.7.14",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32391",
       "published": "2026.7.14",
@@ -25,13 +32,6 @@
       "team": "ヤクルト",
       "title": "NEW【ちょこっと応援チケット】7月14日（火）巨人戦チケット2026.7.14",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32121",
-      "published": "2026.7.14",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
-      "title": "NEW8月1日（土）阪神戦チケット完売のお知らせチケット2026.7.14",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32389",
       "published": "2026.7.14",
       "summary": ""
     },
@@ -93,15 +93,15 @@
     },
     {
       "team": "オリックス",
-      "title": "スポンサー2026/07/14 (火)NEW!8/16（日）選手サイン会参加者募集！（提供：株式会社ソルシード）",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600774240.html",
+      "title": "イベントチケット2026/07/14 (火)NEW!オリメン装飾登場！「Bsオリ姫デー2026 supported by エクスドリーム不動産」",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600774105.html",
       "published": "2026/07/14 (火)NEW!",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "スポンサー2026/07/14 (火)NEW!8/16（日）選手サイン会参加者募集！（提供：株式会社ソルシード）",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600774240.html",
+      "title": "イベントチケット2026/07/14 (火)NEW!オリメン装飾登場！「Bsオリ姫デー2026 supported by エクスドリーム不動産」",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600774105.html",
       "published": "2026/07/14 (火)NEW!",
       "summary": ""
     }
@@ -109,16 +109,16 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.07.12試合・練習7/13(月)のトレーニングスケジュール変更のお知らせ",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/243644",
-      "published": "2026.07.12",
+      "title": "2026.07.14育成浦和レッズジュニアチーム 第1次セレクションにご参加いただいた選手・保護者のみなさまへ",
+      "link": "https://www.urawa-reds.co.jp/clubinfo/243733",
+      "published": "2026.07.14",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.07.12試合・練習7/13(月)のトレーニングスケジュール変更のお知らせ",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/243644",
-      "published": "2026.07.12",
+      "title": "2026.07.14育成浦和レッズジュニアチーム 第1次セレクションにご参加いただいた選手・保護者のみなさまへ",
+      "link": "https://www.urawa-reds.co.jp/clubinfo/243733",
+      "published": "2026.07.14",
       "summary": ""
     },
     {
@@ -127,6 +127,27 @@
       "link": "https://www.so-net.ne.jp/",
       "published": "2020.03.26(木)",
       "summary": ""
+    },
+    {
+      "team": "FC東京",
+      "title": "『THANK YOU 龍之介グッズ』販売のお知らせ",
+      "link": "https://www.fctokyo.co.jp/news/details/337579/",
+      "published": "Tue, 14 Jul 2026 17:00:00 +0000",
+      "summary": "<p>7月15(水)17:00よりバレンシアCFへ完全移籍した佐藤龍之介選手のグッズ『THANK YOU 龍之介グッズ』の受注販売を開始いたします。<br />完全受注生産となりますので、ぜひこの機会にお買い求め下さい！</p><h2><strong>『THANK YOU </strong><strong>龍之介グッズ』商品ラインナップ</strong></h2><h3>□Tシャツ</h3><p>"
+    },
+    {
+      "team": "FC東京",
+      "title": "7月15日(水)新商品販売のお知らせ",
+      "link": "https://www.fctokyo.co.jp/news/details/337575/",
+      "published": "Tue, 14 Jul 2026 17:00:00 +0000",
+      "summary": "<p>7月15日(水)17:00よりFC東京グッズの新商品を販売いたします。<br />ぜひお買い求めください。</p><h2>商品ラインナップ</h2><h3>□ショルダーステンレスペットボトルクーラー</h3><p><img alt=\"\" class=\"alignnone size-full wp-image-337607\" height=\"1526\" src=\"https://assets."
+    },
+    {
+      "team": "FC東京",
+      "title": "『（仮称）調布市防災・スポーツレクリエーション公園整備事業』に関する説明会開催および動画公開のお知らせ",
+      "link": "https://www.fctokyo.co.jp/news/details/337577/",
+      "published": "Tue, 14 Jul 2026 16:00:00 +0000",
+      "summary": "<p>調布市とFC東京は、2026年7月10日(金)、11日(土)に、『（仮称）調布市防災・スポーツレクリエーション公園整備事業』に関する説明会を開催しました。<br />説明会では、本事業の概要や目的、今後の進め方などについてご説明するとともに、本事業を通じてめざす公園のイメージを動画でご紹介しました。<br />当日ご参加いただいたみなさま、誠にありがとうございました。<br />このたび、当"
     },
     {
       "team": "FC東京",
@@ -143,31 +164,10 @@
       "summary": "<p>8月1日(土) 国際親善試合　FC東京vsボルシア ドルトムント(19:00キックオフ/MUFGスタジアム(国立競技場))のコラボグッズ販売についてお知らせいたします。ぜひお買いお求めください！<br />◇特設ページは<a href=\"https://fctokyo-dortmund-friendlymatch2026.jp/index.html?utm_source=hp&amp;utm"
     },
     {
-      "team": "FC東京",
-      "title": "【U-18】2026 Gothia Cup1日目",
-      "link": "https://www.fctokyo.co.jp/news/details/337554/",
-      "published": "Sun, 12 Jul 2026 09:43:01 +0000",
-      "summary": "<p><span class=\"TextRun SCXW78288582 BCX0\" lang=\"EN-US\" xml:lang=\"EN-US\"><span class=\"NormalTextRun SCXW78288582 BCX0\">3年連続5</span></span><span class=\"TextRun SCXW78288582 BCX0\" lang=\"JA-JP\" xml:lang="
-    },
-    {
-      "team": "FC東京",
-      "title": "『2026/27シーズン』に向けた 北海道・白老町キャンプ 一般公開のお知らせ",
-      "link": "https://www.fctokyo.co.jp/news/details/337548/",
-      "published": "Sat, 11 Jul 2026 18:00:00 +0000",
-      "summary": "<p>7月14日(火)から行う北海道・白老町キャンプの一般公開につきまして、下記の通りお知らせいたします。</p><p>午前および午後の練習を一般のみなさまに公開いたします（一部非公開あり）。<br />また、練習試合を公開する場合にはホームページの<a href=\"https://www.fctokyo.co.jp/team/training/#anc4\">トレーニングスケジュール</a>に記載"
-    },
-    {
-      "team": "FC東京",
-      "title": "【8月度】「FC東京ゴールキーパークリニック」開催のお知らせ",
-      "link": "https://www.fctokyo.co.jp/news/details/337521/",
-      "published": "Sat, 11 Jul 2026 10:00:00 +0000",
-      "summary": "<p><img alt=\"\" class=\"alignnone size-full wp-image-336377\" height=\"576\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/06/KV.jpg?x59605\" width=\"1024\" /></p><p>FC東京では、小学4～6年生を対象にゴールキーパーの素"
-    },
-    {
       "team": "ガンバ大阪",
-      "title": "26.7.14［インフォメーション］ガンバ大阪　タイキャンプ実施報告",
-      "link": "https://www.gamba-osaka.net/news/index/no/20533/c/0/year/2026/month/07/",
-      "published": "26.7.14［インフォメーション］",
+      "title": "26.7.14［パートナー］「株式会社ワンコンシスト」とオフィシャルパートナー（新規契約）のお知らせ",
+      "link": "https://www.gamba-osaka.net/news/index/no/20500/c/0/year/2026/month/07/",
+      "published": "26.7.14［パートナー］",
       "summary": ""
     },
     {
@@ -176,6 +176,20 @@
       "link": "https://www.vissel-kobe.co.jp/news/article/26717.html",
       "published": "2026/07/13",
       "summary": ""
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "２０２６特別シーズン＋２０２６／２７シーズンチケット（個人）｜2回目決済についてのお知らせ",
+      "link": "https://nagoya-grampus.jp/news/ticket/2026/07142-355.php",
+      "published": "2026-07-14",
+      "summary": "２０２６特別シーズン＋２０２６／２７シーズンチケット（個人）｜2回目決済についてのお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "10月開催試合｜チケット販売スケジュールのお知らせ",
+      "link": "https://nagoya-grampus.jp/news/ticket/2026/071410-91.php",
+      "published": "2026-07-14",
+      "summary": "10月開催試合｜チケット販売スケジュールのお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
@@ -199,23 +213,9 @@
       "summary": "河面 旺成選手、水戸ホーリーホックへ期限付き移籍のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
-      "team": "名古屋グランパス",
-      "title": "夏のスタジアム観戦について 熱中症対策のご案内",
-      "link": "https://nagoya-grampus.jp/news/game/2026/0711post-2780.php",
-      "published": "2026-07-14",
-      "summary": "夏のスタジアム観戦について 熱中症対策のご案内。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "8/8（土）清水戦・8/22（土）G大阪戦｜２０２６／２７シーズン開幕『鯱の大祭典26/27-夏の陣-』",
-      "link": "https://nagoya-grampus.jp/news/orcinus/2026/0710shachi.php",
-      "published": "2026-07-14",
-      "summary": "8/8（土）清水戦・8/22（土）G大阪戦｜２０２６／２７シーズン開幕『鯱の大祭典26/27-夏の陣-』。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
       "team": "サンフレッチェ広島",
-      "title": "8/29（土）ホーム開幕戦 レジーナ初のオフィシャルフォトブック「BE REGINA 2026/27」をご来場先着10,000名様に配布！2026.07.14レジーナ",
-      "link": "https://www.sanfrecce.co.jp/news/regina/12594",
+      "title": "2026/27開幕前 夏季トレーニングキャンプ（2次）のご案内2026.07.14チーム",
+      "link": "https://www.sanfrecce.co.jp/news/team/12595",
       "published": "2026.07.14",
       "summary": ""
     }
@@ -271,5 +271,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-07-14T05:24:33.448251"
+  "updated_at": "2026-07-14T10:52:08.979839"
 }
