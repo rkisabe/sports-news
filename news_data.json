@@ -23,29 +23,29 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW【ちょこっと応援チケット】7月15日（水）巨人戦チケット2026.7.15",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32121",
-      "published": "2026.7.15",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
       "title": "NEWスワローズオリジナル ポケモングッズ店頭販売についてグッズ2026.7.15",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32295",
       "published": "2026.7.15",
       "summary": ""
     },
     {
+      "team": "ヤクルト",
+      "title": "ファンが選ぶ！神宮球場グルメ総選挙結果発表についてイベント2026.7.14",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32390",
+      "published": "2026.7.14",
+      "summary": ""
+    },
+    {
       "team": "ソフトバンク",
-      "title": "イベントグルメグッズタカポイント2026/07/15 (水)NEW!【8/11～8/23】エンジョイサマーキャンペーンを実施！",
-      "link": "https://www.softbankhawks.co.jp/news/detail/202601050261.html",
+      "title": "お知らせ2026/07/15 (水)NEW!【訃報】DJツバサ（藤澤翼）さん ご逝去について",
+      "link": "https://www.softbankhawks.co.jp/news/detail/202601053953.html",
       "published": "2026/07/15 (水)NEW!",
       "summary": ""
     },
     {
       "team": "ソフトバンク",
-      "title": "イベントグルメグッズタカポイント2026/07/15 (水)NEW!【8/11～8/23】エンジョイサマーキャンペーンを実施！",
-      "link": "https://www.softbankhawks.co.jp/news/detail/202601050261.html",
+      "title": "お知らせ2026/07/15 (水)NEW!【訃報】DJツバサ（藤澤翼）さん ご逝去について",
+      "link": "https://www.softbankhawks.co.jp/news/detail/202601053953.html",
       "published": "2026/07/15 (水)NEW!",
       "summary": ""
     },
@@ -165,9 +165,9 @@
     },
     {
       "team": "ガンバ大阪",
-      "title": "26.7.15［インフォメーション］7/25（土）GAMBA OSAKA KICKOFF FES Supported by 明治安田    音と光のナイトフェス開催のお知らせ",
-      "link": "https://www.gamba-osaka.net/news/index/no/20540/c/0/year/2026/month/07/",
-      "published": "26.7.15［インフォメーション］",
+      "title": "26.7.15［キャンプレポート］2026/27 オーストリアキャンプDAY9",
+      "link": "https://www.gamba-osaka.net/news/index/no/20542/c/0/year/2026/month/07/",
+      "published": "26.7.15［キャンプレポート］",
       "summary": ""
     },
     {
@@ -292,5 +292,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-07-15T10:56:28.079789"
+  "updated_at": "2026-07-15T14:52:20.327133"
 }
