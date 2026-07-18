@@ -23,14 +23,14 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEWガチャガチャ新商品販売のお知らせグッズ2026.7.17",
+      "title": "ガチャガチャ新商品販売のお知らせグッズ2026.7.17",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32396",
       "published": "2026.7.17",
       "summary": ""
     },
     {
       "team": "ヤクルト",
-      "title": "NEW7月20日（月・祝）～22日（水）神宮球場周辺の混雑に伴う、通信環境不安定およびお支払い方法に関するお願いグッズ2026.7.17",
+      "title": "7月20日（月・祝）～22日（水）神宮球場周辺の混雑に伴う、通信環境不安定およびお支払い方法に関するお願いグッズ2026.7.17",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32400",
       "published": "2026.7.17",
       "summary": ""
@@ -93,15 +93,15 @@
     },
     {
       "team": "オリックス",
-      "title": "バファロッピン2026/07/18 (土)NEW!【Bsオリ姫デー2026】非売品の限定オリメンピンバッジがもらえるプレゼント企画実施！",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600777771.html",
+      "title": "グッズ2026/07/18 (土)NEW!【7/18更新】【7月18日（土）～20日（月・祝）】オリメンフォト販売イベント開催！",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600775771.html",
       "published": "2026/07/18 (土)NEW!",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "バファロッピン2026/07/18 (土)NEW!【Bsオリ姫デー2026】非売品の限定オリメンピンバッジがもらえるプレゼント企画実施！",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600777771.html",
+      "title": "グッズ2026/07/18 (土)NEW!【7/18更新】【7月18日（土）～20日（月・祝）】オリメンフォト販売イベント開催！",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600775771.html",
       "published": "2026/07/18 (土)NEW!",
       "summary": ""
     }
@@ -165,9 +165,9 @@
     },
     {
       "team": "ガンバ大阪",
-      "title": "26.7.18［インフォメーション］7月トップチーム練習公開について",
-      "link": "https://www.gamba-osaka.net/news/index/no/20558/c/0/year/2026/month/07/",
-      "published": "26.7.18［インフォメーション］",
+      "title": "26.7.18［グッズ］7/25（土）GAMBA OSAKA KICKOFF FES Supported by 明治安田　新マスコットグッズ販売のお知らせ",
+      "link": "https://www.gamba-osaka.net/news/index/no/20563/c/0/year/2026/month/07/",
+      "published": "26.7.18［グッズ］",
       "summary": ""
     },
     {
@@ -176,6 +176,13 @@
       "link": "https://www.vissel-kobe.co.jp/news/article/26725.html",
       "published": "2026/07/17",
       "summary": ""
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "クラブグランパス「名古屋グランパスOB 矢田 旭さん来店イベント」実施のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/goods/2026/0718ob-6.php",
+      "published": "2026-07-18",
+      "summary": "クラブグランパス「名古屋グランパスOB 矢田 旭さん来店イベント」実施のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
@@ -206,16 +213,9 @@
       "summary": "7/17（金）今週のグッズ担当イチオシアイテム！。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
-      "team": "名古屋グランパス",
-      "title": "クラブグランパス「夏休みキャンペーン」実施のお知らせ",
-      "link": "https://nagoya-grampus.jp/news/goods/2026/0717post-2785.php",
-      "published": "2026-07-18",
-      "summary": "クラブグランパス「夏休みキャンペーン」実施のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
       "team": "サンフレッチェ広島",
-      "title": "7/25（土）広島みなと夢花火大会 サンフレッチェ広島レジーナPRブース出展および限定グッズ販売のお知らせ2026.07.18レジーナ",
-      "link": "https://www.sanfrecce.co.jp/news/regina/12607",
+      "title": "トレーニングマッチ（vs.ディアヴォロッソ広島）試合結果のお知らせ2026.07.18レジーナ",
+      "link": "https://www.sanfrecce.co.jp/news/regina/12608",
       "published": "2026.07.18",
       "summary": ""
     }
@@ -292,5 +292,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-07-18T05:19:44.462005"
+  "updated_at": "2026-07-18T10:23:17.417510"
 }
