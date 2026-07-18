@@ -51,15 +51,15 @@
     },
     {
       "team": "ロッテ",
-      "title": "グッズ2026/07/18 (土)NEW!【7/18(土)更新】7/10(金)BLACK SUMMER WEEK 2026 ITEM 追加販売情報",
-      "link": "https://www.marines.co.jp/news/detail/202600883961.html",
+      "title": "その他2026/07/18 (土)NEW!7/18(土)福岡ソフトバンク戦 満員御礼",
+      "link": "https://www.marines.co.jp/news/detail/202600892930.html",
       "published": "2026/07/18 (土)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "グッズ2026/07/18 (土)NEW!【7/18(土)更新】7/10(金)BLACK SUMMER WEEK 2026 ITEM 追加販売情報",
-      "link": "https://www.marines.co.jp/news/detail/202600883961.html",
+      "title": "その他2026/07/18 (土)NEW!7/18(土)福岡ソフトバンク戦 満員御礼",
+      "link": "https://www.marines.co.jp/news/detail/202600892930.html",
       "published": "2026/07/18 (土)NEW!",
       "summary": ""
     },
@@ -130,6 +130,13 @@
     },
     {
       "team": "FC東京",
+      "title": "【U-18】2026 Gothia Cup 4日目、5日目",
+      "link": "https://www.fctokyo.co.jp/news/details/337794/",
+      "published": "Sat, 18 Jul 2026 23:07:33 +0000",
+      "summary": "<p><img alt=\"\" class=\"alignnone size-full wp-image-337795\" height=\"567\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/07/1dai2sen.jpg?x59605\" width=\"756\" /></p><h3><strong>Gothia Cup 20"
+    },
+    {
+      "team": "FC東京",
       "title": "8月16日(日)『パーク de ZUMBA®』参加者募集のお知らせ",
       "link": "https://www.fctokyo.co.jp/news/details/337753/",
       "published": "Sat, 18 Jul 2026 11:00:00 +0000",
@@ -155,13 +162,6 @@
       "link": "https://www.fctokyo.co.jp/news/details/318928/",
       "published": "Fri, 17 Jul 2026 16:48:03 +0000",
       "summary": "<p><img alt=\"\" class=\"alignnone size-full wp-image-337478\" height=\"200\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/01/tickets-for-overseas.jpg?x59605\" width=\"600\" /></p><p>Thank you "
-    },
-    {
-      "team": "FC東京",
-      "title": "練習試合結果 モンテディオ山形戦",
-      "link": "https://www.fctokyo.co.jp/news/details/337742/",
-      "published": "Fri, 17 Jul 2026 15:00:00 +0000",
-      "summary": "<p>本日7月17日(金)、モンテディオ山形<span class=\"NormalTextRun SCXW111738164 BCX8\">と練習試合を実施しました。</span></p><p>【スコア】<br />FC東京 vs モンテディオ山形<br />1-2<br />・1本目：1-0<br />・2本目：0-1<br />・3本目：0-1<br /><sub>※45分×3本</sub></"
     },
     {
       "team": "ガンバ大阪",
@@ -292,5 +292,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-07-18T10:23:17.417510"
+  "updated_at": "2026-07-18T14:20:08.448359"
 }
