@@ -16,13 +16,6 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW【ちょこっと応援チケット】7月20日（月・祝）中日戦チケット2026.7.20",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32121",
-      "published": "2026.7.20",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
       "title": "【燕プロ】燕パワーユニホームの選手をコレクション！プロジェクトを更新！イベント2026.7.18",
       "link": "https://www.yakult-swallows.co.jp/special/tokyo_en_project2026",
       "published": "2026.7.18",
@@ -36,31 +29,38 @@
       "summary": ""
     },
     {
-      "team": "ソフトバンク",
-      "title": "プレスリリース2026/07/20 (月)NEW!「ホークスみんなのガーデン フラワーガーデンコンテスト2026 Supported by フラワーパーク」受賞作品決定！ 最優秀賞はAZS9の「全新＞＞＞3連覇…",
-      "link": "https://www.softbankhawks.co.jp/news/detail/202601057047.html",
-      "published": "2026/07/20 (月)NEW!",
+      "team": "ヤクルト",
+      "title": "7月20日（月・祝）～22日（水）神宮球場周辺の混雑に伴う、通信環境不安定およびお支払い方法に関するお願いグッズ2026.7.17",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32400",
+      "published": "2026.7.17",
       "summary": ""
     },
     {
       "team": "ソフトバンク",
-      "title": "プレスリリース2026/07/20 (月)NEW!「ホークスみんなのガーデン フラワーガーデンコンテスト2026 Supported by フラワーパーク」受賞作品決定！ 最優秀賞はAZS9の「全新＞＞＞3連覇…",
+      "title": "プレスリリース2026/07/20 (月)「ホークスみんなのガーデン フラワーガーデンコンテスト2026 Supported by フラワーパーク」受賞作品決定！ 最優秀賞はAZS9の「全新＞＞＞3連覇…",
       "link": "https://www.softbankhawks.co.jp/news/detail/202601057047.html",
-      "published": "2026/07/20 (月)NEW!",
+      "published": "2026/07/20 (月)",
+      "summary": ""
+    },
+    {
+      "team": "ソフトバンク",
+      "title": "プレスリリース2026/07/20 (月)「ホークスみんなのガーデン フラワーガーデンコンテスト2026 Supported by フラワーパーク」受賞作品決定！ 最優秀賞はAZS9の「全新＞＞＞3連覇…",
+      "link": "https://www.softbankhawks.co.jp/news/detail/202601057047.html",
+      "published": "2026/07/20 (月)",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "その他2026/07/20 (月)NEW!7/20(月・祝)福岡ソフトバンク戦 満員御礼",
-      "link": "https://www.marines.co.jp/news/detail/202600893663.html",
-      "published": "2026/07/20 (月)NEW!",
+      "title": "チーム2026/07/20 (月)角中選手 引退のお知らせ",
+      "link": "https://www.marines.co.jp/news/detail/202600893548.html",
+      "published": "2026/07/20 (月)",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "その他2026/07/20 (月)NEW!7/20(月・祝)福岡ソフトバンク戦 満員御礼",
-      "link": "https://www.marines.co.jp/news/detail/202600893663.html",
-      "published": "2026/07/20 (月)NEW!",
+      "title": "チーム2026/07/20 (月)角中選手 引退のお知らせ",
+      "link": "https://www.marines.co.jp/news/detail/202600893548.html",
+      "published": "2026/07/20 (月)",
       "summary": ""
     },
     {
@@ -93,16 +93,16 @@
     },
     {
       "team": "オリックス",
-      "title": "メディア2026/07/20 (月)NEW!NHK「ほっと関西」でオリ姫デー特集が放送されます！",
+      "title": "メディア2026/07/20 (月)NHK「ほっと関西」でオリ姫デー特集が放送されます！",
       "link": "https://www.buffaloes.co.jp/news/detail/202600779383.html",
-      "published": "2026/07/20 (月)NEW!",
+      "published": "2026/07/20 (月)",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "メディア2026/07/20 (月)NEW!NHK「ほっと関西」でオリ姫デー特集が放送されます！",
+      "title": "メディア2026/07/20 (月)NHK「ほっと関西」でオリ姫デー特集が放送されます！",
       "link": "https://www.buffaloes.co.jp/news/detail/202600779383.html",
-      "published": "2026/07/20 (月)NEW!",
+      "published": "2026/07/20 (月)",
       "summary": ""
     }
   ],
@@ -292,5 +292,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-07-20T11:51:22.987300"
+  "updated_at": "2026-07-20T15:12:15.614091"
 }
