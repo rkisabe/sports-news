@@ -16,13 +16,6 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW【ちょこっと応援チケット】7月24日（金）広島戦チケット2026.7.24",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32121",
-      "published": "2026.7.24",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
       "title": "NEW「マイナビオールスターゲーム2026」選出記念グッズについてグッズ2026.7.24",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32412",
       "published": "2026.7.24",
@@ -32,6 +25,13 @@
       "team": "ヤクルト",
       "title": "7月つばの日販売商品のお知らせグッズ2026.7.23",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32417",
+      "published": "2026.7.23",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "「スワローズオリジナル ポケモン プレイヤーズネームフェイスタオル（長岡）」に関するお詫びとお知らせグッズ2026.7.23",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32422",
       "published": "2026.7.23",
       "summary": ""
     },
@@ -93,15 +93,15 @@
     },
     {
       "team": "オリックス",
-      "title": "イベントマスコット2026/07/24 (金)NEW!【BsStage】8月6日（木）バファローブル＆ベル×クラッチーナ コラボマスコットショー開催します！！",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600780741.html",
+      "title": "メディア2026/07/24 (金)NEW!サンスポYouTube「S＋」でオリ姫デーの裏側特集（後編）が公開！",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600781648.html",
       "published": "2026/07/24 (金)NEW!",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "イベントマスコット2026/07/24 (金)NEW!【BsStage】8月6日（木）バファローブル＆ベル×クラッチーナ コラボマスコットショー開催します！！",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600780741.html",
+      "title": "メディア2026/07/24 (金)NEW!サンスポYouTube「S＋」でオリ姫デーの裏側特集（後編）が公開！",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600781648.html",
       "published": "2026/07/24 (金)NEW!",
       "summary": ""
     }
@@ -165,9 +165,9 @@
     },
     {
       "team": "ガンバ大阪",
-      "title": "26.7.24［グッズ］SUMMER SONIC 2026とのコラボグッズが販売決定",
-      "link": "https://www.gamba-osaka.net/news/index/no/20579/c/0/year/2026/month/07/",
-      "published": "26.7.24［グッズ］",
+      "title": "26.7.24［チーム］7/24（金）PSM 〇 0–6 ツエーゲン金沢@西部緑地公園陸上競技場",
+      "link": "https://www.gamba-osaka.net/news/index/no/20586/c/0/year/2026/month/07/",
+      "published": "26.7.24［チーム］",
       "summary": ""
     },
     {
@@ -278,5 +278,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-07-24T11:06:18.298239"
+  "updated_at": "2026-07-24T14:56:46.869811"
 }
