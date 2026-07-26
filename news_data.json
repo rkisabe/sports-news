@@ -16,6 +16,13 @@
     },
     {
       "team": "ヤクルト",
+      "title": "NEW【ちょこっと応援チケット】7月26日（日）広島戦チケット2026.7.26",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32121",
+      "published": "2026.7.26",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
       "title": "NEW遠藤 成選手の獲得についてチーム2026.7.26",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32430",
       "published": "2026.7.26",
@@ -23,15 +30,8 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW内山壮真 サヨナラホームラン記念グッズの受注販売についてグッズ2026.7.25",
+      "title": "内山壮真 サヨナラホームラン記念グッズの受注販売についてグッズ2026.7.25",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32429",
-      "published": "2026.7.25",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
-      "title": "【CREWDAY】来場者プレゼント概要を更新しましたCREW2026.7.25",
-      "link": "https://www.yakult-swallows.co.jp/event/swallows_crew_day/2026/vol2",
       "published": "2026.7.25",
       "summary": ""
     },
@@ -93,15 +93,15 @@
     },
     {
       "team": "オリックス",
-      "title": "チーム2026/07/26 (日)NEW!トレード成立のお知らせ",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600781993.html",
+      "title": "ファーム2026/07/26 (日)NEW!「ナミックス フレッシュオールスターゲーム2026」 出場選手の変更について",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600781774.html",
       "published": "2026/07/26 (日)NEW!",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "チーム2026/07/26 (日)NEW!トレード成立のお知らせ",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600781993.html",
+      "title": "ファーム2026/07/26 (日)NEW!「ナミックス フレッシュオールスターゲーム2026」 出場選手の変更について",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600781774.html",
       "published": "2026/07/26 (日)NEW!",
       "summary": ""
     }
@@ -214,9 +214,9 @@
     },
     {
       "team": "サンフレッチェ広島",
-      "title": "川村拓夢選手 FCレッドブル・ザルツブルク（オーストリア）より完全移籍加入のお知らせ2026.07.25チーム",
-      "link": "https://www.sanfrecce.co.jp/news/team/12623",
-      "published": "2026.07.25",
+      "title": "トレーニングマッチ（vs.サンフレッチェ広島F.Cジュニアユース U-14）試合結果のお知らせ2026.07.26レジーナ",
+      "link": "https://www.sanfrecce.co.jp/news/regina/12624",
+      "published": "2026.07.26",
       "summary": ""
     }
   ],
@@ -278,5 +278,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-07-26T05:56:09.324600"
+  "updated_at": "2026-07-26T10:47:14.989366"
 }
