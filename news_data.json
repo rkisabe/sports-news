@@ -16,13 +16,6 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW【ちょこっと応援チケット】7月26日（日）広島戦チケット2026.7.26",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32121",
-      "published": "2026.7.26",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
       "title": "NEW遠藤 成選手の獲得についてチーム2026.7.26",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32430",
       "published": "2026.7.26",
@@ -32,6 +25,13 @@
       "team": "ヤクルト",
       "title": "内山壮真 サヨナラホームラン記念グッズの受注販売についてグッズ2026.7.25",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32429",
+      "published": "2026.7.25",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "【CREWDAY】来場者プレゼント概要を更新しましたCREW2026.7.25",
+      "link": "https://www.yakult-swallows.co.jp/event/swallows_crew_day/2026/vol2",
       "published": "2026.7.25",
       "summary": ""
     },
@@ -278,5 +278,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-07-26T10:47:14.989366"
+  "updated_at": "2026-07-26T14:37:54.477911"
 }
