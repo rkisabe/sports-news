@@ -16,14 +16,7 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW【ちょこっと応援チケット】8月2日（日）阪神戦チケット2026.8.2",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32121",
-      "published": "2026.8.2",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
-      "title": "NEW8月2日（日）戸田球場にて募金活動を行いますその他2026.8.1",
+      "title": "8月2日（日）戸田球場にて募金活動を行いますその他2026.8.1",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32454",
       "published": "2026.8.1",
       "summary": ""
@@ -32,6 +25,13 @@
       "team": "ヤクルト",
       "title": "Official Goods Shop（スタジアム通り店／信濃町店） 8月休業日のお知らせグッズ2026.8.1",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32447",
+      "published": "2026.8.1",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "8月1日（土）～2日（日）募金活動を行いますその他2026.8.1",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32453",
       "published": "2026.8.1",
       "summary": ""
     },
@@ -93,16 +93,16 @@
     },
     {
       "team": "オリックス",
-      "title": "メディア2026/08/02 (日)NEW!テレビ大阪「オリックス、ちょっといいですか？」に石川選手と平沼選手が登場します！",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600785416.html",
-      "published": "2026/08/02 (日)NEW!",
+      "title": "グルメ2026/08/03 (月)東京ドーム開催限定！ここでしか味わえない特別グルメが登場！",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600785479.html",
+      "published": "2026/08/03 (月)",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "メディア2026/08/02 (日)NEW!テレビ大阪「オリックス、ちょっといいですか？」に石川選手と平沼選手が登場します！",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600785416.html",
-      "published": "2026/08/02 (日)NEW!",
+      "title": "グルメ2026/08/03 (月)東京ドーム開催限定！ここでしか味わえない特別グルメが登場！",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600785479.html",
+      "published": "2026/08/03 (月)",
       "summary": ""
     }
   ],
@@ -278,5 +278,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-08-02T10:44:35.847404"
+  "updated_at": "2026-08-02T14:36:39.068292"
 }
