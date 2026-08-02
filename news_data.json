@@ -16,6 +16,13 @@
     },
     {
       "team": "ヤクルト",
+      "title": "NEW【ちょこっと応援チケット】8月2日（日）阪神戦チケット2026.8.2",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32121",
+      "published": "2026.8.2",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
       "title": "NEW8月2日（日）戸田球場にて募金活動を行いますその他2026.8.1",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32454",
       "published": "2026.8.1",
@@ -29,13 +36,6 @@
       "summary": ""
     },
     {
-      "team": "ヤクルト",
-      "title": "8月1日（土）～2日（日）募金活動を行いますその他2026.8.1",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32453",
-      "published": "2026.8.1",
-      "summary": ""
-    },
-    {
       "team": "ソフトバンク",
       "title": "E・ZO FUKUOKA2026/08/01 (土)【第4弾】ユニ付き！ドームツアーセット",
       "link": "https://www.softbankhawks.co.jp/news/detail/202601061857.html",
@@ -51,15 +51,15 @@
     },
     {
       "team": "ロッテ",
-      "title": "イベント2026/08/02 (日)NEW!8/9(日)「キャンプ地 都城DAY」開催",
-      "link": "https://www.marines.co.jp/news/detail/202600896902.html",
+      "title": "メディア2026/08/02 (日)NEW!千葉日報朝刊に連載コラム「千葉魂～マリーンズ挑戦の日々～」第538回掲載",
+      "link": "https://www.marines.co.jp/news/detail/202600900164.html",
       "published": "2026/08/02 (日)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "イベント2026/08/02 (日)NEW!8/9(日)「キャンプ地 都城DAY」開催",
-      "link": "https://www.marines.co.jp/news/detail/202600896902.html",
+      "title": "メディア2026/08/02 (日)NEW!千葉日報朝刊に連載コラム「千葉魂～マリーンズ挑戦の日々～」第538回掲載",
+      "link": "https://www.marines.co.jp/news/detail/202600900164.html",
       "published": "2026/08/02 (日)NEW!",
       "summary": ""
     },
@@ -130,6 +130,13 @@
     },
     {
       "team": "FC東京",
+      "title": "2026/27シーズン FC東京 Official DJ TEAMについて",
+      "link": "https://www.fctokyo.co.jp/news/details/338765/",
+      "published": "Sun, 02 Aug 2026 17:30:00 +0000",
+      "summary": "<p>明治安田Ｊ１百年構想リーグに続き、2026/27明治安田Ｊ１リーグにおいても、DJ RAMさんとDJ YUMAさんに『FC東京 Official DJ TEAM』としてパフォーマンスを務めていただくことが決定いたしました。</p><p><img alt=\"\" class=\"alignnone size-full wp-image-338766\" height=\"1440\" src=\"http"
+    },
+    {
+      "team": "FC東京",
       "title": "8/2(日)放送 NHK BS『Ｊリーグタイム』に佐藤恵允選手出演のお知らせ",
       "link": "https://www.fctokyo.co.jp/news/details/338676/",
       "published": "Sun, 02 Aug 2026 11:00:00 +0000",
@@ -157,17 +164,10 @@
       "summary": "<p><img alt=\"\" class=\"alignnone size-full wp-image-338454\" height=\"576\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/07/kokuchiyo.jpg?x59605\" width=\"1024\" /></p><p><span class=\"TextRun"
     },
     {
-      "team": "FC東京",
-      "title": "永野修都選手 U-21日本代表招集のお知らせ",
-      "link": "https://www.fctokyo.co.jp/news/details/338558/",
-      "published": "Fri, 31 Jul 2026 15:00:00 +0000",
-      "summary": "<p>9月に愛知県で開催される『第20回アジア競技大会』に臨むU-21日本代表に、永野修都選手が選出されました。</p><p><img alt=\"\" class=\"alignnone size-full wp-image-338675\" height=\"1350\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/07/sel"
-    },
-    {
       "team": "ガンバ大阪",
-      "title": "26.8.2［ファンクラブ］2026/27シーズン「ハーフタイム抽選会」参加方法について",
-      "link": "https://www.gamba-osaka.net/news/index/no/20615/c/0/year/2026/month/08/",
-      "published": "26.8.2［ファンクラブ］",
+      "title": "26.8.2［インフォメーション］8/7（金）明治安田J1 第1節 浦和戦 ハーチモがパナスタに初登場！",
+      "link": "https://www.gamba-osaka.net/news/index/no/20621/c/0/year/2026/month/08/",
+      "published": "26.8.2［インフォメーション］",
       "summary": ""
     },
     {
@@ -278,5 +278,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-08-02T05:51:47.432895"
+  "updated_at": "2026-08-02T10:44:35.847404"
 }
