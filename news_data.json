@@ -109,15 +109,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.08.07試合・練習2026/27明治安田J1リーグ 第1節 vs ガンバ大阪 試合情報",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/244760",
+      "title": "2026.08.07試合・練習2026/27明治安田J1リーグ 第1節 vs ガンバ大阪 試合結果",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/244822",
       "published": "2026.08.07",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.08.07試合・練習2026/27明治安田J1リーグ 第1節 vs ガンバ大阪 試合情報",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/244760",
+      "title": "2026.08.07試合・練習2026/27明治安田J1リーグ 第1節 vs ガンバ大阪 試合結果",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/244822",
       "published": "2026.08.07",
       "summary": ""
     },
@@ -127,6 +127,13 @@
       "link": "https://www.so-net.ne.jp/",
       "published": "2020.03.26(木)",
       "summary": ""
+    },
+    {
+      "team": "FC東京",
+      "title": "【4日目活動報告】ジークカップU-12サッカーフェスティバルin木島平",
+      "link": "https://www.fctokyo.co.jp/school/report/339460/",
+      "published": "Fri, 07 Aug 2026 12:36:54 +0000",
+      "summary": "<p>ジークカップもいよいよ最終日です。</p><p>最終日ともなれば朝から積極的にコミュニケーションを取って楽しく朝食タイムです</p><p>そのあとは昨日荷造りした荷物を車に載せ、最後にお世話になった宿の方へ挨拶しました。</p><p><img alt=\"\" class=\"alignnone size-large wp-image-339462\" height=\"768\" src=\"https"
     },
     {
       "team": "FC東京",
@@ -157,17 +164,10 @@
       "summary": "<p>8月8日(土)15:00より安斎颯馬選手、渡邊麻舟選手のユニフォームの販売が開始となります。</p><p><img alt=\"\" class=\"alignnone size-full wp-image-339433\" height=\"1080\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/08/0647_16-9_"
     },
     {
-      "team": "FC東京",
-      "title": "【8/7追記】8/8(土) 町田戦 飲食情報",
-      "link": "https://www.fctokyo.co.jp/news/details/337948/",
-      "published": "Fri, 07 Aug 2026 13:06:05 +0000",
-      "summary": "<p><img alt=\"\" class=\"alignnone size-full wp-image-339399\" height=\"1080\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/07/1-6.jpg?x59605\" width=\"1920\" /></p><p>【8/7追記】スタジアムグルメマップを更新しました"
-    },
-    {
       "team": "ガンバ大阪",
-      "title": "26.8.7［インフォメーション］9/20（日）明治安田J1 第8節 神戸戦 ガンバ大阪創立35周年記念マッチ開催！チケットは35周年記念シャツ付きとして販売！",
-      "link": "https://www.gamba-osaka.net/news/index/no/20662/c/0/year/2026/month/08/",
-      "published": "26.8.7［インフォメーション］",
+      "title": "26.8.7［パートナー］GAMBA OSAKA ~2026/27 明治安田Ｊ１リーグ VICTORY AUCTION~［浦和レッズ］開催について",
+      "link": "https://www.gamba-osaka.net/news/index/no/20676/c/0/year/2026/month/08/",
+      "published": "26.8.7［パートナー］",
       "summary": ""
     },
     {
@@ -278,5 +278,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-08-07T10:05:02.477945"
+  "updated_at": "2026-08-07T14:13:01.881404"
 }
