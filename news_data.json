@@ -16,8 +16,8 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW【ちょこっと応援チケット】8月12日（水）広島戦チケット2026.8.12",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32121",
+      "title": "NEW8/14（金）横浜DeNA戦にて「プロ野球観るならFODナイター」を開催！イベント2026.8.12",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32496",
       "published": "2026.8.12",
       "summary": ""
     },
@@ -109,15 +109,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.08.12REX CLUB8/19(水) 公開トレーニング後のファンサービス実施について",
-      "link": "https://www.urawa-reds.co.jp/clubinfo/244817",
+      "title": "2026.08.12試合・練習2026/27明治安田J1リーグ 第2節 vs サンフレッチェ広島 試合情報",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/244934",
       "published": "2026.08.12",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.08.12REX CLUB8/19(水) 公開トレーニング後のファンサービス実施について",
-      "link": "https://www.urawa-reds.co.jp/clubinfo/244817",
+      "title": "2026.08.12試合・練習2026/27明治安田J1リーグ 第2節 vs サンフレッチェ広島 試合情報",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/244934",
       "published": "2026.08.12",
       "summary": ""
     },
@@ -127,6 +127,13 @@
       "link": "https://www.so-net.ne.jp/",
       "published": "2020.03.26(木)",
       "summary": ""
+    },
+    {
+      "team": "FC東京",
+      "title": "【1日目活動報告】FC東京サマーキャンプ 千葉会場",
+      "link": "https://www.fctokyo.co.jp/school/report/339768/",
+      "published": "Wed, 12 Aug 2026 21:45:00 +0000",
+      "summary": "<p>本日8月12日、FC東京サマーキャンプ千葉会場がスタートしました！！<br />朝、新宿に集合した79名の子どもたちは、これから始まる3日間への期待を胸に、元気いっぱいの様子で集合しました！<br />全員そろって千葉へ向けて出発し、無事に会場へ到着。<br />渋滞もなく、子どもたちは元気いっぱいに到着です！！<br />【移動の様子】</p><p><img alt=\"\" class=\"a"
     },
     {
       "team": "FC東京",
@@ -155,13 +162,6 @@
       "link": "https://www.fctokyo.co.jp/school/report/339704/",
       "published": "Wed, 12 Aug 2026 12:00:00 +0000",
       "summary": "<p>7月31日(金)に、「FC東京×ボルシア ドルトムント スクール交流戦」を開催しました。</p><p>今回の交流戦は、8月1日(土)に開催されたFC東京vsボルシア ドルトムントによる国際親善試合を記念して実施したもので、両クラブのスクール生がサッカーを通じて交流を深める貴重な機会となりました。</p><p>当日は、小学1年生から6年生まで、FC東京スクール生59名、ボルシア ドルトムントス"
-    },
-    {
-      "team": "FC東京",
-      "title": "9/6(日)京都戦 飲食情報",
-      "link": "https://www.fctokyo.co.jp/news/details/339675/",
-      "published": "Wed, 12 Aug 2026 12:00:00 +0000",
-      "summary": "<p><img alt=\"\" class=\"alignnone size-full wp-image-339676\" height=\"1080\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/08/001-3.jpg?x64424\" width=\"1920\" /></p><p>9月6日(日) 2026/27明治安田Ｊ１リー"
     },
     {
       "team": "ガンバ大阪",
@@ -278,5 +278,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-08-12T10:13:19.123428"
+  "updated_at": "2026-08-12T14:20:15.180095"
 }
