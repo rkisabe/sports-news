@@ -9,9 +9,16 @@
     },
     {
       "team": "横浜DeNA",
-      "title": "THE LIVE2026/8/14「THE LIVE Supported by 大和地所」座席予約【対象日：9/1(火)～10/3(土)】",
-      "link": "https://www.baystars.co.jp/news/2026/08/0814_01.php",
+      "title": "EVENT2026/8/14『横濱漢祭 2026』イベント詳細が決定！",
+      "link": "https://www.baystars.co.jp/news/2026/08/0814_02.php",
       "published": "2026/8/14",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "NEW【ちょこっと応援チケット】8月14日（金）横浜DeNA戦チケット2026.8.14",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32121",
+      "published": "2026.8.14",
       "summary": ""
     },
     {
@@ -23,44 +30,37 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW8月13日（木）広島戦（神宮球場）チケット払い戻しについてチケット2026.8.13",
+      "title": "8月13日（木）広島戦（神宮球場）チケット払い戻しについてチケット2026.8.13",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32490",
       "published": "2026.8.13",
       "summary": ""
     },
     {
-      "team": "ヤクルト",
-      "title": "NEW8月13日（木）広島戦（神宮球場）試合中止のお知らせチーム2026.8.13",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32488",
-      "published": "2026.8.13",
-      "summary": ""
-    },
-    {
       "team": "ソフトバンク",
-      "title": "イベントスポンサー2026/08/14 (金)NEW!Rocket Now 2026 パーソル CS パ チケットが当たるキャンペーン",
-      "link": "https://www.softbankhawks.co.jp/news/detail/202601072163.html",
+      "title": "プレスリリース球団2026/08/14 (金)NEW!ユニフォームデザイン変更のお知らせ",
+      "link": "https://www.softbankhawks.co.jp/news/detail/202601071779.html",
       "published": "2026/08/14 (金)NEW!",
       "summary": ""
     },
     {
       "team": "ソフトバンク",
-      "title": "イベントスポンサー2026/08/14 (金)NEW!Rocket Now 2026 パーソル CS パ チケットが当たるキャンペーン",
-      "link": "https://www.softbankhawks.co.jp/news/detail/202601072163.html",
+      "title": "プレスリリース球団2026/08/14 (金)NEW!ユニフォームデザイン変更のお知らせ",
+      "link": "https://www.softbankhawks.co.jp/news/detail/202601071779.html",
       "published": "2026/08/14 (金)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "グッズ2026/08/13 (木)8/14(金)～MARINES ONLINEくじーBLACK SUMMER WEEKー販売開始",
-      "link": "https://www.marines.co.jp/news/detail/202600902282.html",
-      "published": "2026/08/13 (木)",
+      "title": "チーム2026/08/14 (金)NEW!8/14(金)小島投手が通算1000投球回達成",
+      "link": "https://www.marines.co.jp/news/detail/202600897069.html",
+      "published": "2026/08/14 (金)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "グッズ2026/08/13 (木)8/14(金)～MARINES ONLINEくじーBLACK SUMMER WEEKー販売開始",
-      "link": "https://www.marines.co.jp/news/detail/202600902282.html",
-      "published": "2026/08/13 (木)",
+      "title": "チーム2026/08/14 (金)NEW!8/14(金)小島投手が通算1000投球回達成",
+      "link": "https://www.marines.co.jp/news/detail/202600897069.html",
+      "published": "2026/08/14 (金)NEW!",
       "summary": ""
     },
     {
@@ -93,15 +93,15 @@
     },
     {
       "team": "オリックス",
-      "title": "グッズ2026/08/14 (金)NEW!2026シーズン「定番受注商品」ご注文受付終了のお知らせ",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600788276.html",
+      "title": "BPB DX2026/08/14 (金)NEW!【BPB DX】動画『とある日の練習風景～五・七・五で締めよう～』公開！",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600790241.html",
       "published": "2026/08/14 (金)NEW!",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "グッズ2026/08/14 (金)NEW!2026シーズン「定番受注商品」ご注文受付終了のお知らせ",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600788276.html",
+      "title": "BPB DX2026/08/14 (金)NEW!【BPB DX】動画『とある日の練習風景～五・七・五で締めよう～』公開！",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600790241.html",
       "published": "2026/08/14 (金)NEW!",
       "summary": ""
     }
@@ -109,15 +109,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.08.14グッズ＆ショップ8/15(土)広島戦 オフィシャル・マッチデー・プログラム(721号)販売!",
-      "link": "https://www.urawa-reds.co.jp/clubinfo/245002",
+      "title": "2026.08.14クラブ8/15(土)広島戦 大門上池調節池広場駐車場 駐車場所変更のお知らせ",
+      "link": "https://www.urawa-reds.co.jp/clubinfo/245005",
       "published": "2026.08.14",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.08.14グッズ＆ショップ8/15(土)広島戦 オフィシャル・マッチデー・プログラム(721号)販売!",
-      "link": "https://www.urawa-reds.co.jp/clubinfo/245002",
+      "title": "2026.08.14クラブ8/15(土)広島戦 大門上池調節池広場駐車場 駐車場所変更のお知らせ",
+      "link": "https://www.urawa-reds.co.jp/clubinfo/245005",
       "published": "2026.08.14",
       "summary": ""
     },
@@ -127,6 +127,27 @@
       "link": "https://www.so-net.ne.jp/",
       "published": "2020.03.26(木)",
       "summary": ""
+    },
+    {
+      "team": "FC東京",
+      "title": "【特別編：花王 Biore 冷タオル】FC東京サマーキャンプ千葉会場",
+      "link": "https://www.fctokyo.co.jp/school/report/339926/",
+      "published": "Fri, 14 Aug 2026 18:45:00 +0000",
+      "summary": "<p>今回のサマーキャンプでは、FC東京オフィシャルパートナー「花王 ビオレ」様より暑熱対策として「花王 Biore 冷タオル」を子どもたちに協賛をいただきました！！</p><p>トレーニング終了後のクールダウンとして利用させていただき、子どもたちからも「冷たくて気持ちいい！！」「さっぱりする～！！」「たくさん拭ける～！」などの声があり大変好評です！！</p><p>～子どもたちの様子～</p><p"
+    },
+    {
+      "team": "FC東京",
+      "title": "【グループステージ第1日結果追記】『第41回 日本クラブユースサッカー選手権(U-15) 』について",
+      "link": "https://www.fctokyo.co.jp/news/details/337511/",
+      "published": "Fri, 14 Aug 2026 18:16:21 +0000",
+      "summary": "<p><img alt=\"\" class=\"alignnone size-full wp-image-337514\" height=\"1707\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/07/u15musashsyugo-scaled.jpg?x64424\" width=\"2560\" /></p><p>ＦＣ東京U-1"
+    },
+    {
+      "team": "FC東京",
+      "title": "9/6(日)京都戦『FIREWORKS NIGHT』の開催が決定！",
+      "link": "https://www.fctokyo.co.jp/news/details/339847/",
+      "published": "Fri, 14 Aug 2026 17:00:00 +0000",
+      "summary": "<p><img alt=\"\" class=\"alignnone size-full wp-image-339849\" height=\"1080\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/08/0663_FIREWORKSNIGHT.jpg?x64424\" width=\"1920\" /></p><p>9月6日(日) 2"
     },
     {
       "team": "FC東京",
@@ -143,39 +164,46 @@
       "summary": "<p><span style=\"color: #ff0000;\"><strong>本試合はMUFGスタジアム(国立競技場)での開催となるため一部観戦マナーが異なります。</strong></span></p><h2><strong>J</strong><strong>リーグ統一禁止ルールについて</strong></h2><p>スタジアム来場者の安全で快適な試合観戦を提供するため､FC東京では管理"
     },
     {
-      "team": "FC東京",
-      "title": "【3日目朝活動報告】FC東京サマーキャンプ千葉会場",
-      "link": "https://www.fctokyo.co.jp/school/report/339910/",
-      "published": "Fri, 14 Aug 2026 09:15:00 +0000",
-      "summary": "<p>※現在の状況報告</p><p>千葉県鋸南町では、大雨警報が解除されました。</p><p>今朝は晴れ間も見られ、弱い雨が降ったり止んだりする天候となっています。</p><p>宿舎周辺の状況を確認したところ、現時点で特に問題はなく、活動場所となるグラウンドについても、予定通りトレーニングを実施できる状態であることを確認しております。</p><p>現在、子どもたちは最終日のトレーニングに向けて準備"
-    },
-    {
-      "team": "FC東京",
-      "title": "【2日目午後活動報告】FC東京サマーキャンプ千葉会場",
-      "link": "https://www.fctokyo.co.jp/school/report/339867/",
-      "published": "Thu, 13 Aug 2026 22:00:00 +0000",
-      "summary": "<p>※現在の状況報告</p><p>千葉県では大雨特別警報が発表されておりますが、子どもたちは現在、宿舎内で安全に過ごしております。</p><p>宿舎周辺についても、現時点では土砂崩れや浸水などの被害は確認されておらず、子どもたちは2階以上の部屋で過ごしております。</p><p>今後も施設側と随時状況を確認しながら、子どもたちの安全を最優先に対応してまいります。</p><p>引き続き安全に十分配慮"
-    },
-    {
-      "team": "FC東京",
-      "title": "10/10(土)浦和戦 チケット販売について",
-      "link": "https://www.fctokyo.co.jp/news/details/339733/",
-      "published": "Thu, 13 Aug 2026 18:00:00 +0000",
-      "summary": "<p>10月10日(土) 2026/27明治安田Ｊ１リーグ第9節 vs浦和レッズ (15:00キックオフ/味の素スタジアム)のチケット販売に関してお知らせいたします。</p><p><img alt=\"\" class=\"alignnone size-full wp-image-339738\" height=\"1440\" src=\"https://assets.fctokyo.co.jp/wp/wp-"
-    },
-    {
       "team": "ガンバ大阪",
-      "title": "26.8.14［ファンクラブ］2026/27 U-21 Jリーグホームゲーム招待券対象席種について",
-      "link": "https://www.gamba-osaka.net/news/index/no/20698/c/0/year/2026/month/08/",
-      "published": "26.8.14［ファンクラブ］",
+      "title": "26.8.14［チーム］［プレビュー］アジアの切符も通過点。ガンバの総力で水戸相手に勝ちに行く",
+      "link": "https://www.gamba-osaka.net/news/index/no/20702/c/0/year/2026/month/08/",
+      "published": "26.8.14［チーム］",
       "summary": ""
     },
     {
       "team": "ヴィッセル神戸",
-      "title": "NEWS最新ニュース2026/08/14ファン・サポーターが選ぶ「トップギア賞」神戸トヨペットキャンペーンのお知らせクラブ2026/08/14ヴィッセル神戸 オフィシャルシーズンブック2026/27発",
-      "link": "https://www.vissel-kobe.co.jp/news/article/26771.html",
+      "title": "NEWS最新ニュース2026/08/14ヴィッコレ2026/27新シーズン開始のお知らせグッズ2026/08/14スタジアム運営スタッフの「クールリング（SUO RING）」着用についてクラブ2026",
+      "link": "https://www.vissel-kobe.co.jp/news/article/26803.html",
       "published": "2026/08/14",
       "summary": ""
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "練習公開のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/0814post-2813.php",
+      "published": "2026-08-14",
+      "summary": "練習公開のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "8/14（金）今週のグッズ担当イチオシアイテム！",
+      "link": "https://nagoya-grampus.jp/news/goods/2026/0814814-2.php",
+      "published": "2026-08-14",
+      "summary": "8/14（金）今週のグッズ担当イチオシアイテム！。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "8/22（土）G大阪戦、8/29（土）岡山戦｜「Premium Seat（席のみ）」販売のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/ticket/2026/0814822g829premium-seat.php",
+      "published": "2026-08-14",
+      "summary": "8/22（土）G大阪戦、8/29（土）岡山戦｜「Premium Seat（席のみ）」販売のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "第41回日本クラブユースサッカー選手権（U-15）大会 グループステージ Bグループ第1日「ヴィッセル神戸U-15」試合結果",
+      "link": "https://nagoya-grampus.jp/news/youth/2026/0814-41u-15-b1u-15.php",
+      "published": "2026-08-14",
+      "summary": "第41回日本クラブユースサッカー選手権（U-15）大会 グループステージ Bグループ第1日「ヴィッセル神戸U-15」試合結果。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
@@ -183,34 +211,6 @@
       "link": "https://nagoya-grampus.jp/news/hometown/2026/0814202627-3.php",
       "published": "2026-08-14",
       "summary": "鯱の大祭典2026/27-夏の陣‐企画！ホームタウン3市の職員による「鯱の大祭典応援ユニフォーム」着用！。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "AWAYゲーム限定グッズ！「旅するグランパスくん」グッズのお知らせ",
-      "link": "https://nagoya-grampus.jp/news/goods/2026/0813away-9.php",
-      "published": "2026-08-14",
-      "summary": "AWAYゲーム限定グッズ！「旅するグランパスくん」グッズのお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "8/22（土）G大阪戦｜アクティビティ参加者募集開始のお知らせ",
-      "link": "https://nagoya-grampus.jp/news/fanclub/2026/0813822g-1.php",
-      "published": "2026-08-14",
-      "summary": "8/22（土）G大阪戦｜アクティビティ参加者募集開始のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "8/22（土）G大阪戦、8/29（土）岡山戦 ｜「アウェイピッチサイド見学会」販売のお知らせ",
-      "link": "https://nagoya-grampus.jp/news/ticket/2026/0813822g829.php",
-      "published": "2026-08-14",
-      "summary": "8/22（土）G大阪戦、8/29（土）岡山戦 ｜「アウェイピッチサイド見学会」販売のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "玉田 圭司コーチ U-21 名古屋グランパス 監督就任のお知らせ",
-      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/0813-u-21-21.php",
-      "published": "2026-08-14",
-      "summary": "玉田 圭司コーチ U-21 名古屋グランパス 監督就任のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "サンフレッチェ広島",
@@ -278,5 +278,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-08-14T04:44:14.310417"
+  "updated_at": "2026-08-14T10:10:30.102281"
 }
