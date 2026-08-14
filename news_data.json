@@ -16,14 +16,7 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW【ちょこっと応援チケット】8月14日（金）横浜DeNA戦チケット2026.8.14",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32121",
-      "published": "2026.8.14",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
-      "title": "NEW8/14（金）横浜DeNA戦にて「プロ野球観るならFODナイター」を開催！イベント2026.8.13",
+      "title": "8/14（金）横浜DeNA戦にて「プロ野球観るならFODナイター」を開催！イベント2026.8.13",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32496",
       "published": "2026.8.13",
       "summary": ""
@@ -32,6 +25,13 @@
       "team": "ヤクルト",
       "title": "8月13日（木）広島戦（神宮球場）チケット払い戻しについてチケット2026.8.13",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32490",
+      "published": "2026.8.13",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "8月13日（木）広島戦（神宮球場）試合中止のお知らせチーム2026.8.13",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32488",
       "published": "2026.8.13",
       "summary": ""
     },
@@ -93,15 +93,15 @@
     },
     {
       "team": "オリックス",
-      "title": "BPB DX2026/08/14 (金)NEW!【BPB DX】動画『とある日の練習風景～五・七・五で締めよう～』公開！",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600790241.html",
+      "title": "イベントマスコット2026/08/14 (金)NEW!【BsStage】8月15日（土）マスコットショー当日券販売のお知らせ",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600790507.html",
       "published": "2026/08/14 (金)NEW!",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "BPB DX2026/08/14 (金)NEW!【BPB DX】動画『とある日の練習風景～五・七・五で締めよう～』公開！",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600790241.html",
+      "title": "イベントマスコット2026/08/14 (金)NEW!【BsStage】8月15日（土）マスコットショー当日券販売のお知らせ",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600790507.html",
       "published": "2026/08/14 (金)NEW!",
       "summary": ""
     }
@@ -130,6 +130,13 @@
     },
     {
       "team": "FC東京",
+      "title": "【3日目活動報告】FC東京サマーキャンプ千葉会場",
+      "link": "https://www.fctokyo.co.jp/school/report/339924/",
+      "published": "Fri, 14 Aug 2026 19:55:00 +0000",
+      "summary": "<p class=\"isSelectedEnd\">サマーキャンプも、いよいよ最終日となりました！！</p><p class=\"isSelectedEnd\">昨晩は２日間の活動の疲れもあり、みんな早めに就寝。しっかりと休んだことで、今朝は元気いっぱいに起床しました！</p><p class=\"isSelectedEnd\">朝の支度を終えた後は、帰宅に向けて荷物を整理し、みんなで最後の朝食をいただきま"
+    },
+    {
+      "team": "FC東京",
       "title": "【特別編：花王 Biore 冷タオル】FC東京サマーキャンプ千葉会場",
       "link": "https://www.fctokyo.co.jp/school/report/339926/",
       "published": "Fri, 14 Aug 2026 18:45:00 +0000",
@@ -155,13 +162,6 @@
       "link": "https://www.fctokyo.co.jp/news/details/339813/",
       "published": "Fri, 14 Aug 2026 13:00:00 +0000",
       "summary": "<p>8月15日(土)2026/27シーズン明治安田Ｊ１リーグ第2節 vsヴィッセル神戸(19:00キックオフ/ノエビアスタジアム神戸)にて、FC東京グッズを販売いたします。<br />観戦の記念にぜひお買い求めください。</p><h3>□新商品</h3><p><strong>試合日限定マフラーキーホルダー 2026/27 #9/M.RYAN：1,400円(税込)<br /><img alt=\"\""
-    },
-    {
-      "team": "FC東京",
-      "title": "8/21(金)千葉戦における観戦マナーについて",
-      "link": "https://www.fctokyo.co.jp/news/details/337648/",
-      "published": "Fri, 14 Aug 2026 10:18:54 +0000",
-      "summary": "<p><span style=\"color: #ff0000;\"><strong>本試合はMUFGスタジアム(国立競技場)での開催となるため一部観戦マナーが異なります。</strong></span></p><h2><strong>J</strong><strong>リーグ統一禁止ルールについて</strong></h2><p>スタジアム来場者の安全で快適な試合観戦を提供するため､FC東京では管理"
     },
     {
       "team": "ガンバ大阪",
@@ -278,5 +278,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-08-14T10:10:30.102281"
+  "updated_at": "2026-08-14T14:15:43.037134"
 }
