@@ -16,13 +16,6 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW【ちょこっと応援チケット】8月15日（土）横浜DeNA戦チケット2026.8.15",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32121",
-      "published": "2026.8.15",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
       "title": "8/14（金）横浜DeNA戦にて「プロ野球観るならFODナイター」を開催！イベント2026.8.13",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32496",
       "published": "2026.8.13",
@@ -32,6 +25,13 @@
       "team": "ヤクルト",
       "title": "8月13日（木）広島戦（神宮球場）チケット払い戻しについてチケット2026.8.13",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32490",
+      "published": "2026.8.13",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "8月13日（木）広島戦（神宮球場）試合中止のお知らせチーム2026.8.13",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32488",
       "published": "2026.8.13",
       "summary": ""
     },
@@ -109,15 +109,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.08.15試合・練習2026/27明治安田J1リーグ 第2節 vs サンフレッチェ広島 試合情報",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/244934",
+      "title": "2026.08.15試合・練習2026/27明治安田J1リーグ 第2節 vs サンフレッチェ広島 試合結果",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/245016",
       "published": "2026.08.15",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.08.15試合・練習2026/27明治安田J1リーグ 第2節 vs サンフレッチェ広島 試合情報",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/244934",
+      "title": "2026.08.15試合・練習2026/27明治安田J1リーグ 第2節 vs サンフレッチェ広島 試合結果",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/245016",
       "published": "2026.08.15",
       "summary": ""
     },
@@ -214,8 +214,8 @@
     },
     {
       "team": "サンフレッチェ広島",
-      "title": "ジュニアユース『日本クラブユースサッカー選手権（U-15）大会』結果のお知らせ2026.08.15育成",
-      "link": "https://www.sanfrecce.co.jp/news/academy/12700",
+      "title": "ジュニアユース『日本クラブユースサッカー選手権（U-15）大会 第2節』結果のお知らせ2026.08.15育成",
+      "link": "https://www.sanfrecce.co.jp/news/academy/12702",
       "published": "2026.08.15",
       "summary": ""
     }
@@ -278,5 +278,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-08-15T09:31:23.201154"
+  "updated_at": "2026-08-15T13:31:07.595913"
 }
