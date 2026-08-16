@@ -16,6 +16,13 @@
     },
     {
       "team": "ヤクルト",
+      "title": "NEW【更新】2026シーズン開催イベント一覧イベント2026.8.16",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/31934",
+      "published": "2026.8.16",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
       "title": "NEW岩田幸宏 サヨナラヒット記念グッズの受注販売についてグッズ2026.8.16",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32507",
       "published": "2026.8.16",
@@ -25,13 +32,6 @@
       "team": "ヤクルト",
       "title": "8/14（金）横浜DeNA戦にて「プロ野球観るならFODナイター」を開催！イベント2026.8.13",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32496",
-      "published": "2026.8.13",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
-      "title": "8月13日（木）広島戦（神宮球場）チケット払い戻しについてチケット2026.8.13",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32490",
       "published": "2026.8.13",
       "summary": ""
     },
@@ -109,15 +109,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.08.16試合・練習トレーニングマッチ vs ヴァンフォーレ甲府 試合結果",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/245027",
+      "title": "2026.08.16チーム瀬古 樹選手 完全移籍加入のお知らせ",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/245034",
       "published": "2026.08.16",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.08.16試合・練習トレーニングマッチ vs ヴァンフォーレ甲府 試合結果",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/245027",
+      "title": "2026.08.16チーム瀬古 樹選手 完全移籍加入のお知らせ",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/245034",
       "published": "2026.08.16",
       "summary": ""
     },
@@ -278,5 +278,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-08-16T09:32:49.504693"
+  "updated_at": "2026-08-16T13:32:10.803573"
 }
