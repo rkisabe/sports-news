@@ -16,6 +16,13 @@
     },
     {
       "team": "ヤクルト",
+      "title": "NEW岩田幸宏 サヨナラヒット記念グッズの受注販売についてグッズ2026.8.16",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32507",
+      "published": "2026.8.16",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
       "title": "8/14（金）横浜DeNA戦にて「プロ野球観るならFODナイター」を開催！イベント2026.8.13",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32496",
       "published": "2026.8.13",
@@ -25,13 +32,6 @@
       "team": "ヤクルト",
       "title": "8月13日（木）広島戦（神宮球場）チケット払い戻しについてチケット2026.8.13",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32490",
-      "published": "2026.8.13",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
-      "title": "8月13日（木）広島戦（神宮球場）試合中止のお知らせチーム2026.8.13",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32488",
       "published": "2026.8.13",
       "summary": ""
     },
@@ -109,16 +109,16 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.08.15試合・練習安居「折れずにやっていきたい」",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/245024",
-      "published": "2026.08.15",
+      "title": "2026.08.16試合・練習トレーニングマッチ vs ヴァンフォーレ甲府 試合結果",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/245027",
+      "published": "2026.08.16",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.08.15試合・練習安居「折れずにやっていきたい」",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/245024",
-      "published": "2026.08.15",
+      "title": "2026.08.16試合・練習トレーニングマッチ vs ヴァンフォーレ甲府 試合結果",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/245027",
+      "published": "2026.08.16",
       "summary": ""
     },
     {
@@ -130,17 +130,17 @@
     },
     {
       "team": "FC東京",
+      "title": "【グループステージ第3日結果追記】『第41回 日本クラブユースサッカー選手権(U-15) 』について",
+      "link": "https://www.fctokyo.co.jp/news/details/337511/",
+      "published": "Sun, 16 Aug 2026 17:12:33 +0000",
+      "summary": "<p><img alt=\"\" class=\"alignnone size-full wp-image-337514\" height=\"1707\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/07/u15musashsyugo-scaled.jpg?x64424\" width=\"2560\" /></p><p>ＦＣ東京U-1"
+    },
+    {
+      "team": "FC東京",
       "title": "9/19(土)名古屋戦TVアニメ「名探偵コナン」×Jリーグコラボデー『コナンDAY』開催決定！",
       "link": "https://www.fctokyo.co.jp/news/details/339863/",
       "published": "Sun, 16 Aug 2026 12:00:00 +0000",
       "summary": "<p><img alt=\"\" class=\"alignnone wp-image-339956\" height=\"629\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/08/260813_dc_Jリーグ_GR_公式サイト用追加バナー_W1920×H1080.jpg-300x169.jpg?x64424\" width=\"1"
-    },
-    {
-      "team": "FC東京",
-      "title": "【グループステージ第2日結果追記】『第41回 日本クラブユースサッカー選手権(U-15) 』について",
-      "link": "https://www.fctokyo.co.jp/news/details/337511/",
-      "published": "Sat, 15 Aug 2026 17:36:50 +0000",
-      "summary": "<p><img alt=\"\" class=\"alignnone size-full wp-image-337514\" height=\"1707\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/07/u15musashsyugo-scaled.jpg?x64424\" width=\"2560\" /></p><p>ＦＣ東京U-1"
     },
     {
       "team": "FC東京",
@@ -214,9 +214,9 @@
     },
     {
       "team": "サンフレッチェ広島",
-      "title": "ジュニアユース『日本クラブユースサッカー選手権（U-15）大会 第2節』結果のお知らせ2026.08.15育成",
-      "link": "https://www.sanfrecce.co.jp/news/academy/12702",
-      "published": "2026.08.15",
+      "title": "ジュニアユース『日本クラブユースサッカー選手権（U-15）大会 第3節』結果のお知らせ2026.08.16育成",
+      "link": "https://www.sanfrecce.co.jp/news/academy/12704",
+      "published": "2026.08.16",
       "summary": ""
     }
   ],
@@ -278,5 +278,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-08-16T03:42:50.217752"
+  "updated_at": "2026-08-16T09:32:49.504693"
 }
