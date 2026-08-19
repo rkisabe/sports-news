@@ -51,16 +51,16 @@
     },
     {
       "team": "ロッテ",
-      "title": "グルメ2026/08/19 (水)NEW!小島のローストビーフ丼風味スナック販売開始のお知らせ",
+      "title": "グルメ2026/08/19 (水)小島のローストビーフ丼風味スナック販売開始のお知らせ",
       "link": "https://www.marines.co.jp/news/detail/202600902440.html",
-      "published": "2026/08/19 (水)NEW!",
+      "published": "2026/08/19 (水)",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "グルメ2026/08/19 (水)NEW!小島のローストビーフ丼風味スナック販売開始のお知らせ",
+      "title": "グルメ2026/08/19 (水)小島のローストビーフ丼風味スナック販売開始のお知らせ",
       "link": "https://www.marines.co.jp/news/detail/202600902440.html",
-      "published": "2026/08/19 (水)NEW!",
+      "published": "2026/08/19 (水)",
       "summary": ""
     },
     {
@@ -93,16 +93,16 @@
     },
     {
       "team": "オリックス",
-      "title": "イベント2026/08/19 (水)NEW!9月8日（火）二人組歌謡グループ 「風輪」 国歌斉唱のお知らせ",
+      "title": "イベント2026/08/19 (水)9月8日（火）二人組歌謡グループ 「風輪」 国歌斉唱のお知らせ",
       "link": "https://www.buffaloes.co.jp/news/detail/202600791121.html",
-      "published": "2026/08/19 (水)NEW!",
+      "published": "2026/08/19 (水)",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "イベント2026/08/19 (水)NEW!9月8日（火）二人組歌謡グループ 「風輪」 国歌斉唱のお知らせ",
+      "title": "イベント2026/08/19 (水)9月8日（火）二人組歌謡グループ 「風輪」 国歌斉唱のお知らせ",
       "link": "https://www.buffaloes.co.jp/news/detail/202600791121.html",
-      "published": "2026/08/19 (水)NEW!",
+      "published": "2026/08/19 (水)",
       "summary": ""
     }
   ],
@@ -127,6 +127,13 @@
       "link": "https://www.so-net.ne.jp/",
       "published": "2020.03.26(木)",
       "summary": ""
+    },
+    {
+      "team": "FC東京",
+      "title": "【8/20追記】8/21(金)千葉戦 飲食情報",
+      "link": "https://www.fctokyo.co.jp/news/details/337976/",
+      "published": "Thu, 20 Aug 2026 02:26:09 +0000",
+      "summary": "<p><span style=\"color: #0000ff;\">【8/20追記】</span><br /><span style=\"color: #0000ff;\">・おすすめ店舗を掲載しました。</span><br /><span style=\"color: #0000ff;\">・MAPを掲載しました。</span><br /><span style=\"color: #0000ff;\">・当日"
     },
     {
       "team": "FC東京",
@@ -155,13 +162,6 @@
       "link": "https://www.fctokyo.co.jp/news/details/340091/",
       "published": "Wed, 19 Aug 2026 18:00:00 +0000",
       "summary": "<p>10月21日(水) 2026/27 明治安田Ｊ１リーグ第11節 vs 柏レイソル(19:00キックオフ/味の素スタジアム)に関する会員向けイベント「SOCIOフラッグベアラー」「フェアプレイフラッグベアラー」「ピッチサイド練習見学」「バックセンター指定席招待」および「ハンドウィズハンド」を募集いたします！会員イベント共通の注意事項、対象など下記項目をご確認の上、ぜひご応募ください。</p><"
-    },
-    {
-      "team": "FC東京",
-      "title": "10/21(水)柏戦 チケット販売について",
-      "link": "https://www.fctokyo.co.jp/news/details/340093/",
-      "published": "Wed, 19 Aug 2026 18:00:00 +0000",
-      "summary": "<p>10月21日(水) 2026/27明治安田Ｊ１リーグ第11節 vs柏レイソル (19:00キックオフ/味の素スタジアム)のチケット販売に関してお知らせいたします。</p><p><img alt=\"\" class=\"alignnone size-full wp-image-340098\" height=\"1440\" src=\"https://assets.fctokyo.co.jp/wp/wp"
     },
     {
       "team": "ガンバ大阪",
@@ -278,5 +278,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-08-19T13:45:14.227704"
+  "updated_at": "2026-08-19T21:28:45.850201"
 }
