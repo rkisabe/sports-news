@@ -109,15 +109,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.08.23試合・練習2026/27明治安田J1リーグ第3節 vs FC町田ゼルビア 試合情報",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/245136",
+      "title": "2026.08.23試合・練習2026/27明治安田J1リーグ第3節 vs FC町田ゼルビア 試合結果",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/245163",
       "published": "2026.08.23",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.08.23試合・練習2026/27明治安田J1リーグ第3節 vs FC町田ゼルビア 試合情報",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/245136",
+      "title": "2026.08.23試合・練習2026/27明治安田J1リーグ第3節 vs FC町田ゼルビア 試合結果",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/245163",
       "published": "2026.08.23",
       "summary": ""
     },
@@ -165,17 +165,24 @@
     },
     {
       "team": "ガンバ大阪",
-      "title": "26.8.23［インフォメーション］「BLUE FANS（ブルーファンズ）」9月開催回 ゲスト・チケット発売日決定のお知らせ",
-      "link": "https://www.gamba-osaka.net/news/index/no/20743/c/0/year/2026/month/08/",
-      "published": "26.8.23［インフォメーション］",
+      "title": "26.8.23［チーム］ファンペ（Juanpe）選手 完全移籍加入のお知らせ",
+      "link": "https://www.gamba-osaka.net/news/index/no/20734/c/0/year/2026/month/08/",
+      "published": "26.8.23［チーム］",
       "summary": ""
     },
     {
       "team": "ヴィッセル神戸",
-      "title": "NEWS最新ニュース2026/08/219/11（金）vs.鹿島　乃木坂46 五百城 茉央（いおき まお）さん来場のお知らせクラブ2026/08/212026/27明治安田Ｊ1リーグ第7節vs.鹿島 ",
-      "link": "https://www.vissel-kobe.co.jp/news/article/26827.html",
-      "published": "2026/08/21",
+      "title": "NEWS最新ニュース2026/08/23U-21Ｊリーグ 東西リーグラウンドWEST 第1節vs.長崎 試合結果（8/23）U-212026/08/219/11（金）vs.鹿島　乃木坂46 五百城 茉",
+      "link": "https://www.vissel-kobe.co.jp/news/article/26838.html",
+      "published": "2026/08/23",
       "summary": ""
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "練習公開のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/0823post-2815.php",
+      "published": "2026-08-23",
+      "summary": "練習公開のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
@@ -204,13 +211,6 @@
       "link": "https://nagoya-grampus.jp/news/clubteam/2026/0822810-19.php",
       "published": "2026-08-23",
       "summary": "8月10日に発生したコロンビア地震への支援金募金活動実施について。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "8/22（土）G大阪戦｜災害義援金募金、支援募金活動 選手による呼びかけ実施のお知らせ",
-      "link": "https://nagoya-grampus.jp/news/clubteam/2026/0822822g-5.php",
-      "published": "2026-08-23",
-      "summary": "8/22（土）G大阪戦｜災害義援金募金、支援募金活動 選手による呼びかけ実施のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "サンフレッチェ広島",
@@ -278,5 +278,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-08-23T09:33:26.074434"
+  "updated_at": "2026-08-23T13:32:50.970931"
 }
