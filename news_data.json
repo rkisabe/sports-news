@@ -51,15 +51,15 @@
     },
     {
       "team": "ロッテ",
-      "title": "ファンクラブ2026/08/26 (水)NEW!9/1(火)〜ブラック特典引換券 特典グッズ引き換え開始のお知らせ",
-      "link": "https://www.marines.co.jp/news/detail/202600907850.html",
+      "title": "チーム2026/08/26 (水)NEW!8/26(水)益田投手が通算800試合登板達成",
+      "link": "https://www.marines.co.jp/news/detail/202600892354.html",
       "published": "2026/08/26 (水)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "ファンクラブ2026/08/26 (水)NEW!9/1(火)〜ブラック特典引換券 特典グッズ引き換え開始のお知らせ",
-      "link": "https://www.marines.co.jp/news/detail/202600907850.html",
+      "title": "チーム2026/08/26 (水)NEW!8/26(水)益田投手が通算800試合登板達成",
+      "link": "https://www.marines.co.jp/news/detail/202600892354.html",
       "published": "2026/08/26 (水)NEW!",
       "summary": ""
     },
@@ -109,15 +109,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.08.26試合・練習天皇杯 JFA 第106回全日本サッカー選手権大会 2回戦 vs 山梨学院大学 試合情報",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/245173",
+      "title": "2026.08.26試合・練習天皇杯 JFA 第106回全日本サッカー選手権大会 3回戦 対戦相手決定のお知らせ",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/245209",
       "published": "2026.08.26",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.08.26試合・練習天皇杯 JFA 第106回全日本サッカー選手権大会 2回戦 vs 山梨学院大学 試合情報",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/245173",
+      "title": "2026.08.26試合・練習天皇杯 JFA 第106回全日本サッカー選手権大会 3回戦 対戦相手決定のお知らせ",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/245209",
       "published": "2026.08.26",
       "summary": ""
     },
@@ -179,6 +179,13 @@
     },
     {
       "team": "名古屋グランパス",
+      "title": "9/2（水）アウェイ サンフレッチェ広島戦 試合情報",
+      "link": "https://nagoya-grampus.jp/news/game/2026/082692-9.php",
+      "published": "2026-08-26",
+      "summary": "9/2（水）アウェイ サンフレッチェ広島戦 試合情報。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
       "title": "9/6（日）町田戦｜参加者募集開始のお知らせ",
       "link": "https://nagoya-grampus.jp/news/fanclub/2026/082696-12.php",
       "published": "2026-08-26",
@@ -204,13 +211,6 @@
       "link": "https://nagoya-grampus.jp/news/hometown/2026/0825828.php",
       "published": "2026-08-26",
       "summary": "8/28（金）どまつり×鯱の大祭典―夏の陣―踊りとスポーツの祭りが一つになり今年も名古屋の夏を盛り上げる！。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "U-18選手が学び・考え・動く 在留ブラジルキッズプロジェクトU-18アクション ～第3回セッション～",
-      "link": "https://nagoya-grampus.jp/news/hometown/2026/0825u-18-u-18-3-1.php",
-      "published": "2026-08-26",
-      "summary": "U-18選手が学び・考え・動く 在留ブラジルキッズプロジェクトU-18アクション ～第3回セッション～。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "サンフレッチェ広島",
@@ -278,5 +278,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-08-26T09:49:51.169660"
+  "updated_at": "2026-08-26T13:55:41.216377"
 }
