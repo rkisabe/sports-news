@@ -151,17 +151,17 @@
     },
     {
       "team": "FC東京",
-      "title": "【9/3追記】2026/27 U-21 Ｊリーグ チケット販売について",
-      "link": "https://www.fctokyo.co.jp/news/details/337625/",
-      "published": "Thu, 03 Sep 2026 15:00:00 +0000",
-      "summary": "<p><span style=\"color: #ff0000;\">【8/10追記】チケット情報について追記いたしました</span></p><p><span style=\"color: #ff0000;\">【9/3追記】<span style=\"font-weight: 400;\">交流戦ラウンド第1節のチケット販売スケジュールが決定いたしました</span></span></p><hr /><p"
-    },
-    {
-      "team": "FC東京",
       "title": "【9/3追記】2026/27 U-21 Ｊリーグ 試合日程発表",
       "link": "https://www.fctokyo.co.jp/news/details/337621/",
       "published": "Thu, 03 Sep 2026 15:00:00 +0000",
       "summary": "<p>【9/3追記】<br />交流戦ラウンド第1節、第3節の詳細が決定しました。</p><hr /><p><img alt=\"\" class=\"alignnone size-full wp-image-337623\" height=\"1440\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/07/kv-1-scaled."
+    },
+    {
+      "team": "FC東京",
+      "title": "【9/3追記】2026/27 U-21 Ｊリーグ チケット販売について",
+      "link": "https://www.fctokyo.co.jp/news/details/337625/",
+      "published": "Thu, 03 Sep 2026 15:00:00 +0000",
+      "summary": "<p><span style=\"color: #ff0000;\">【8/10追記】チケット情報について追記いたしました</span></p><p><span style=\"color: #ff0000;\">【9/3追記】<span style=\"font-weight: 400;\">交流戦ラウンド第1節のチケット販売スケジュールが決定いたしました</span></span></p><hr /><p"
     },
     {
       "team": "ガンバ大阪",
@@ -278,5 +278,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-09-03T16:57:28.042027"
+  "updated_at": "2026-09-03T23:06:41.138205"
 }
