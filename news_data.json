@@ -16,13 +16,6 @@
     },
     {
       "team": "ヤクルト",
-      "title": "9/25（金）中日戦にてマイナビデーを開催します！イベント2026.9.25",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32591",
-      "published": "2026.9.25",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
       "title": "NEW「選手スイーツキーホルダー」の販売についてグッズ2026.9.11",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32585",
       "published": "2026.9.11",
@@ -33,6 +26,13 @@
       "title": "NEW【ファーム】9月11日（金）中日ドラゴンズ戦（戸田）中止のお知らせチーム2026.9.11",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32578",
       "published": "2026.9.11",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "第20回 アジア競技大会 台湾代表チームへの翔聖投手の派遣についてチーム2026.9.10",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32590",
+      "published": "2026.9.10",
       "summary": ""
     },
     {
@@ -93,15 +93,15 @@
     },
     {
       "team": "オリックス",
-      "title": "イベント2026/09/11 (金)NEW!9/12 東北楽天ゴールデンイーグルス戦 試合＆イベント情報",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600800222.html",
+      "title": "BPB DX2026/09/11 (金)NEW!【BPB DX】動画『とある日の練習風景～翔さん!?～』公開！",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600801190.html",
       "published": "2026/09/11 (金)NEW!",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "イベント2026/09/11 (金)NEW!9/12 東北楽天ゴールデンイーグルス戦 試合＆イベント情報",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600800222.html",
+      "title": "BPB DX2026/09/11 (金)NEW!【BPB DX】動画『とある日の練習風景～翔さん!?～』公開！",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600801190.html",
       "published": "2026/09/11 (金)NEW!",
       "summary": ""
     }
@@ -109,15 +109,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.09.11クラブ9/13(日)岡山戦 スタジアムアクセスガイド(9/11 16:30更新)",
-      "link": "https://www.urawa-reds.co.jp/clubinfo/245594",
+      "title": "2026.09.11チーム「鹿島戦の勝利は忘れて、次の岡山戦に向かってやっていくだけ」曺 貴裁監督(定例会見9/11)",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/245611",
       "published": "2026.09.11",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.09.11クラブ9/13(日)岡山戦 スタジアムアクセスガイド(9/11 16:30更新)",
-      "link": "https://www.urawa-reds.co.jp/clubinfo/245594",
+      "title": "2026.09.11チーム「鹿島戦の勝利は忘れて、次の岡山戦に向かってやっていくだけ」曺 貴裁監督(定例会見9/11)",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/245611",
       "published": "2026.09.11",
       "summary": ""
     },
@@ -151,23 +151,23 @@
     },
     {
       "team": "FC東京",
-      "title": "【OFFICIAL MEMBERSHIP BIGFLAMES PREMIUM限定】11/7(土)鹿島戦「選手をお出迎え」企画実施のお知らせ",
-      "link": "https://www.fctokyo.co.jp/news/details/341166/",
-      "published": "Thu, 10 Sep 2026 18:00:00 +0000",
-      "summary": "<p>OFFICIAL MEMBERSHIP BIGFLAMES PREMIUM会員限定の選手お出迎え企画を実施いたします。ご希望の方は、下記詳細をご確認の上ご応募ください。<br />みなさまのご参加をお待ちしています。</p><p><span style=\"font-size: 125%; color: #0000ff;\"><strong>□実施試合<br /></strong></span>"
-    },
-    {
-      "team": "FC東京",
       "title": "【SOCIO/OFFICIAL MEMBERSHIP限定】11/7(土)鹿島戦 イベント開催のお知らせ",
       "link": "https://www.fctokyo.co.jp/news/details/341155/",
       "published": "Thu, 10 Sep 2026 18:00:00 +0000",
       "summary": "<p>11月7日(土) 2026/27 明治安田Ｊ１リーグ第14節 vs 鹿島アントラーズ(15:00キックオフ/味の素スタジアム)に関する会員向けイベント「SOCIOフラッグベアラー」「フェアプレイフラッグベアラー」「ピッチサイド練習見学」「バックセンター指定席招待」および「ハンドウィズハンド」を募集いたします！会員イベント共通の注意事項、対象など下記項目をご確認の上、ぜひご応募ください。</p"
     },
     {
+      "team": "FC東京",
+      "title": "【OFFICIAL MEMBERSHIP BIGFLAMES PREMIUM限定】11/7(土)鹿島戦「選手をお出迎え」企画実施のお知らせ",
+      "link": "https://www.fctokyo.co.jp/news/details/341166/",
+      "published": "Thu, 10 Sep 2026 18:00:00 +0000",
+      "summary": "<p>OFFICIAL MEMBERSHIP BIGFLAMES PREMIUM会員限定の選手お出迎え企画を実施いたします。ご希望の方は、下記詳細をご確認の上ご応募ください。<br />みなさまのご参加をお待ちしています。</p><p><span style=\"font-size: 125%; color: #0000ff;\"><strong>□実施試合<br /></strong></span>"
+    },
+    {
       "team": "ガンバ大阪",
-      "title": "26.9.11［インフォメーション］試合開催時の周辺地域における安全・マナーについてのお願い",
-      "link": "https://www.gamba-osaka.net/news/index/no/20862/c/0/year/2026/month/09/",
-      "published": "26.9.11［インフォメーション］",
+      "title": "26.9.11［チーム］［プレビュー］目指すは開幕戦以来の勝点3。原点回帰でFC東京に勝ちに行く",
+      "link": "https://www.gamba-osaka.net/news/index/no/20878/c/0/year/2026/month/09/",
+      "published": "26.9.11［チーム］",
       "summary": ""
     },
     {
@@ -179,43 +179,43 @@
     },
     {
       "team": "名古屋グランパス",
+      "title": "AWAY V・ファーレン長崎戦限定！「旅するグランパスくん」グッズのお知らせ",
+      "link": "https://nagoya-grampus.jp/news/goods/2026/0911-away-v.php",
+      "published": "2026-09-11",
+      "summary": "AWAY V・ファーレン長崎戦限定！「旅するグランパスくん」グッズのお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "9/11（金）今週のグッズ担当イチオシアイテム！",
+      "link": "https://nagoya-grampus.jp/news/goods/2026/0911-911.php",
+      "published": "2026-09-11",
+      "summary": "9/11（金）今週のグッズ担当イチオシアイテム！。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "【65歳以上の方は無料で観戦！】2026/27シーズン「シニア観戦ご招待」実施のお知らせ（11/7［土］京都戦）",
+      "link": "https://nagoya-grampus.jp/news/ticket/2026/091165202627117.php",
+      "published": "2026-09-11",
+      "summary": "【65歳以上の方は無料で観戦！】2026/27シーズン「シニア観戦ご招待」実施のお知らせ（11/7［土］京都戦）。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "練習公開のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/0911post-2827.php",
+      "published": "2026-09-11",
+      "summary": "練習公開のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
       "title": "12月開催試合｜チケット販売スケジュールのお知らせ",
       "link": "https://nagoya-grampus.jp/news/ticket/2026/091112-31.php",
       "published": "2026-09-11",
       "summary": "12月開催試合｜チケット販売スケジュールのお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
-      "team": "名古屋グランパス",
-      "title": "クラブグランパス「こどもお仕事体験イベント」実施のお知らせ",
-      "link": "https://nagoya-grampus.jp/news/goods/2026/0911post-2825.php",
-      "published": "2026-09-11",
-      "summary": "クラブグランパス「こどもお仕事体験イベント」実施のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "2026/27秋のJリーグ全国招待キャンペーン「おいでよJリーグ」実施のお知らせ",
-      "link": "https://nagoya-grampus.jp/news/ticket/2026/0911202627jj.php",
-      "published": "2026-09-11",
-      "summary": "2026/27秋のJリーグ全国招待キャンペーン「おいでよJリーグ」実施のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "月刊グラン10月号のご紹介［原輝綺選手インタビュー］",
-      "link": "https://nagoya-grampus.jp/news/misc/2026/091110-92.php",
-      "published": "2026-09-11",
-      "summary": "月刊グラン10月号のご紹介［原輝綺選手インタビュー］。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "9/12（土）AWAY Ｖ・ファーレン長崎戦｜グッズ購入者への名古屋グランパスコレクションステッカー配布のお知らせ",
-      "link": "https://nagoya-grampus.jp/news/goods/2026/0910912away.php",
-      "published": "2026-09-11",
-      "summary": "9/12（土）AWAY Ｖ・ファーレン長崎戦｜グッズ購入者への名古屋グランパスコレクションステッカー配布のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
       "team": "サンフレッチェ広島",
-      "title": "10/24（土）vs.清水 全席完売（車いす席・リセール販売分除く）のお知らせ2026.09.11チケット",
-      "link": "https://www.sanfrecce.co.jp/news/ticket/12829",
+      "title": "【会員限定】9/12（土）vs.C大阪 ハーフタイムに抽選プレゼント2026.09.11サンフレッチェクラブ",
+      "link": "https://www.sanfrecce.co.jp/news/fanclub/12832",
       "published": "2026.09.11",
       "summary": ""
     }
@@ -278,5 +278,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-09-11T07:42:32.183018"
+  "updated_at": "2026-09-11T13:27:09.014557"
 }
