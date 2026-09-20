@@ -9,9 +9,16 @@
     },
     {
       "team": "横浜DeNA",
-      "title": "EVENT2026/9/20【DeNAランナーズアカデミー】陸上競技中長距離アカデミー オータムトレーニング 2026",
-      "link": "https://www.baystars.co.jp/news/2026/09/0920_01.php",
+      "title": "OTHER2026/9/20台風25号 接近に伴う一部営業時間変更等のお知らせ",
+      "link": "https://www.baystars.co.jp/news/2026/09/0920_05.php",
       "published": "2026/9/20",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "NEW9月21日(月･祝)台風の接近に伴うOfficial Goods Shop(スタジアム通り店/信濃町店)の臨時休業についてグッズ2026.9.20",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32626",
+      "published": "2026.9.20",
       "summary": ""
     },
     {
@@ -29,13 +36,6 @@
       "summary": ""
     },
     {
-      "team": "ヤクルト",
-      "title": "9月26日(土)は、「JERA クリーンエネルギーで灯セ！ ナイター」を開催いたします。イベント2026.9.19",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32593",
-      "published": "2026.9.19",
-      "summary": ""
-    },
-    {
       "team": "ソフトバンク",
       "title": "E・ZO FUKUOKA2026/09/19 (土)【10月】元プロ野球選手と一緒に野球を楽しもう！",
       "link": "https://www.softbankhawks.co.jp/news/detail/202601097021.html",
@@ -51,15 +51,15 @@
     },
     {
       "team": "ロッテ",
-      "title": "チケット2026/09/20 (日)NEW!開催中止となった9/20(日)埼玉西武戦のチケット払戻手続きについて",
-      "link": "https://www.marines.co.jp/news/detail/202600929160.html",
+      "title": "チーム2026/09/20 (日)NEW!公式戦試合日程追加のお知らせ",
+      "link": "https://www.marines.co.jp/news/detail/202600932498.html",
       "published": "2026/09/20 (日)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "チケット2026/09/20 (日)NEW!開催中止となった9/20(日)埼玉西武戦のチケット払戻手続きについて",
-      "link": "https://www.marines.co.jp/news/detail/202600929160.html",
+      "title": "チーム2026/09/20 (日)NEW!公式戦試合日程追加のお知らせ",
+      "link": "https://www.marines.co.jp/news/detail/202600932498.html",
       "published": "2026/09/20 (日)NEW!",
       "summary": ""
     },
@@ -109,16 +109,16 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.09.19試合・練習サヴィオ「これに満足せず、連勝できるように」",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/245700",
-      "published": "2026.09.19",
+      "title": "2026.09.20U-21試合・練習2026/27 U-21 Jリーグ 東西リーグラウンド 第3節 vs U-21 ジュビロ磐田 試合結果",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/245702",
+      "published": "2026.09.20",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.09.19試合・練習サヴィオ「これに満足せず、連勝できるように」",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/245700",
-      "published": "2026.09.19",
+      "title": "2026.09.20U-21試合・練習2026/27 U-21 Jリーグ 東西リーグラウンド 第3節 vs U-21 ジュビロ磐田 試合結果",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/245702",
+      "published": "2026.09.20",
       "summary": ""
     },
     {
@@ -172,9 +172,9 @@
     },
     {
       "team": "ヴィッセル神戸",
-      "title": "NEWS最新ニュース2026/09/18ヴィッセルとともに元気なココロとカラダをつくろう！ウェルビーイングフェス開催のお知らせクラブ2026/09/1810/24（土）町田戦 アシックス冠マッチ開催決",
-      "link": "https://www.vissel-kobe.co.jp/news/article/26976.html",
-      "published": "2026/09/18",
+      "title": "NEWS最新ニュース2026/09/20U-21Ｊリーグ 東西リーグラウンドWEST 第3節vs.岡山 試合結果（9/20）U-212026/09/18ヴィッセルとともに元気なココロとカラダをつくろう",
+      "link": "https://www.vissel-kobe.co.jp/news/article/26980.html",
+      "published": "2026/09/20",
       "summary": ""
     },
     {
@@ -278,5 +278,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-09-20T08:13:37.928448"
+  "updated_at": "2026-09-20T13:32:00.215925"
 }
