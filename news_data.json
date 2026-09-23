@@ -9,9 +9,16 @@
     },
     {
       "team": "横浜DeNA",
-      "title": "FARM2026/9/23【ファーム・リーグ公式戦】9/23(祝・水)横浜DeNAベイスターズ 対 中日ドラゴンズの試合は中止",
-      "link": "https://www.baystars.co.jp/news/2026/09/0923_06.php",
+      "title": "OTHER2026/9/23【横浜DeNAベイスターズジュニアチーム2026】メンバー16名が決定！",
+      "link": "https://www.baystars.co.jp/news/2026/09/0923_02.php",
       "published": "2026/9/23",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "NEW10月2日（金）巨人戦チケット完売のお知らせチケット2026.9.23",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32628",
+      "published": "2026.9.23",
       "summary": ""
     },
     {
@@ -29,13 +36,6 @@
       "summary": ""
     },
     {
-      "team": "ヤクルト",
-      "title": "NEW【ちょこっと応援チケット】9月23日（水・祝）阪神戦チケット2026.9.23",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32121",
-      "published": "2026.9.23",
-      "summary": ""
-    },
-    {
       "team": "ソフトバンク",
       "title": "お知らせ2026/09/21 (月)9月21日（月・祝）パ・リーグ公式戦中止のお知らせ",
       "link": "https://www.softbankhawks.co.jp/news/detail/202601098448.html",
@@ -51,15 +51,15 @@
     },
     {
       "team": "ロッテ",
-      "title": "イベント2026/09/23 (水)NEW!9/27(日)～「THE ONE AND ONLY -角中語録-」イベント実施のお知らせ",
-      "link": "https://www.marines.co.jp/news/detail/202600930039.html",
+      "title": "チーム2026/09/23 (水)NEW!9/23(水・祝)益田投手通算250セーブ達成 名球会ブレザー授与式実施",
+      "link": "https://www.marines.co.jp/news/detail/202600934469.html",
       "published": "2026/09/23 (水)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "イベント2026/09/23 (水)NEW!9/27(日)～「THE ONE AND ONLY -角中語録-」イベント実施のお知らせ",
-      "link": "https://www.marines.co.jp/news/detail/202600930039.html",
+      "title": "チーム2026/09/23 (水)NEW!9/23(水・祝)益田投手通算250セーブ達成 名球会ブレザー授与式実施",
+      "link": "https://www.marines.co.jp/news/detail/202600934469.html",
       "published": "2026/09/23 (水)NEW!",
       "summary": ""
     },
@@ -137,17 +137,17 @@
     },
     {
       "team": "FC東京",
-      "title": "『3rd KIT』関連グッズ販売のお知らせ",
-      "link": "https://www.fctokyo.co.jp/news/details/341544/",
-      "published": "Tue, 22 Sep 2026 17:00:00 +0000",
-      "summary": "<p>9月23日(水祝)17:00より3rd KIT関連グッズを販売いたします。<br />ぜひお買い求めください。<br /><strong>□2026/27シーズン3rd KITについては<a href=\"https://www.fctokyo.co.jp/news/details/341364/\" rel=\"noopener\" target=\"_blank\">こちら</a></strong>"
-    },
-    {
-      "team": "FC東京",
       "title": "キム スンギュ選手 Ｊ１リーグ通算200試合出場記念グッズ販売のお知らせ",
       "link": "https://www.fctokyo.co.jp/news/details/341555/",
       "published": "Tue, 22 Sep 2026 17:00:00 +0000",
       "summary": "<p>9月12日(土)2026/27 明治安田Ｊ１リーグ 第7節 vsガンバ大阪(19:00キックオフ/パナソニック スタジアム 吹田)にて、キム スンギュ選手がＪ１リーグ通算200試合出場を達成いたしました。<br />これを記念してキム スンギュ選手のJ1リーグ戦200試合出場記念グッズを受注販売いたします。<br />ぜひお買い求めください。<br /><a href=\"https://ww"
+    },
+    {
+      "team": "FC東京",
+      "title": "『3rd KIT』関連グッズ販売のお知らせ",
+      "link": "https://www.fctokyo.co.jp/news/details/341544/",
+      "published": "Tue, 22 Sep 2026 17:00:00 +0000",
+      "summary": "<p>9月23日(水祝)17:00より3rd KIT関連グッズを販売いたします。<br />ぜひお買い求めください。<br /><strong>□2026/27シーズン3rd KITについては<a href=\"https://www.fctokyo.co.jp/news/details/341364/\" rel=\"noopener\" target=\"_blank\">こちら</a></strong>"
     },
     {
       "team": "FC東京",
@@ -278,5 +278,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-09-23T08:13:22.678657"
+  "updated_at": "2026-09-23T14:10:21.652959"
 }
