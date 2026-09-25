@@ -16,6 +16,13 @@
     },
     {
       "team": "ヤクルト",
+      "title": "NEW「2026年9月スワポン抽選会」販売終了のお知らせグッズ2026.9.25",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32633",
+      "published": "2026.9.25",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
       "title": "NEW9月つばの日販売商品のお知らせグッズ2026.9.25",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32631",
       "published": "2026.9.25",
@@ -25,13 +32,6 @@
       "team": "ヤクルト",
       "title": "2026年シーズン応燕感謝グッズの販売グッズ2026.9.24",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32630",
-      "published": "2026.9.24",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
-      "title": "2026年9月スワポン抽選会開催のお知らせグッズ2026.9.24",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32627",
       "published": "2026.9.24",
       "summary": ""
     },
@@ -93,15 +93,15 @@
     },
     {
       "team": "オリックス",
-      "title": "イベント2026/09/25 (金)NEW!【第3弾】Bs夏の陣2026オークション開催!!",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600805275.html",
+      "title": "イベントマスコット2026/09/25 (金)NEW!【BsStage】9月26日（土）マスコットショー当日券販売のお知らせ",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600805332.html",
       "published": "2026/09/25 (金)NEW!",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "イベント2026/09/25 (金)NEW!【第3弾】Bs夏の陣2026オークション開催!!",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600805275.html",
+      "title": "イベントマスコット2026/09/25 (金)NEW!【BsStage】9月26日（土）マスコットショー当日券販売のお知らせ",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600805332.html",
       "published": "2026/09/25 (金)NEW!",
       "summary": ""
     }
@@ -179,6 +179,13 @@
     },
     {
       "team": "名古屋グランパス",
+      "title": "9/25（金）今週のグッズ担当イチオシアイテム！",
+      "link": "https://nagoya-grampus.jp/news/goods/2026/0925-925-2.php",
+      "published": "2026-09-25",
+      "summary": "9/25（金）今週のグッズ担当イチオシアイテム！。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
       "title": "明治安田特別協賛企画「とことん！地元応援キャンペーンin豊田まちなか」開催のお知らせ",
       "link": "https://nagoya-grampus.jp/news/hometown/for-the-town/2026/0925in-8.php",
       "published": "2026-09-25",
@@ -204,13 +211,6 @@
       "link": "https://nagoya-grampus.jp/news/game/2026/0925929-1.php",
       "published": "2026-09-25",
       "summary": "9/29（火）アウェイ ギラヴァンツ北九州戦 試合情報。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "2026/27シーズンチケット（個人）｜「シーズンチケットお席変更サービス 第3期【パロマ瑞穂スタジアムのみ】」のお知らせ",
-      "link": "https://nagoya-grampus.jp/news/ticket/2026/0924202627-3-1.php",
-      "published": "2026-09-25",
-      "summary": "2026/27シーズンチケット（個人）｜「シーズンチケットお席変更サービス 第3期【パロマ瑞穂スタジアムのみ】」のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "サンフレッチェ広島",
@@ -278,5 +278,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-09-25T08:28:30.411860"
+  "updated_at": "2026-09-25T14:32:15.062741"
 }
