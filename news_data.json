@@ -222,6 +222,41 @@
   ],
   "bleague": [
     {
+      "team": "宇都宮ブレックス",
+      "title": "CODE PHANTOM RAG (Relay Attack Guard)",
+      "link": "https://brex.jp/archives/product/code-phantom-rag-relay-attack-guard-2",
+      "published": "Wed, 17 Sep 2025 23:44:00 +0000",
+      "summary": ""
+    },
+    {
+      "team": "宇都宮ブレックス",
+      "title": "CODE PHANTOM CC for BMW/MINI",
+      "link": "https://brex.jp/archives/product/code-phantom-cc-for-bmw-mini",
+      "published": "Wed, 17 Sep 2025 23:43:21 +0000",
+      "summary": ""
+    },
+    {
+      "team": "宇都宮ブレックス",
+      "title": "CODE PHANTOM TV for BMW EVO (iD5/iD6)",
+      "link": "https://brex.jp/archives/product/code-phantom-tv-for-bmw-evo-id5-id6",
+      "published": "Wed, 17 Sep 2025 23:42:46 +0000",
+      "summary": ""
+    },
+    {
+      "team": "宇都宮ブレックス",
+      "title": "CODE PHANTOM TV for AUDI/Volkswagen",
+      "link": "https://brex.jp/archives/product/code-phantom-tv-for-audi-volkswagen",
+      "published": "Wed, 17 Sep 2025 23:42:22 +0000",
+      "summary": ""
+    },
+    {
+      "team": "宇都宮ブレックス",
+      "title": "CODE PHANTOM TV ACTIVE Multi",
+      "link": "https://brex.jp/archives/product/code-phantom-tv-active-multi",
+      "published": "Wed, 17 Sep 2025 23:41:51 +0000",
+      "summary": ""
+    },
+    {
       "team": "広島ドラゴンフライズ",
       "title": "トップパートナー",
       "link": "https://www.nova.co.jp/",
@@ -243,5 +278,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-09-27T17:35:19.690831"
+  "updated_at": "2026-09-27T23:42:23.828360"
 }
