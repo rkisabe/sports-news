@@ -16,14 +16,7 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW【ちょこっと応援チケット】10月3日（土）中日戦チケット2026.10.3",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32121",
-      "published": "2026.10.3",
-      "summary": ""
-    },
-    {
-      "team": "ヤクルト",
-      "title": "NEW10月3日（土）中日戦チケット完売のお知らせチケット2026.10.2",
+      "title": "10月3日（土）中日戦チケット完売のお知らせチケット2026.10.2",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32649",
       "published": "2026.10.2",
       "summary": ""
@@ -36,6 +29,13 @@
       "summary": ""
     },
     {
+      "team": "ヤクルト",
+      "title": "Official Goods Shop（スタジアム通り店／信濃町店） 10月休業日のお知らせグッズ2026.10.1",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32646",
+      "published": "2026.10.1",
+      "summary": ""
+    },
+    {
       "team": "ソフトバンク",
       "title": "イベント選手CSR2026/10/03 (土)NEW!2026ピンクリボンチャリティオークション開催",
       "link": "https://www.softbankhawks.co.jp/news/detail/202601093670.html",
@@ -51,15 +51,15 @@
     },
     {
       "team": "ロッテ",
-      "title": "イベント2026/10/03 (土)NEW!10/2(金)角中選手引退セレモニーを実施",
-      "link": "https://www.marines.co.jp/news/detail/202600940156.html",
+      "title": "その他2026/10/03 (土)NEW!10/3(土)福岡ソフトバンク戦 満員御礼",
+      "link": "https://www.marines.co.jp/news/detail/202600939155.html",
       "published": "2026/10/03 (土)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "イベント2026/10/03 (土)NEW!10/2(金)角中選手引退セレモニーを実施",
-      "link": "https://www.marines.co.jp/news/detail/202600940156.html",
+      "title": "その他2026/10/03 (土)NEW!10/3(土)福岡ソフトバンク戦 満員御礼",
+      "link": "https://www.marines.co.jp/news/detail/202600939155.html",
       "published": "2026/10/03 (土)NEW!",
       "summary": ""
     },
@@ -137,10 +137,10 @@
     },
     {
       "team": "FC東京",
-      "title": "11/25(水)広島戦 チケット販売について",
-      "link": "https://www.fctokyo.co.jp/news/details/341887/",
+      "title": "【OFFICIAL MEMBERSHIP BIGFLAMES PREMIUM限定】11/25(水)広島戦「選手をお出迎え」企画実施のお知らせ",
+      "link": "https://www.fctokyo.co.jp/news/details/341897/",
       "published": "Thu, 01 Oct 2026 18:00:00 +0000",
-      "summary": "<p>11月25日(水) 2026/27明治安田Ｊ１リーグ第16節 vsサンフレッチェ広島 (19:00キックオフ/味の素スタジアム)のチケット販売に関してお知らせいたします。</p><p><img alt=\"\" class=\"aligncenter size-large wp-image-341892\" height=\"576\" src=\"https://assets.fctokyo.co.jp"
+      "summary": "<p>OFFICIAL MEMBERSHIP BIGFLAMES PREMIUM会員限定の選手お出迎え企画を実施いたします。ご希望の方は、下記詳細をご確認の上ご応募ください。<br />みなさまのご参加をお待ちしています。</p><p><span style=\"font-size: 125%; color: #0000ff;\"><strong>□実施試合<br /></strong></span>"
     },
     {
       "team": "FC東京",
@@ -162,6 +162,13 @@
       "link": "https://www.vissel-kobe.co.jp/news/article/27024.html",
       "published": "2026/10/02",
       "summary": ""
+    },
+    {
+      "team": "名古屋グランパス",
+      "title": "10/11（日）アウェイ 川崎フロンターレ戦 試合情報",
+      "link": "https://nagoya-grampus.jp/news/game/2026/10031011-4.php",
+      "published": "2026-10-03",
+      "summary": "10/11（日）アウェイ 川崎フロンターレ戦 試合情報。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
@@ -190,13 +197,6 @@
       "link": "https://nagoya-grampus.jp/news/goods/2026/1002-102.php",
       "published": "2026-10-03",
       "summary": "10/2（金）今週のグッズ担当イチオシアイテム！。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "10/25（日）横浜FM戦｜愛知環状鉄道臨時列車運行のお知らせ",
-      "link": "https://nagoya-grampus.jp/news/game/2026/10021025fm-3.php",
-      "published": "2026-10-03",
-      "summary": "10/25（日）横浜FM戦｜愛知環状鉄道臨時列車運行のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "サンフレッチェ広島",
@@ -264,5 +264,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-10-03T08:48:40.271409"
+  "updated_at": "2026-10-03T14:16:01.358627"
 }
