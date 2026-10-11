@@ -51,16 +51,16 @@
     },
     {
       "team": "ロッテ",
-      "title": "チーム2026/10/11 (日)NEW!コーチ退団について",
+      "title": "チーム2026/10/11 (日)コーチ退団について",
       "link": "https://www.marines.co.jp/news/detail/202600943882.html",
-      "published": "2026/10/11 (日)NEW!",
+      "published": "2026/10/11 (日)",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "チーム2026/10/11 (日)NEW!コーチ退団について",
+      "title": "チーム2026/10/11 (日)コーチ退団について",
       "link": "https://www.marines.co.jp/news/detail/202600943882.html",
-      "published": "2026/10/11 (日)NEW!",
+      "published": "2026/10/11 (日)",
       "summary": ""
     },
     {
@@ -93,16 +93,16 @@
     },
     {
       "team": "オリックス",
-      "title": "BPB DX2026/10/11 (日)NEW!【BPB DX】動画『【BPBDX MAP】休日の過ごし方は？』公開！",
+      "title": "BPB DX2026/10/11 (日)【BPB DX】動画『【BPBDX MAP】休日の過ごし方は？』公開！",
       "link": "https://www.buffaloes.co.jp/news/detail/202600810196.html",
-      "published": "2026/10/11 (日)NEW!",
+      "published": "2026/10/11 (日)",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "BPB DX2026/10/11 (日)NEW!【BPB DX】動画『【BPBDX MAP】休日の過ごし方は？』公開！",
+      "title": "BPB DX2026/10/11 (日)【BPB DX】動画『【BPBDX MAP】休日の過ごし方は？』公開！",
       "link": "https://www.buffaloes.co.jp/news/detail/202600810196.html",
-      "published": "2026/10/11 (日)NEW!",
+      "published": "2026/10/11 (日)",
       "summary": ""
     }
   ],
@@ -165,6 +165,13 @@
     },
     {
       "team": "名古屋グランパス",
+      "title": "練習公開のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/1011post-2840.php",
+      "published": "2026-10-11",
+      "summary": "練習公開のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
       "title": "10/17（土）アウェイ 柏レイソル戦 試合情報",
       "link": "https://nagoya-grampus.jp/news/game/2026/10101017-6.php",
       "published": "2026-10-11",
@@ -190,13 +197,6 @@
       "link": "https://nagoya-grampus.jp/news/hometown/for-the-town/2026/10091017-5.php",
       "published": "2026-10-11",
       "summary": "10/17（土）名古屋まつりにて、愛知県との連携事業として「愛知県地球温暖化対策課×名古屋グランパス 気候アクションブース」を出展。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "AWAY 川崎フロンターレ戦限定！「旅するグランパスくん」グッズのお知らせ",
-      "link": "https://nagoya-grampus.jp/news/goods/2026/1009away-11.php",
-      "published": "2026-10-11",
-      "summary": "AWAY 川崎フロンターレ戦限定！「旅するグランパスくん」グッズのお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "サンフレッチェ広島",
@@ -264,5 +264,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-10-11T09:36:28.649920"
+  "updated_at": "2026-10-11T15:31:17.320673"
 }
