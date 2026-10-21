@@ -9,9 +9,16 @@
     },
     {
       "team": "横浜DeNA",
-      "title": "APP2026/10/20【MY BAYSTARS】JERA CS セ 優勝記念ガチャ&キャンペーン開催！",
-      "link": "https://www.baystars.co.jp/news/2026/10/1020_02.php",
-      "published": "2026/10/20",
+      "title": "OTHER2026/10/21緊急メンテナンスのお知らせ",
+      "link": "https://www.baystars.co.jp/news/2026/10/1021_01.php",
+      "published": "2026/10/21",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "NEW【更新】システムメンテナンスに伴うWEBサービスの一時停止のお知らせグッズ2026.10.21",
+      "link": "https://www.yakult-swallows.co.jp/news/detail/32681",
+      "published": "2026.10.21",
       "summary": ""
     },
     {
@@ -29,13 +36,6 @@
       "summary": ""
     },
     {
-      "team": "ヤクルト",
-      "title": "明治神宮外苑創建100年記念オークション（第2弾）開始！イベント2026.10.19",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32661",
-      "published": "2026.10.19",
-      "summary": ""
-    },
-    {
       "team": "ソフトバンク",
       "title": "イベントチケット2026/10/21 (水)NEW!アニサマ福岡 11/4（水）出演者第1弾発表！",
       "link": "https://www.softbankhawks.co.jp/news/detail/202601110998.html",
@@ -51,15 +51,15 @@
     },
     {
       "team": "ロッテ",
-      "title": "チーム2026/10/21 (水)NEW!山口選手が2026年9、10月度「スカパー！サヨナラ賞」受賞",
-      "link": "https://www.marines.co.jp/news/detail/202600945858.html",
+      "title": "ファンクラブ2026/10/21 (水)NEW!【重要】TEAM26マイページ 緊急メンテナンス実施に伴うサービス一時停止のお知らせ",
+      "link": "https://www.marines.co.jp/news/detail/202600946327.html",
       "published": "2026/10/21 (水)NEW!",
       "summary": ""
     },
     {
       "team": "ロッテ",
-      "title": "チーム2026/10/21 (水)NEW!山口選手が2026年9、10月度「スカパー！サヨナラ賞」受賞",
-      "link": "https://www.marines.co.jp/news/detail/202600945858.html",
+      "title": "ファンクラブ2026/10/21 (水)NEW!【重要】TEAM26マイページ 緊急メンテナンス実施に伴うサービス一時停止のお知らせ",
+      "link": "https://www.marines.co.jp/news/detail/202600946327.html",
       "published": "2026/10/21 (水)NEW!",
       "summary": ""
     },
@@ -93,15 +93,15 @@
     },
     {
       "team": "オリックス",
-      "title": "イベント2026/10/21 (水)NEW!※10/21更新※【BsTV生配信】T-岡田さん参加決定！「オリ目線BsTVドラフト会議2026 supported byプロ野球スピリッツ2026」",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600810078.html",
+      "title": "イベントその他2026/10/21 (水)NEW!【重要】各種サービスのシステムメンテナンスに関するお知らせ",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600812821.html",
       "published": "2026/10/21 (水)NEW!",
       "summary": ""
     },
     {
       "team": "オリックス",
-      "title": "イベント2026/10/21 (水)NEW!※10/21更新※【BsTV生配信】T-岡田さん参加決定！「オリ目線BsTVドラフト会議2026 supported byプロ野球スピリッツ2026」",
-      "link": "https://www.buffaloes.co.jp/news/detail/202600810078.html",
+      "title": "イベントその他2026/10/21 (水)NEW!【重要】各種サービスのシステムメンテナンスに関するお知らせ",
+      "link": "https://www.buffaloes.co.jp/news/detail/202600812821.html",
       "published": "2026/10/21 (水)NEW!",
       "summary": ""
     }
@@ -115,45 +115,10 @@
       "summary": ""
     },
     {
-      "team": "FC東京",
-      "title": "【U-18・U-15】10/17(土)、10/18(日)の試合結果について",
-      "link": "https://www.fctokyo.co.jp/news/details/342896/",
-      "published": "Wed, 21 Oct 2026 10:00:00 +0000",
-      "summary": "<p>10月17日(土)、10月18日(日)に開催されたFC東京U-18、FC東京U-15深川、FC東京U-15むさしの公式戦の試合結果をお知らせいたします。</p><p><strong><span style=\"color: #0000ff; font-size: 125%;\">□U−18<br /></span></strong><strong>＜2026/27 Ｊユースカップ 第33回Ｊリー"
-    },
-    {
-      "team": "FC東京",
-      "title": "10/21(水)柏戦 当日券販売について",
-      "link": "https://www.fctokyo.co.jp/news/details/342829/",
-      "published": "Tue, 20 Oct 2026 18:00:00 +0000",
-      "summary": "<p>10月21日(水) 2026/27明治安田Ｊ１リーグ第11節 vs柏レイソル (19:00キックオフ/味の素スタジアム)の当日券販売につきまして、下記のとおりお知らせいたします。<br /><strong>◇試合情報は<a href=\"https://www.fctokyo.co.jp/match/schedule/info/20261021/\" rel=\"noopener\" target="
-    },
-    {
-      "team": "FC東京",
-      "title": "【10/20追記】天皇杯 JFA 第106回全日本サッカー選手権大会 ラウンド16(4回戦)対戦相手決定のお知らせ",
-      "link": "https://www.fctokyo.co.jp/news/details/342651/",
-      "published": "Tue, 20 Oct 2026 16:59:18 +0000",
-      "summary": "<p><span style=\"color: #0000ff;\">【10/20追記】</span><br /><span style=\"color: #0000ff;\">スタジアム、キックオフ時間等が決定しましたのでお知らせします。</span></p><hr /><p>本日行われた組み合わせ抽選会の結果により。『天皇杯 JFA 第106回全日本サッカー選手権大会』ラウンド16(4回戦)の対戦相手"
-    },
-    {
-      "team": "FC東京",
-      "title": "俵積田晃太選手 Ｊ１リーグ通算100試合出場記念グッズ販売のお知らせ",
-      "link": "https://www.fctokyo.co.jp/news/details/342822/",
-      "published": "Tue, 20 Oct 2026 16:00:00 +0000",
-      "summary": "<p>10月10日(土)2026/27 明治安田Ｊ１リーグ 第9節 vs浦和レッズ戦(15:00キックオフ/味の素スタジアム)にて、俵積田晃太選手がＪ１リーグ戦で通算100試合出場を達成いたしました。<br />これを記念して俵積田晃太選手Ｊ１リーグ戦100試合出場記念グッズを受注販売いたしますので、ぜひお買い求めください。<br /><a href=\"https://www.fctokyo.co"
-    },
-    {
-      "team": "FC東京",
-      "title": "瀬賀結臣選手、伊藤航選手 U-16日本代表メンバー選出のお知らせ",
-      "link": "https://www.fctokyo.co.jp/news/details/342862/",
-      "published": "Tue, 20 Oct 2026 16:00:00 +0000",
-      "summary": "<p>FC東京U-18に所属する<span>瀬賀結臣選手と伊藤航選手</span>が、キプロスで開催される『<span class=\"il\">U</span>EFA Friendly To<span class=\"il\">u</span>rnament in Cypr<span class=\"il\">u</span>s』に臨むU-16日本代表に選出されましたのでお知らせします。</p><h2>選出"
-    },
-    {
       "team": "ガンバ大阪",
-      "title": "26.10.21［ファンクラブ］10/24（土）明治安田J1 第12節 京都戦「Osaka BMW PRESENTSハーフタイム抽選会DX」のご案内",
-      "link": "https://www.gamba-osaka.net/news/index/no/21118/c/0/year/2026/month/10/",
-      "published": "26.10.21［ファンクラブ］",
+      "title": "26.10.21［グッズ］［オンラインショップ］山下諒也選手J1リーグ100試合出場記念グッズ販売のお知らせ",
+      "link": "https://www.gamba-osaka.net/news/index/no/21134/c/0/year/2026/month/10/",
+      "published": "26.10.21［グッズ］",
       "summary": ""
     },
     {
@@ -161,48 +126,6 @@
       "title": "NEWS最新ニュース2026/10/21サーバーメンテナンスに伴うホームページの一時停止についてクラブ2026/10/20【キックオフ時間会場決定】「天皇杯 JFA 第106回全日本サッカー選手権大会",
       "link": "https://www.vissel-kobe.co.jp/news/article/27106.html",
       "published": "2026/10/21",
-      "summary": ""
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "練習公開のお知らせ",
-      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/1021post-2848.php",
-      "published": "2026-10-21",
-      "summary": "練習公開のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "クラブグランパス「オータムフェスタ」実施のお知らせ",
-      "link": "https://nagoya-grampus.jp/news/goods/2026/1021post-2847.php",
-      "published": "2026-10-21",
-      "summary": "クラブグランパス「オータムフェスタ」実施のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "10/25（日）２０２６／２７明治安田Ｊ１リーグ  第12節 横浜Ｆ・マリノス戦｜シモビッチ氏 来場のお知らせ",
-      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/1020-1025-12.php",
-      "published": "2026-10-21",
-      "summary": "10/25（日）２０２６／２７明治安田Ｊ１リーグ  第12節 横浜Ｆ・マリノス戦｜シモビッチ氏 来場のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "U-18八色 隼人選手、「U-16 日本代表 UEFA Friendly Tournament in Cyprus」メンバー選出について",
-      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/1020u-18-u-16-uefa-friendly-tournament-in-cyprus.php",
-      "published": "2026-10-21",
-      "summary": "U-18八色 隼人選手、「U-16 日本代表 UEFA Friendly Tournament in Cyprus」メンバー選出について。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "Ｕ－２１ Ｊリーグ 東西リーグラウンド WEST 第5節：名古屋vs神戸｜試合結果",
-      "link": "https://nagoya-grampus.jp/news/game/2026/1020-west-5vs.php",
-      "published": "2026-10-21",
-      "summary": "Ｕ－２１ Ｊリーグ 東西リーグラウンド WEST 第5節：名古屋vs神戸｜試合結果。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "サンフレッチェ広島",
-      "title": "12/13（日）vs.鹿島 一般販売からの取扱い席種を除き完売のお知らせ ※リセール販売分除く2026.10.21チケット",
-      "link": "https://www.sanfrecce.co.jp/news/ticket/12987",
-      "published": "2026.10.21",
       "summary": ""
     }
   ],
@@ -264,5 +187,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-10-21T08:13:04.203972"
+  "updated_at": "2026-10-21T14:25:31.553748"
 }
