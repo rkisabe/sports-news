@@ -2,8 +2,8 @@
   "npb": [
     {
       "team": "読売ジャイアンツ",
-      "title": "2026.11.6「ジャイアンツOB vs ベイスターズOB」（11/15・静岡）における一部観戦座席の使用不可に伴う取り扱い変更についてイベントチケット",
-      "link": "https://www.giants.jp/news/31687/",
+      "title": "2026.11.6平山選手ら４選手が契約更改チーム",
+      "link": "https://www.giants.jp/news/31688/",
       "published": "2026-11-06",
       "summary": ""
     },
@@ -39,15 +39,15 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.11.06チーム「プロセスを突き詰め、一戦一戦を次につなげる」曺 貴裁監督(定例会見11/6)",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/9030068.html",
+      "title": "2026.11.06試合・練習2026/27明治安田J1リーグ第14節 vs ヴィッセル神戸 試合情報",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/9030072.html",
       "published": "2026.11.06",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.11.06チーム「プロセスを突き詰め、一戦一戦を次につなげる」曺 貴裁監督(定例会見11/6)",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/9030068.html",
+      "title": "2026.11.06試合・練習2026/27明治安田J1リーグ第14節 vs ヴィッセル神戸 試合情報",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/9030072.html",
       "published": "2026.11.06",
       "summary": ""
     },
@@ -57,6 +57,13 @@
       "link": "https://www.so-net.ne.jp/",
       "published": "2020.03.26(木)",
       "summary": ""
+    },
+    {
+      "team": "FC東京",
+      "title": "【U-15深川】ポルトガル遠征7日目 大会最終日〜帰国",
+      "link": "https://www.fctokyo.co.jp/news/details/343778/",
+      "published": "Fri, 06 Nov 2026 19:27:21 +0000",
+      "summary": "<h1><b>ポルトガル遠征7</b><b>日目</b></h1><h3>【大会最終日：順位決定トーナメント】</h3><p>大会最終日、順位決定トーナメントの日です。<br />予選リーグの結果から、U-15深川は「9位〜12位決定トーナメント」に進み、最終日は2試合を戦います。昨日の予選までは25分間の試合でしたが、本日の2試合は35分間の試合となります。<br />第1試合が9:45キックオ"
     },
     {
       "team": "FC東京",
@@ -85,13 +92,6 @@
       "link": "https://www.fctokyo.co.jp/news/details/343735/",
       "published": "Fri, 06 Nov 2026 15:00:00 +0000",
       "summary": "<p>本日、公益財団法人日本サッカー協会(JFA)より発表された11月に実施するアメリカ遠征に臨むU-19日本代表に、渡邊麻舟選手、鈴木楓選手、尾谷ディヴァインチネドゥ選手が選出されましたのでお知らせします。</p><p><img alt=\"\" class=\"aligncenter size-full wp-image-343736\" height=\"1051\" src=\"https://asse"
-    },
-    {
-      "team": "FC東京",
-      "title": "【11/6追記】11/7(土)鹿島戦 飲食情報",
-      "link": "https://www.fctokyo.co.jp/news/details/341038/",
-      "published": "Fri, 06 Nov 2026 13:51:09 +0000",
-      "summary": "<p><b><span style=\"color: #0000ff;\">【11/6追記】</span><br /></b>・おすすめ店舗を掲載しました。</p><hr /><p><img alt=\"\" class=\"aligncenter size-large wp-image-342404\" height=\"576\" src=\"https://assets.fctokyo.co.jp/wp/wp"
     },
     {
       "team": "ガンバ大阪",
@@ -222,5 +222,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-11-06T10:17:36.107152"
+  "updated_at": "2026-11-06T16:40:25.933180"
 }
