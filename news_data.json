@@ -16,7 +16,7 @@
     },
     {
       "team": "ヤクルト",
-      "title": "NEW2026秋季キャンプにおけるスワポン商品の販売についてグッズ2026.11.6",
+      "title": "2026秋季キャンプにおけるスワポン商品の販売についてグッズ2026.11.6",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32721",
       "published": "2026.11.6",
       "summary": ""
@@ -39,16 +39,16 @@
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.11.07チームPICK UP PLAYER｜ダニーロ ボザ",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/9030093.html",
-      "published": "2026.11.07",
+      "title": "2026.11.08試合・練習2026/27明治安田J1リーグ第14節 vs ヴィッセル神戸 試合情報",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/9030072.html",
+      "published": "2026.11.08",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.11.07チームPICK UP PLAYER｜ダニーロ ボザ",
-      "link": "https://www.urawa-reds.co.jp/topteamtopics/9030093.html",
-      "published": "2026.11.07",
+      "title": "2026.11.08試合・練習2026/27明治安田J1リーグ第14節 vs ヴィッセル神戸 試合情報",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/9030072.html",
+      "published": "2026.11.08",
       "summary": ""
     },
     {
@@ -109,6 +109,13 @@
     },
     {
       "team": "名古屋グランパス",
+      "title": "練習公開のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/1107post-2855.php",
+      "published": "2026-11-07",
+      "summary": "練習公開のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+    },
+    {
+      "team": "名古屋グランパス",
       "title": "11/7（土）京都戦｜「冬季限定ロイヤルシートサービス（ブランケット貸出のみ）」のお知らせ",
       "link": "https://nagoya-grampus.jp/news/ticket/2026/1106117-1121808.php",
       "published": "2026-11-07",
@@ -134,13 +141,6 @@
       "link": "https://nagoya-grampus.jp/news/goods/2026/1106117-1121807.php",
       "published": "2026-11-07",
       "summary": "11/7（土）京都戦｜ユニフォーム販売特設ブース実施のお知らせ【オフィシャルグッズ売店】。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
-    },
-    {
-      "team": "名古屋グランパス",
-      "title": "11/6（金）今週のグッズ担当イチオシアイテム！",
-      "link": "https://nagoya-grampus.jp/news/goods/2026/1106-116.php",
-      "published": "2026-11-07",
-      "summary": "11/6（金）今週のグッズ担当イチオシアイテム！。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "サンフレッチェ広島",
@@ -222,5 +222,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-11-07T09:32:39.071343"
+  "updated_at": "2026-11-07T15:34:34.407032"
 }
