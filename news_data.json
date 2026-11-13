@@ -2,21 +2,28 @@
   "npb": [
     {
       "team": "読売ジャイアンツ",
-      "title": "2026.11.12育成ドラフト１位・谷渕瑛仁選手が仮契約「打てる捕手として活躍を」チーム",
-      "link": "https://www.giants.jp/news/31744/",
+      "title": "2026.11.13サイバー攻撃によるメールアドレス流出に関するお詫びとお知らせファンクラブ",
+      "link": "https://www.giants.jp/news/31752/",
       "published": "2026-11-13",
       "summary": ""
     },
     {
       "team": "横浜DeNA",
-      "title": "TEAM2026/11/12嶺井博希選手 入団記者会見",
-      "link": "https://www.baystars.co.jp/news/2026/11/1112_05.php",
-      "published": "2026/11/12",
+      "title": "OTHER2026/11/13【スクール】12/12(土)女子中学生限定！野球教室開催決定supported by JA共済連神奈川",
+      "link": "https://www.baystars.co.jp/news/2026/11/1113_01.php",
+      "published": "2026/11/13",
       "summary": ""
     },
     {
       "team": "ヤクルト",
-      "title": "NEW明治神宮外苑創建百年記念奉納試合の出場選手について（変更）チーム2026.11.12",
+      "title": "NEW【ファン感謝DAY】グルメ情報公開！イベント2026.11.13",
+      "link": "https://www.yakult-swallows.co.jp/fanfest_2026/gourmet",
+      "published": "2026.11.13",
+      "summary": ""
+    },
+    {
+      "team": "ヤクルト",
+      "title": "明治神宮外苑創建百年記念奉納試合の出場選手について（変更）チーム2026.11.12",
       "link": "https://www.yakult-swallows.co.jp/news/detail/32731",
       "published": "2026.11.12",
       "summary": ""
@@ -29,26 +36,96 @@
       "summary": ""
     },
     {
-      "team": "ヤクルト",
-      "title": "株式会社ヤクルト球団は、このたび、株式会社筑波銀行とビジネスマッチング契約を締結のお知らせその他2026.11.11",
-      "link": "https://www.yakult-swallows.co.jp/news/detail/32727",
-      "published": "2026.11.11",
+      "team": "ソフトバンク",
+      "title": "ニュース一覧を見る",
+      "link": "https://www.softbankhawks.co.jp/news/list/",
+      "published": "2026-11-13",
+      "summary": ""
+    },
+    {
+      "team": "ソフトバンク",
+      "title": "ニュース一覧を見る",
+      "link": "https://www.softbankhawks.co.jp/news/list/",
+      "published": "2026-11-13",
+      "summary": ""
+    },
+    {
+      "team": "ソフトバンク",
+      "title": "ニュース一覧を見る",
+      "link": "https://www.softbankhawks.co.jp/news/list/",
+      "published": "2026-11-13",
+      "summary": ""
+    },
+    {
+      "team": "ロッテ",
+      "title": "その他2026/11/13 (金)公式サイトのサービス再開（一部機能の利用停止）に関するお知らせ",
+      "link": "https://www.marines.co.jp/news/detail/20261113-01.html",
+      "published": "2026/11/13 (金)",
+      "summary": ""
+    },
+    {
+      "team": "ロッテ",
+      "title": "その他2026/11/13 (金)公式サイトのサービス再開（一部機能の利用停止）に関するお知らせ",
+      "link": "https://www.marines.co.jp/news/detail/20261113-01.html",
+      "published": "2026/11/13 (金)",
+      "summary": ""
+    },
+    {
+      "team": "西武",
+      "title": "チーム・選手",
+      "link": "https://www.seibulions.jp/team/",
+      "published": "2026-11-13",
+      "summary": ""
+    },
+    {
+      "team": "楽天",
+      "title": "チーム・選手",
+      "link": "https://www.rakuteneagles.jp/team/?scid=oe_out_othEgl_000000_web_top_belt_menu",
+      "published": "2026-11-13",
+      "summary": ""
+    },
+    {
+      "team": "楽天",
+      "title": "イベント情報",
+      "link": "https://www.rakuteneagles.jp/event/?scid=oe_out_othEgl_000000_web_top_belt_menu",
+      "published": "2026-11-13",
+      "summary": ""
+    },
+    {
+      "team": "日本ハム",
+      "title": "チーム・選手",
+      "link": "https://www.fighters.co.jp/team/",
+      "published": "2026-11-13",
+      "summary": ""
+    },
+    {
+      "team": "オリックス",
+      "title": "その他2026/11/13 (金)【重要】公式サイトのサービス再開（一部機能の利用停止）に関するお知らせ",
+      "link": "https://www.buffaloes.co.jp/news/detail/20260a111301.html",
+      "published": "2026/11/13 (金)",
+      "summary": ""
+    },
+    {
+      "team": "オリックス",
+      "title": "その他2026/11/13 (金)【重要】公式サイトのサービス再開（一部機能の利用停止）に関するお知らせ",
+      "link": "https://www.buffaloes.co.jp/news/detail/20260a111301.html",
+      "published": "2026/11/13 (金)",
       "summary": ""
     }
   ],
   "jleague": [
     {
       "team": "浦和レッズ",
-      "title": "2026.11.12チケット天皇杯 JFA 第106回全日本サッカー選手権大会 ラウンド16(4回戦) チケット販売について",
-      "link": "https://www.urawa-reds.co.jp/clubinfo/9030156.html",
-      "published": "2026.11.12",
+      "title": "2026.11.13試合・練習2026/27Jリーグ ヤマザキビスケット ルヴァンカップ プライムラウンド 準々決勝 第2戦 vs セレッソ大阪 試合情報",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/9030173.html",
+      "published": "2026.11.13",
       "summary": ""
     },
     {
       "team": "浦和レッズ",
-      "title": "2026.11.12チケット天皇杯 JFA 第106回全日本サッカー選手権大会 ラウンド16(4回戦) チケット販売について",
-      "link": "https://www.urawa-reds.co.jp/clubinfo/9030156.html",
-      "published": "2026.11.12",
+      "title": "2026.11.13試合・練習2026/27Jリーグ ヤマザキビスケット ルヴァンカップ プライムラウンド 準々決勝 第2戦 vs セレッソ大阪 試合情報",
+      "link": "https://www.urawa-reds.co.jp/topteamtopics/9030173.html",
+      "published": "2026.11.13",
       "summary": ""
     },
     {
@@ -60,93 +137,93 @@
     },
     {
       "team": "FC東京",
+      "title": "松橋力蔵監督 明治安田Ｊ１リーグ 10月度『月間監督賞』受賞のお知らせ",
+      "link": "https://www.fctokyo.co.jp/news/details/343931/",
+      "published": "Fri, 13 Nov 2026 16:00:00 +0000",
+      "summary": "<p>各月の明治安田Ｊ１リーグにおいて、最も優れたマネジメントをした監督を表彰するＪ１リーグ 10月度の『明治安田Ｊ１リーグ KONAMI 月間監督賞』に松橋力蔵監督が選出されましたので、お知らせいたします。<br />※選出理由等の詳細は<a href=\"https://www.jleague.jp/monthly_awards/2026/\">Jリーグ公式サイト</a>をご確認ください。</p>"
+    },
+    {
+      "team": "FC東京",
+      "title": "長倉幹樹選手 明治安田Ｊ１リーグ 10月度『月間MVP』受賞のお知らせ",
+      "link": "https://www.fctokyo.co.jp/news/details/343925/",
+      "published": "Fri, 13 Nov 2026 16:00:00 +0000",
+      "summary": "<p>各月の明治安田Ｊ１リーグにおいて、各月のリーグ戦において最も活躍した選手を表彰するＪ１リーグ 10月度の『明治安田Ｊ１リーグ KONAMI 月間MVP』に長倉幹樹選手が選出されましたので、お知らせいたします。<br />※選出理由等の詳細は<a href=\"https://www.jleague.jp/monthly_awards/2026/\">Jリーグ公式サイト</a>をご確認ください。<"
+    },
+    {
+      "team": "FC東京",
+      "title": "【年少～中学3年生対象】選手とのハイタッチに笑顔いっぱい！柏レイソル戦で特別なひとときを過ごしました！",
+      "link": "https://www.fctokyo.co.jp/school/report/343391/",
+      "published": "Fri, 13 Nov 2026 12:05:00 +0000",
+      "summary": "<p><img alt=\"\" class=\"alignnone size-full wp-image-343403\" height=\"1707\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/10/035A4725_3-scaled.jpg?x64424\" width=\"2560\" /></p><p><span style"
+    },
+    {
+      "team": "FC東京",
+      "title": "【全学年対象】水戸ホーリーホック戦にてホームゲームイベントを実施！",
+      "link": "https://www.fctokyo.co.jp/school/report/343510/",
+      "published": "Fri, 13 Nov 2026 12:00:00 +0000",
+      "summary": "<p>2026/27明治安田J1リーグ第12節 FC東京vs水戸ホーリーホックで、ホームゲームイベントを実施しました！</p><p>今回は味の素スタジアムでの開催となりました！</p><h2>ウォーミングアップ見学</h2><p>普段は立ち入れないピッチレベルからのウォーミングアップ見学。一歩足を踏み入れた瞬間、目の前に広がるスタジアムのスケールに、驚きの表情を浮かべる参加者の姿が見られました。<"
+    },
+    {
+      "team": "FC東京",
       "title": "12/4(金)川崎戦 『東京ガス パッチョ Day』にてMORE STARによる特別パフォーマンス決定！",
       "link": "https://www.fctokyo.co.jp/news/details/343908/",
       "published": "Thu, 12 Nov 2026 17:00:00 +0000",
       "summary": "<p>12月4日(金)2026/27明治安田Ｊ１リーグ第18節vs川崎フロンターレ (18:30キックオフ/ＭＵＦＧスタジアム(国立競技場))において、当日開催する『東京ガス パッチョ Day』の一環として、アソビシステムが手掛ける、アイドル文化を世界に向けて発信する新プロジェクト『KAWAII LAB.』より誕生したアイドルグループMORE STAR(モアスター)の来場が決定しました。<br /"
     },
     {
-      "team": "FC東京",
-      "title": "11/25(水)広島戦における観戦マナーの変更点について",
-      "link": "https://www.fctokyo.co.jp/news/details/342582/",
-      "published": "Thu, 12 Nov 2026 14:00:00 +0000",
-      "summary": "<p><span style=\"font-weight: 400;\">11月25日(水)2026/27明治安田Ｊ１リーグ第16節 vsサンフレッチェ広島(19:00キックオフ/味の素スタジアム)における観戦マナーについて、通常時と変更となる点がございますのでお知らせいたします。<br /></span><span style=\"font-weight: 400;\">※チケットの販売状況により開門時"
-    },
-    {
-      "team": "FC東京",
-      "title": "11/29(日) U-21長崎戦 ホームゲーム開催概要について",
-      "link": "https://www.fctokyo.co.jp/news/details/343913/",
-      "published": "Thu, 12 Nov 2026 12:00:00 +0000",
-      "summary": "<p><img alt=\"\" class=\"aligncenter size-large wp-image-343914\" height=\"576\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/11/1129_nagasaki-1024x576.jpg?x64424\" width=\"1024\" /></p><p>11月2"
-    },
-    {
-      "team": "FC東京",
-      "title": "【冠マッチ実施レポート】11月7日『明治安田 Day』を開催！",
-      "link": "https://www.fctokyo.co.jp/news/details/343883/",
-      "published": "Thu, 12 Nov 2026 11:00:00 +0000",
-      "summary": "<p><img alt=\"\" class=\"aligncenter size-full wp-image-343884\" height=\"470\" src=\"https://assets.fctokyo.co.jp/wp/wp-content/uploads/2026/11/001-1.png?x64424\" width=\"1210\" /></p><p>東京フットボールクラブ株式会社(FC東京)は"
-    },
-    {
-      "team": "FC東京",
-      "title": "『第36回小平市産業まつり』トークショー参加のお知らせ",
-      "link": "https://www.fctokyo.co.jp/news/details/343902/",
-      "published": "Thu, 12 Nov 2026 10:00:00 +0000",
-      "summary": "<p><span style=\"font-weight: 400;\">11月14日(土)に開催される『第36回小平市産業まつり』にて実施される『</span><span style=\"font-weight: 400;\">選手トークショー』にニコライ ヴァリス選手が参加いたします。<br /></span><span style=\"font-weight: 400;\">当日はトークショーのほかにも"
-    },
-    {
       "team": "ガンバ大阪",
-      "title": "26.11.13［インフォメーション］12/19（土）明治安田J1 第20節 町田戦 ビジターサポーターの皆様へ",
-      "link": "https://www.gamba-osaka.net/news/index/no/20697/c/0/year/2026/month/11/",
+      "title": "26.11.13［インフォメーション］11/21（土）明治安田J1 第15節 岡山戦 モフレムの旗楊枝がスタグルをジャック！",
+      "link": "https://www.gamba-osaka.net/news/index/no/21275/c/0/year/2026/month/11/",
       "published": "26.11.13［インフォメーション］",
       "summary": ""
     },
     {
       "team": "ヴィッセル神戸",
-      "title": "NEWS最新ニュース2026/11/12MF髙橋壱晟選手に第二子誕生のお知らせチーム2026/11/12第106回天皇杯 ラウンド16vs.清水 開催情報のお知らせクラブ2026/11/1211/15",
-      "link": "https://www.vissel-kobe.co.jp/news/article/27199.html",
-      "published": "2026/11/12",
+      "title": "NEWS最新ニュース2026/11/13フジテレビ「けるとめる」にてヴィッセル神戸特集のお知らせメディア2026/11/1311/22（日）vs.U-21FC東京にてU-21 Ｊリーグ交流戦 ラウンド",
+      "link": "https://www.vissel-kobe.co.jp/news/article/27201.html",
+      "published": "2026/11/13",
       "summary": ""
     },
     {
       "team": "名古屋グランパス",
-      "title": "【GRAMPUS DREAM】11/29（日）福岡戦 『サステナEXPO～サッカーがつなぐ未来～』国際交流サッカー大会\"WORLD MIX 2026\"開催並びに日本チームメンバー募集のお知らせ",
-      "link": "https://nagoya-grampus.jp/news/hometown/2026/1112grampus-dream1129-expoworld-mix-2026.php",
+      "title": "11/13（金）今週のグッズ担当イチオシアイテム！",
+      "link": "https://nagoya-grampus.jp/news/goods/2026/1113-1113.php",
       "published": "2026-11-13",
-      "summary": "【GRAMPUS DREAM】11/29（日）福岡戦 『サステナEXPO～サッカーがつなぐ未来～』国際交流サッカー大会\"WORLD MIX 2026\"開催並びに日本チームメンバー募集のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+      "summary": "11/13（金）今週のグッズ担当イチオシアイテム！。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
-      "title": "11月14日（土）練習試合 vs FC刈谷・ワイヴァン知立  公開のお知らせ",
-      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/11121114-vs-fc.php",
+      "title": "『U12ガールズクラス開催』パロマ瑞穂公園で小学校1～6年女子対象サッカークラス参加者募集のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/school/2026/1113u1216.php",
       "published": "2026-11-13",
-      "summary": "11月14日（土）練習試合 vs FC刈谷・ワイヴァン知立  公開のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+      "summary": "『U12ガールズクラス開催』パロマ瑞穂公園で小学校1～6年女子対象サッカークラス参加者募集のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
-      "title": "月刊グラン12月号のご紹介［甲田英將選手インタビュー］",
-      "link": "https://nagoya-grampus.jp/news/misc/2026/111212-32.php",
+      "title": "立野 京弥選手 JFA・Ｊリーグ特別指定選手決定のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/1113-jfa-108.php",
       "published": "2026-11-13",
-      "summary": "月刊グラン12月号のご紹介［甲田英將選手インタビュー］。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+      "summary": "立野 京弥選手 JFA・Ｊリーグ特別指定選手決定のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
-      "title": "「第6回名古屋グランパスアカデミーGKスクール」を開催",
-      "link": "https://nagoya-grampus.jp/news/youth/2026/11126gk-3.php",
+      "title": "選手が名古屋・豊田・みよしの小学校を訪問（11/4［水］実施分）",
+      "link": "https://nagoya-grampus.jp/news/hometown/2026/1113114-4.php",
       "published": "2026-11-13",
-      "summary": "「第6回名古屋グランパスアカデミーGKスクール」を開催。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+      "summary": "選手が名古屋・豊田・みよしの小学校を訪問（11/4［水］実施分）。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "名古屋グランパス",
-      "title": "立野 京弥選手 2027/28シーズン加入内定のお知らせ",
-      "link": "https://nagoya-grampus.jp/news/pressrelease/2026/1112-202728.php",
+      "title": "【2026/27シーズン選手着用モデル】 Mizuno × Nagoya Grampus 新商品 「CITY WIND スニーカー」 販売のお知らせ",
+      "link": "https://nagoya-grampus.jp/news/goods/2026/1113202627-mizuno-nagoya-grampus-city-wind.php",
       "published": "2026-11-13",
-      "summary": "立野 京弥選手 2027/28シーズン加入内定のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
+      "summary": "【2026/27シーズン選手着用モデル】 Mizuno × Nagoya Grampus 新商品 「CITY WIND スニーカー」 販売のお知らせ。ニュースのページです。日本の愛知県名古屋市を本拠地とする、日本プロサッカーリーグ（Jリーグ）加盟のプロサッカークラブ「名古屋グランパス」の公式サイトです。"
     },
     {
       "team": "サンフレッチェ広島",
-      "title": "【11/12更新】広島の冬のはじまりは、エディオンピースウイング広島から。「VIOLET CHRISTMAS 2026」開催！2026.10.02イベント・グルメ",
-      "link": "https://www.sanfrecce.co.jp/news/event/12900",
-      "published": "2026.10.02",
+      "title": "【重要】11/21（土）vs.横浜FM スタジアムイベント当選結果のご確認について2026.11.13サンフレッチェクラブ",
+      "link": "https://www.sanfrecce.co.jp/news/fanclub/13065",
+      "published": "2026.11.13",
       "summary": ""
     }
   ],
@@ -222,5 +299,5 @@
       "summary": ""
     }
   ],
-  "updated_at": "2026-11-13T01:43:30.828316"
+  "updated_at": "2026-11-13T10:27:14.468984"
 }
